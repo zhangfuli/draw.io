@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T03:02:49.107Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="YzBpDHDihkb0nfnPlkPQ" version="22.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T03:03:07.141Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="H022xd-LtjC38LSHQSho" version="22.0.5" type="github">
   <diagram name="第 1 页" id="RtVHch0WJ_2LDpSuCrDi">
     <mxGraphModel dx="1061" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,9 +51,6 @@
         </mxCell>
         <mxCell id="N18l0JLpeIEEWhaoZLQ6-1" value="zhivago-mapper-${regionid}.yaml" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=13;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="N18l0JLpeIEEWhaoZLQ6-29">
           <mxGeometry x="6" y="3.2" width="190" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="N18l0JLpeIEEWhaoZLQ6-30" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="370" width="510" height="320" as="geometry" />
         </mxCell>
         <mxCell id="N18l0JLpeIEEWhaoZLQ6-35" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="300" y="448" width="88" height="41" as="geometry" />
@@ -109,8 +106,14 @@
         <mxCell id="N18l0JLpeIEEWhaoZLQ6-55" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="540" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N18l0JLpeIEEWhaoZLQ6-56" value="$regionid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="370" width="60" height="30" as="geometry" />
+        <mxCell id="N18l0JLpeIEEWhaoZLQ6-58" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="628.1800000000001" y="360" width="510" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="N18l0JLpeIEEWhaoZLQ6-56" value="$regionid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="N18l0JLpeIEEWhaoZLQ6-58">
+          <mxGeometry width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N18l0JLpeIEEWhaoZLQ6-30" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="380" width="510" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
