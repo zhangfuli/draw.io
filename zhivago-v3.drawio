@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T08:38:48.720Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="bkk2KsN1pe7Fy3-Nr9Ng" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T08:39:54.159Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="X-5MnGLt97jHR65wxzHQ" version="22.1.11" type="github">
   <diagram name="第 1 页" id="jjV6L2uMsxcf110h-NHD">
     <mxGraphModel dx="751" dy="413" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,14 +62,14 @@
         <mxCell id="vkkQOnORTPZ0EyA8R30g-28" value="irams-kafka" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="332" y="310" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vkkQOnORTPZ0EyA8R30g-34" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. 消费delay大&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. region不隔离&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="vkkQOnORTPZ0EyA8R30g-34" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. 消费delay大&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. region不隔离&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="327" y="410" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vkkQOnORTPZ0EyA8R30g-38" value="消费" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1290" y="70" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="vkkQOnORTPZ0EyA8R30g-41" value="1. 单一职责(生产消费/export-scrape)&lt;br&gt;2. label冗余/硬编码" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="426" y="410" width="210" height="30" as="geometry" />
+        <mxCell id="vkkQOnORTPZ0EyA8R30g-41" value="1. 单一职责(生产消费)&lt;br&gt;2. label冗余/硬编码" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="426" y="410" width="155" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vkkQOnORTPZ0EyA8R30g-46" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vkkQOnORTPZ0EyA8R30g-42" target="vkkQOnORTPZ0EyA8R30g-44">
           <mxGeometry relative="1" as="geometry" />
@@ -116,8 +116,8 @@
         <mxCell id="vkkQOnORTPZ0EyA8R30g-70" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=7.75;" vertex="1" parent="1">
           <mxGeometry x="1180" y="163.75" width="50" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="vkkQOnORTPZ0EyA8R30g-71" value="1. 嵌套计算, 计算量大&lt;br&gt;2. 规则维护复杂" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="422" y="145.25" width="194" height="30" as="geometry" />
+        <mxCell id="vkkQOnORTPZ0EyA8R30g-71" value="1. 嵌套计算, 计算量大&lt;br&gt;2. 规则维护复杂" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="422" y="145.25" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vkkQOnORTPZ0EyA8R30g-72" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1270" y="200" width="120" height="60" as="geometry" />
@@ -128,11 +128,11 @@
         <mxCell id="vkkQOnORTPZ0EyA8R30g-74" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=7.75;" vertex="1" parent="1">
           <mxGeometry x="1180" y="290" width="50" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="vkkQOnORTPZ0EyA8R30g-76" value="&lt;div style=&quot;&quot;&gt;1. 指标种类固定&lt;/div&gt;&lt;div style=&quot;&quot;&gt;2. 指标上报链路长&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="144" y="410" width="140" height="30" as="geometry" />
+        <mxCell id="vkkQOnORTPZ0EyA8R30g-76" value="&lt;div style=&quot;&quot;&gt;1. 指标种类固定&lt;/div&gt;&lt;div style=&quot;&quot;&gt;2. 指标上报链路长&lt;/div&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="407" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vkkQOnORTPZ0EyA8R30g-77" value="1. 数据冗余双写(all/hna)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="650.59" y="407" width="194" height="30" as="geometry" />
+        <mxCell id="vkkQOnORTPZ0EyA8R30g-77" value="1. 数据冗余双写(all/hna)" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="613" y="407" width="134" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vkkQOnORTPZ0EyA8R30g-85" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="644.41" y="267.12" width="73" height="35.75" as="geometry" />
