@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T07:03:50.364Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="fVbD6uT_l-y6Tmb7Z-Tl" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T07:04:38.640Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="NKFgw7OdTcrsScLr44kr" version="22.1.11" type="github">
   <diagram name="第 1 页" id="jjV6L2uMsxcf110h-NHD">
     <mxGraphModel dx="901" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
           <mxGeometry x="340" y="310" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vkkQOnORTPZ0EyA8R30g-34" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. 消费delay大&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. kafka region不隔离&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="410" width="140" height="30" as="geometry" />
+          <mxGeometry x="310" y="410" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vkkQOnORTPZ0EyA8R30g-38" value="消费" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="90" width="80" height="35" as="geometry" />
@@ -141,7 +141,7 @@
         <mxCell id="vkkQOnORTPZ0EyA8R30g-74" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=7.75;" vertex="1" parent="1">
           <mxGeometry x="700" y="310" width="50" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="vkkQOnORTPZ0EyA8R30g-76" value="&lt;div style=&quot;&quot;&gt;1. 指标内容/量固定&lt;/div&gt;&lt;div style=&quot;&quot;&gt;2. 指标上报链路长&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="vkkQOnORTPZ0EyA8R30g-76" value="&lt;div style=&quot;&quot;&gt;1. 指标种类固定&lt;/div&gt;&lt;div style=&quot;&quot;&gt;2. 指标上报链路长&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="410" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vkkQOnORTPZ0EyA8R30g-77" value="1. 数据双写(all/hna)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
