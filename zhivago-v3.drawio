@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T08:43:27.932Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="C_G2RYzDmOJGE0YIeOfI" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T08:44:26.229Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="LIHVcAfxNd5djm6ZweN7" version="22.1.11" type="github">
   <diagram name="第 1 页" id="jjV6L2uMsxcf110h-NHD">
     <mxGraphModel dx="751" dy="413" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,7 +51,7 @@
             <mxPoint x="396" y="287.5000000000001" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vkkQOnORTPZ0EyA8R30g-27" value="odin-kafka" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="vkkQOnORTPZ0EyA8R30g-27" value="odin-kafka" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="332" y="272.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vkkQOnORTPZ0EyA8R30g-56" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.044;entryY=0.658;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vkkQOnORTPZ0EyA8R30g-28" target="vkkQOnORTPZ0EyA8R30g-43">
@@ -59,7 +59,7 @@
             <mxPoint x="396" y="325.0000000000001" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vkkQOnORTPZ0EyA8R30g-28" value="irams-kafka" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="vkkQOnORTPZ0EyA8R30g-28" value="irams-kafka" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="332" y="310" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vkkQOnORTPZ0EyA8R30g-34" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. 消费delay大&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. region不隔离&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
@@ -83,10 +83,10 @@
         <mxCell id="vkkQOnORTPZ0EyA8R30g-44" value="k8s状态指标" style="shape=or;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="436" y="339.25" width="40" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="vkkQOnORTPZ0EyA8R30g-57" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="vkkQOnORTPZ0EyA8R30g-57" value="" style="group;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="485" y="273.75" width="80" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="vkkQOnORTPZ0EyA8R30g-39" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="vkkQOnORTPZ0EyA8R30g-57">
+        <mxCell id="vkkQOnORTPZ0EyA8R30g-39" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="vkkQOnORTPZ0EyA8R30g-57">
           <mxGeometry width="80" height="119" as="geometry" />
         </mxCell>
         <mxCell id="vkkQOnORTPZ0EyA8R30g-47" value="tor" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="vkkQOnORTPZ0EyA8R30g-57">
