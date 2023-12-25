@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T01:29:11.043Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="RG31uqA6UkCUP4_WzVC6" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T01:38:11.971Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="czQYLuwihVlvLCPBGosH" version="22.1.11" type="github">
   <diagram name="第 1 页" id="jjV6L2uMsxcf110h-NHD">
-    <mxGraphModel dx="729" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="901" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -143,6 +143,9 @@
         </mxCell>
         <mxCell id="vkkQOnORTPZ0EyA8R30g-76" value="&lt;div style=&quot;&quot;&gt;1. 指标内容/量固定&lt;/div&gt;&lt;div style=&quot;&quot;&gt;2. 指标上报链路长&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="410" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vkkQOnORTPZ0EyA8R30g-77" value="1. 数据双写(all/hna)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="696" y="410" width="194" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
