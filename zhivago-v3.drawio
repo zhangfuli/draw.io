@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T03:24:39.428Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="jSd5Q6w4uN28oYBMxmF8" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-26T03:26:59.718Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="cOuwlJ4ZmToikVtk6cT-" version="22.1.11" type="github">
   <diagram name="第 1 页" id="jjV6L2uMsxcf110h-NHD">
     <mxGraphModel dx="1333" dy="568" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -209,13 +209,13 @@
           <mxGeometry x="-28" y="536" width="105" height="46" as="geometry" />
         </mxCell>
         <mxCell id="OwkdVornk61Pdd3UHWY2-7" value="ksm(apiserver)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="83" y="714.5" width="105" height="46" as="geometry" />
+          <mxGeometry x="24" y="714.5" width="105" height="46" as="geometry" />
         </mxCell>
         <mxCell id="OwkdVornk61Pdd3UHWY2-9" value="k8s_sd_config" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="234" y="643" width="105.5" height="46" as="geometry" />
+          <mxGeometry x="199" y="731" width="105.5" height="46" as="geometry" />
         </mxCell>
         <mxCell id="OwkdVornk61Pdd3UHWY2-10" value="kafka_sd_config" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="234" y="723" width="105.5" height="46" as="geometry" />
+          <mxGeometry x="199" y="656" width="105.5" height="46" as="geometry" />
         </mxCell>
         <mxCell id="OwkdVornk61Pdd3UHWY2-24" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OwkdVornk61Pdd3UHWY2-11">
           <mxGeometry relative="1" as="geometry">
@@ -273,7 +273,7 @@
           <mxGeometry width="105" height="46" as="geometry" />
         </mxCell>
         <mxCell id="OwkdVornk61Pdd3UHWY2-33" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="364" y="690" width="110" height="52" as="geometry" />
+          <mxGeometry x="347" y="689" width="110" height="52" as="geometry" />
         </mxCell>
         <mxCell id="OwkdVornk61Pdd3UHWY2-8" value="scrapeWork" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OwkdVornk61Pdd3UHWY2-33">
           <mxGeometry x="5" y="6" width="105" height="46" as="geometry" />
@@ -285,7 +285,7 @@
           <mxGeometry x="254" y="515" width="97" height="48" as="geometry" />
         </mxCell>
         <mxCell id="OwkdVornk61Pdd3UHWY2-35" value="cAdvisor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="83" y="631" width="105" height="46" as="geometry" />
+          <mxGeometry x="24" y="631" width="105" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
