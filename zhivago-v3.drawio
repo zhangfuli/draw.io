@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T03:18:51.881Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="oGXePie9Nh16yWC4l7pI" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-26T03:21:21.946Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="HMJuNfM4Wuw_qk2TDMjy" version="22.1.11" type="github">
   <diagram name="第 1 页" id="jjV6L2uMsxcf110h-NHD">
     <mxGraphModel dx="933" dy="568" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -217,16 +217,21 @@
         <mxCell id="OwkdVornk61Pdd3UHWY2-10" value="kafka_sd_config" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="234" y="723" width="105.5" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="OwkdVornk61Pdd3UHWY2-24" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OwkdVornk61Pdd3UHWY2-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="594" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OwkdVornk61Pdd3UHWY2-11" value="scrapeAndLogError" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="531.22" y="601.5" width="124.89" height="46" as="geometry" />
+          <mxGeometry x="531.22" y="597" width="124.89" height="46" as="geometry" />
         </mxCell>
         <mxCell id="OwkdVornk61Pdd3UHWY2-12" value="remoteWrite" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="726" y="695" width="105" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="OwkdVornk61Pdd3UHWY2-13" value="vm-select" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OwkdVornk61Pdd3UHWY2-13" value="vm-storage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="865" y="627" width="105" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="OwkdVornk61Pdd3UHWY2-16" value="remoteWrite" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OwkdVornk61Pdd3UHWY2-16" value="vm-storage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="868" y="714.5" width="105" height="46" as="geometry" />
         </mxCell>
         <mxCell id="OwkdVornk61Pdd3UHWY2-17" value="开源组件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -235,14 +240,34 @@
         <mxCell id="OwkdVornk61Pdd3UHWY2-19" value="scrapeWork" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="689" width="105" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="OwkdVornk61Pdd3UHWY2-26" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OwkdVornk61Pdd3UHWY2-20" target="OwkdVornk61Pdd3UHWY2-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OwkdVornk61Pdd3UHWY2-20" value="processScrapedData（按行解析）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="531.22" y="668.5" width="124.89" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="OwkdVornk61Pdd3UHWY2-27" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OwkdVornk61Pdd3UHWY2-21" target="OwkdVornk61Pdd3UHWY2-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OwkdVornk61Pdd3UHWY2-21" value="relabel(metric_relabel)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="531.22" y="735" width="124.89" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="OwkdVornk61Pdd3UHWY2-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OwkdVornk61Pdd3UHWY2-23" target="OwkdVornk61Pdd3UHWY2-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="594.4166666666667" y="920" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="594" y="860" />
+              <mxPoint x="676" y="860" />
+              <mxPoint x="676" y="570" />
+              <mxPoint x="594" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OwkdVornk61Pdd3UHWY2-23" value="pushData" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="531.22" y="801" width="124.89" height="46" as="geometry" />
+          <mxGeometry x="531.94" y="801" width="124.89" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="OwkdVornk61Pdd3UHWY2-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OwkdVornk61Pdd3UHWY2-20" target="OwkdVornk61Pdd3UHWY2-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
