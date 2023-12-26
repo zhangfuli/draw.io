@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T03:17:59.611Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ET2Cym5Kk9c64FOK_e70" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-26T03:18:23.489Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="AtkPQY3OLLn7qXxrB4VQ" version="22.1.11" type="github">
   <diagram name="第 1 页" id="jjV6L2uMsxcf110h-NHD">
     <mxGraphModel dx="933" dy="568" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -218,7 +218,7 @@
           <mxGeometry x="234" y="723" width="105.5" height="46" as="geometry" />
         </mxCell>
         <mxCell id="OwkdVornk61Pdd3UHWY2-11" value="scrapeAndLogError" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="551.11" y="635" width="124.89" height="46" as="geometry" />
+          <mxGeometry x="531.22" y="601.5" width="124.89" height="46" as="geometry" />
         </mxCell>
         <mxCell id="OwkdVornk61Pdd3UHWY2-12" value="remoteWrite" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="743" y="681" width="105" height="46" as="geometry" />
@@ -236,13 +236,13 @@
           <mxGeometry x="375" y="689" width="105" height="46" as="geometry" />
         </mxCell>
         <mxCell id="OwkdVornk61Pdd3UHWY2-20" value="processScrapedData（按行解析）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="551.11" y="702" width="124.89" height="46" as="geometry" />
+          <mxGeometry x="531.22" y="668.5" width="124.89" height="46" as="geometry" />
         </mxCell>
         <mxCell id="OwkdVornk61Pdd3UHWY2-21" value="relabel(metric_relabel)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="551.11" y="764" width="124.89" height="46" as="geometry" />
+          <mxGeometry x="531.22" y="735" width="124.89" height="46" as="geometry" />
         </mxCell>
         <mxCell id="OwkdVornk61Pdd3UHWY2-23" value="pushData" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="551.11" y="826" width="124.89" height="46" as="geometry" />
+          <mxGeometry x="531.22" y="801" width="124.89" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
