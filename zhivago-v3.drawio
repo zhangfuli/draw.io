@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T03:31:21.447Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="2wSjgCmfIpZq8oKsUd7S" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-26T03:35:57.387Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="jCq1MdmlVx38NnF9goT5" version="22.1.11" type="github">
   <diagram name="第 1 页" id="jjV6L2uMsxcf110h-NHD">
-    <mxGraphModel dx="1333" dy="568" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="933" dy="568" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OwkdVornk61Pdd3UHWY2-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="171" y="586" width="144" height="256" as="geometry" />
+        </mxCell>
         <mxCell id="OwkdVornk61Pdd3UHWY2-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="499" y="551" width="202" height="320" as="geometry" />
         </mxCell>
@@ -202,12 +205,6 @@
         <mxCell id="OwkdVornk61Pdd3UHWY2-2" value="指标" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="732" y="212" width="53.59" height="23.25" as="geometry" />
         </mxCell>
-        <mxCell id="OwkdVornk61Pdd3UHWY2-5" value="machinInfo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-28" y="482" width="105" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="OwkdVornk61Pdd3UHWY2-6" value="containerInfo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-28" y="536" width="105" height="46" as="geometry" />
-        </mxCell>
         <mxCell id="OwkdVornk61Pdd3UHWY2-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OwkdVornk61Pdd3UHWY2-7" target="OwkdVornk61Pdd3UHWY2-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -285,7 +282,7 @@
           <mxGeometry width="105" height="46" as="geometry" />
         </mxCell>
         <mxCell id="OwkdVornk61Pdd3UHWY2-34" value="scrape_configs" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=15;" vertex="1" parent="1">
-          <mxGeometry x="16" y="603" width="97" height="48" as="geometry" />
+          <mxGeometry x="25.5" y="595" width="97" height="48" as="geometry" />
         </mxCell>
         <mxCell id="OwkdVornk61Pdd3UHWY2-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OwkdVornk61Pdd3UHWY2-35" target="OwkdVornk61Pdd3UHWY2-9">
           <mxGeometry relative="1" as="geometry">
@@ -298,14 +295,17 @@
         <mxCell id="OwkdVornk61Pdd3UHWY2-36" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.521;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OwkdVornk61Pdd3UHWY2-19" target="OwkdVornk61Pdd3UHWY2-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OwkdVornk61Pdd3UHWY2-37" value="xxx_sd_config" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="187" y="605" width="105.5" height="46" as="geometry" />
-        </mxCell>
         <mxCell id="OwkdVornk61Pdd3UHWY2-41" value="static_sd_config" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="187" y="724" width="105.5" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="OwkdVornk61Pdd3UHWY2-44" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OwkdVornk61Pdd3UHWY2-43" target="OwkdVornk61Pdd3UHWY2-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OwkdVornk61Pdd3UHWY2-43" value="kafka" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="15" y="672" width="101" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OwkdVornk61Pdd3UHWY2-53" value="xxxxx_sd_config" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="187" y="604" width="105.5" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
