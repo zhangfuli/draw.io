@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-03T08:07:24.610Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="6mdT4XghKQrwRARAfbz_" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-03T09:38:39.971Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="GIQUdEvUxvG9DTum9mwp" version="22.1.15" type="github">
   <diagram name="第 1 页" id="jjV6L2uMsxcf110h-NHD">
     <mxGraphModel dx="1766" dy="644" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -449,11 +449,11 @@
         <mxCell id="UdegoCsH7mk-J5_5EE4P-2" value="vm-agent" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="349" y="559" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UdegoCsH7mk-J5_5EE4P-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UdegoCsH7mk-J5_5EE4P-3" target="UdegoCsH7mk-J5_5EE4P-11">
+        <mxCell id="UdegoCsH7mk-J5_5EE4P-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UdegoCsH7mk-J5_5EE4P-72" target="UdegoCsH7mk-J5_5EE4P-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UdegoCsH7mk-J5_5EE4P-3" value="apiserver" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-4.449999999999999" y="1170.9999999999998" width="106" height="45.5" as="geometry" />
+          <mxGeometry x="1.8300000000000005" y="1175.4999999999998" width="106" height="45.5" as="geometry" />
         </mxCell>
         <mxCell id="UdegoCsH7mk-J5_5EE4P-50" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UdegoCsH7mk-J5_5EE4P-4" target="UdegoCsH7mk-J5_5EE4P-11">
           <mxGeometry relative="1" as="geometry" />
@@ -519,16 +519,13 @@
           <mxGeometry x="305.55" y="1201.75" width="79" height="19.25" as="geometry" />
         </mxCell>
         <mxCell id="UdegoCsH7mk-J5_5EE4P-44" value="bussiness" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="243.34" y="1032.87" width="66" height="40.25" as="geometry" />
+          <mxGeometry x="173.5" y="1033.12" width="66" height="40.25" as="geometry" />
         </mxCell>
         <mxCell id="UdegoCsH7mk-J5_5EE4P-45" value="odin-tree" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="327.75" y="1032.87" width="67" height="40.25" as="geometry" />
+          <mxGeometry x="293" y="1032.87" width="67" height="40.25" as="geometry" />
         </mxCell>
         <mxCell id="UdegoCsH7mk-J5_5EE4P-46" value="tor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="413.25" y="1032.87" width="72" height="40.25" as="geometry" />
-        </mxCell>
-        <mxCell id="UdegoCsH7mk-J5_5EE4P-47" value="informer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="154.25" y="1032.87" width="69" height="40.25" as="geometry" />
         </mxCell>
         <mxCell id="UdegoCsH7mk-J5_5EE4P-54" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=9.333333333333334;endSize=7.073333333333333;endWidth=12.444444444444443;fillColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -571,6 +568,9 @@
         </mxCell>
         <mxCell id="UdegoCsH7mk-J5_5EE4P-70" value="外部系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="686.5" y="1129" width="56" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="UdegoCsH7mk-J5_5EE4P-72" value="apiserver" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-4.720000000000001" y="1168.4999999999998" width="106" height="45.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
