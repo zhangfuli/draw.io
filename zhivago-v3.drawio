@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-03T03:43:31.413Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="IkVemuJLbY_D0mE9Jbsw" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-03T03:51:59.552Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="7xGZUbTTRjrbk4wWbjVR" version="22.1.15" type="github">
   <diagram name="第 1 页" id="jjV6L2uMsxcf110h-NHD">
     <mxGraphModel dx="1647" dy="588" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -459,10 +459,19 @@
           <mxGeometry x="-17.75" y="982" width="102" height="48" as="geometry" />
         </mxCell>
         <mxCell id="UdegoCsH7mk-J5_5EE4P-9" value="promHandler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="402.11000000000007" y="1118" width="124.89" height="46" as="geometry" />
+          <mxGeometry x="402.11000000000007" y="1123" width="124.89" height="46" as="geometry" />
         </mxCell>
         <mxCell id="UdegoCsH7mk-J5_5EE4P-10" value="cache" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="221" y="1118" width="105.5" height="46" as="geometry" />
+          <mxGeometry x="252.5" y="1123" width="105.5" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="UdegoCsH7mk-J5_5EE4P-11" value="scrape" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="161" y="1016" width="105.5" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="UdegoCsH7mk-J5_5EE4P-12" value="label" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="363" y="1016" width="105.5" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="UdegoCsH7mk-J5_5EE4P-13" value="demonset 获取本机pod信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="124" y="1265" width="166" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
