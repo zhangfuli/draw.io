@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-03T07:05:20.561Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="uPBDx52gQS9x07RVq9WZ" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-03T07:05:44.401Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="aMqwlVxXpWcs_XxYPZmU" version="22.1.15" type="github">
   <diagram name="第 1 页" id="jjV6L2uMsxcf110h-NHD">
     <mxGraphModel dx="1356" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -447,7 +447,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UdegoCsH7mk-J5_5EE4P-3" value="ksm(apiserver)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="7" y="1073.6299999999999" width="106" height="45.5" as="geometry" />
+          <mxGeometry x="3.5" y="1073.4999999999998" width="106" height="45.5" as="geometry" />
         </mxCell>
         <mxCell id="UdegoCsH7mk-J5_5EE4P-50" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UdegoCsH7mk-J5_5EE4P-4" target="UdegoCsH7mk-J5_5EE4P-11">
           <mxGeometry relative="1" as="geometry" />
@@ -462,7 +462,7 @@
           <mxGeometry x="517.56" y="931" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="UdegoCsH7mk-J5_5EE4P-8" value="configs" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2" y="949.38" width="102" height="48" as="geometry" />
+          <mxGeometry x="3.5" y="940" width="102" height="48" as="geometry" />
         </mxCell>
         <mxCell id="UdegoCsH7mk-J5_5EE4P-9" value="promHandler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="518.6700000000002" y="1011.25" width="124.89" height="46" as="geometry" />
@@ -470,7 +470,7 @@
         <mxCell id="UdegoCsH7mk-J5_5EE4P-10" value="cache" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="1011.25" width="44" height="118.75" as="geometry" />
         </mxCell>
-        <mxCell id="UdegoCsH7mk-J5_5EE4P-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UdegoCsH7mk-J5_5EE4P-11" target="UdegoCsH7mk-J5_5EE4P-16">
+        <mxCell id="UdegoCsH7mk-J5_5EE4P-52" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UdegoCsH7mk-J5_5EE4P-11" target="UdegoCsH7mk-J5_5EE4P-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UdegoCsH7mk-J5_5EE4P-11" value="scrape" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
