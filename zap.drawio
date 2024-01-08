@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T09:51:47.665Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="0FupQig3OGKY-zPS2b4r" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-08T09:55:30.416Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Lj9H9y83DbMljNv8ZAtF" version="22.1.15" type="github">
   <diagram name="第 1 页" id="c3CVn7U9iT80IM2gGRh5">
     <mxGraphModel dx="989" dy="466" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -109,7 +109,34 @@
           <mxGeometry x="661.7" y="563" width="34.1" height="27.07" as="geometry" />
         </mxCell>
         <mxCell id="ICIyuwD22raculDdOp2F-44" value="logger.Info" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="175" y="874" width="87" height="35" as="geometry" />
+          <mxGeometry x="143" y="836" width="87" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ICIyuwD22raculDdOp2F-45" value="检查日志等级" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="348" y="836" width="87" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ICIyuwD22raculDdOp2F-46" value="构建Entry" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="348" y="891" width="87" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ICIyuwD22raculDdOp2F-47" value="Check" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="350.87" y="959" width="87" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ICIyuwD22raculDdOp2F-48" value="Write" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="348" y="1068" width="87" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ICIyuwD22raculDdOp2F-49" value="检查日志等级" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#f5f5f5;sketch=1;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="567" y="838.5" width="123" height="30.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ICIyuwD22raculDdOp2F-50" value="从syncPool中拿CheckedEntry" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#f5f5f5;sketch=1;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="568.5" y="885" width="122.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ICIyuwD22raculDdOp2F-51" value="根据Config判断是否打印caller、堆栈等" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#f5f5f5;sketch=1;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="567" y="932" width="122" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="ICIyuwD22raculDdOp2F-52" value="检查CheckedEntry reset状态" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#f5f5f5;sketch=1;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="568" y="1009" width="122" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="ICIyuwD22raculDdOp2F-53" value="向每个core中" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#f5f5f5;sketch=1;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="568.5" y="1060" width="122" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
