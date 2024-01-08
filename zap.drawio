@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T02:28:47.240Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="t1dKb9mvDjcvH16HLvYu" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-08T02:29:31.418Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="kS5K3sa8cDj4kp17YwVQ" version="22.1.15" type="github">
   <diagram name="第 1 页" id="c3CVn7U9iT80IM2gGRh5">
     <mxGraphModel dx="989" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ICIyuwD22raculDdOp2F-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="194" y="330" width="440" height="70" as="geometry" />
+          <mxGeometry x="188" y="320" width="446" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ICIyuwD22raculDdOp2F-1" value="zap" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="60" width="110" height="40" as="geometry" />
@@ -37,14 +37,14 @@
         <mxCell id="ICIyuwD22raculDdOp2F-7" value="NewDevelopment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="350" y="200" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ICIyuwD22raculDdOp2F-8" value="New(core, options)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="94" y="200" width="100" height="30" as="geometry" />
+        <mxCell id="ICIyuwD22raculDdOp2F-8" value="New(core, options)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="331.25" y="480" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ICIyuwD22raculDdOp2F-9" value="EncoderConfig" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;" vertex="1" parent="1">
           <mxGeometry x="290" y="275" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ICIyuwD22raculDdOp2F-11" value="Encoder(json|console)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="208.75" y="350" width="122.5" height="30" as="geometry" />
+          <mxGeometry x="207" y="330" width="122.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ICIyuwD22raculDdOp2F-20" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.619;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ICIyuwD22raculDdOp2F-13" target="ICIyuwD22raculDdOp2F-19">
           <mxGeometry relative="1" as="geometry" />
@@ -59,10 +59,10 @@
           <mxGeometry x="710" y="170" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ICIyuwD22raculDdOp2F-22" value="WriteSyncer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="352.75" y="350" width="122.5" height="30" as="geometry" />
+          <mxGeometry x="351" y="330" width="122.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ICIyuwD22raculDdOp2F-23" value="LevelEnabler" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="500" y="350" width="122.5" height="30" as="geometry" />
+          <mxGeometry x="498.25" y="330" width="122.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
