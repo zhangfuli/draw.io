@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T02:30:08.064Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="h9v9_fSjKRzWu39cviMs" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-10T02:30:48.735Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="4-GXJlz3LiKNF3SWvpGR" version="22.1.15" type="github">
   <diagram name="第 1 页" id="jjV6L2uMsxcf110h-NHD">
     <mxGraphModel dx="1219" dy="786" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -576,7 +576,22 @@
           <mxGeometry x="61.75" y="-232" width="78" height="28" as="geometry" />
         </mxCell>
         <mxCell id="UdegoCsH7mk-J5_5EE4P-79" value="processor1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="215" y="-277" width="78" height="28" as="geometry" />
+          <mxGeometry x="196.55" y="-277" width="78" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="UdegoCsH7mk-J5_5EE4P-80" value="processor2" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="304" y="-277" width="78" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="UdegoCsH7mk-J5_5EE4P-81" value="processor3" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="414.5" y="-277" width="78" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="UdegoCsH7mk-J5_5EE4P-82" value="exporter1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="568" y="-319" width="78" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="UdegoCsH7mk-J5_5EE4P-83" value="exporter2" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-275" width="78" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="UdegoCsH7mk-J5_5EE4P-84" value="exporter3" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-232" width="78" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
