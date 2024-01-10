@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-03T09:38:39.971Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="GIQUdEvUxvG9DTum9mwp" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-10T02:25:23.123Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="eRbAzcGK_n8i5cl63Olp" version="22.1.15" type="github">
   <diagram name="第 1 页" id="jjV6L2uMsxcf110h-NHD">
     <mxGraphModel dx="1766" dy="644" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -484,12 +484,6 @@
         </mxCell>
         <mxCell id="UdegoCsH7mk-J5_5EE4P-11" value="scrape" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="153.55" y="1111.88" width="121" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="UdegoCsH7mk-J5_5EE4P-13" value="demonset 获取本机pod信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="243" y="1424" width="166" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="UdegoCsH7mk-J5_5EE4P-15" value="对业务链接的压力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="269.5" y="1485" width="114" height="26" as="geometry" />
         </mxCell>
         <mxCell id="UdegoCsH7mk-J5_5EE4P-16" value="processScrapedData" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="153.05" y="1182.75" width="121" height="46" as="geometry" />
