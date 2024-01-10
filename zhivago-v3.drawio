@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T02:36:03.740Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="0sM58zsF71FfX3AQFqp5" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-10T02:39:57.772Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="9Z5vXZVwegqjqCGWelXb" version="22.1.15" type="github">
   <diagram name="第 1 页" id="jjV6L2uMsxcf110h-NHD">
     <mxGraphModel dx="1219" dy="786" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UdegoCsH7mk-J5_5EE4P-88" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="171" y="-302.5" width="331" height="57" as="geometry" />
+          <mxGeometry x="171" y="-302.5" width="406" height="57" as="geometry" />
         </mxCell>
         <mxCell id="UdegoCsH7mk-J5_5EE4P-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="146.10999999999999" y="1108.75" width="510" height="136.5" as="geometry" />
@@ -602,17 +602,20 @@
         <mxCell id="UdegoCsH7mk-J5_5EE4P-80" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;processor 2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="281.75" y="-287" width="78" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="UdegoCsH7mk-J5_5EE4P-81" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;processor n&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="411.25" y="-287" width="78" height="28" as="geometry" />
+        <mxCell id="UdegoCsH7mk-J5_5EE4P-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="UdegoCsH7mk-J5_5EE4P-81" target="UdegoCsH7mk-J5_5EE4P-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UdegoCsH7mk-J5_5EE4P-81" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;processor ..&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="384.55" y="-288" width="78" height="28" as="geometry" />
         </mxCell>
         <mxCell id="UdegoCsH7mk-J5_5EE4P-82" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;exporter 1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="645.32" y="-330.5" width="78" height="28" as="geometry" />
+          <mxGeometry x="700" y="-334.5" width="78" height="28" as="geometry" />
         </mxCell>
         <mxCell id="UdegoCsH7mk-J5_5EE4P-83" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;exporter 2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="647.32" y="-293" width="78" height="28" as="geometry" />
+          <mxGeometry x="702" y="-297" width="78" height="28" as="geometry" />
         </mxCell>
         <mxCell id="UdegoCsH7mk-J5_5EE4P-84" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;exporter n&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="647.32" y="-217" width="78" height="28" as="geometry" />
+          <mxGeometry x="702" y="-221" width="78" height="28" as="geometry" />
         </mxCell>
         <mxCell id="UdegoCsH7mk-J5_5EE4P-90" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="UdegoCsH7mk-J5_5EE4P-85" target="UdegoCsH7mk-J5_5EE4P-82">
           <mxGeometry relative="1" as="geometry" />
@@ -622,14 +625,14 @@
         </mxCell>
         <mxCell id="UdegoCsH7mk-J5_5EE4P-93" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UdegoCsH7mk-J5_5EE4P-85" target="UdegoCsH7mk-J5_5EE4P-83">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="649.32" y="-273" as="targetPoint" />
+            <mxPoint x="709.59" y="-277" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UdegoCsH7mk-J5_5EE4P-100" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="UdegoCsH7mk-J5_5EE4P-85" target="UdegoCsH7mk-J5_5EE4P-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UdegoCsH7mk-J5_5EE4P-85" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;fanout&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="541" y="-298" width="50" height="50" as="geometry" />
+          <mxGeometry x="601.27" y="-302" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UdegoCsH7mk-J5_5EE4P-101" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="UdegoCsH7mk-J5_5EE4P-98" target="UdegoCsH7mk-J5_5EE4P-88">
           <mxGeometry relative="1" as="geometry" />
@@ -638,7 +641,22 @@
           <mxGeometry x="40" y="-256" width="78" height="28" as="geometry" />
         </mxCell>
         <mxCell id="UdegoCsH7mk-J5_5EE4P-99" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;exporter ..&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="647.32" y="-256" width="78" height="28" as="geometry" />
+          <mxGeometry x="702" y="-260" width="78" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="UdegoCsH7mk-J5_5EE4P-102" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;processor n&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="485.25" y="-288" width="78" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="UdegoCsH7mk-J5_5EE4P-104" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Pipeline&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="384.55" y="-364" width="60" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="UdegoCsH7mk-J5_5EE4P-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;endArrow=block;endFill=0;" edge="1" parent="1" source="UdegoCsH7mk-J5_5EE4P-105" target="UdegoCsH7mk-J5_5EE4P-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UdegoCsH7mk-J5_5EE4P-105" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;prometheus&lt;br&gt;receiver&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="181.75" y="-369.5" width="77" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="UdegoCsH7mk-J5_5EE4P-106" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;metricstrans&lt;br&gt;formprocessor&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="176.25" y="-217" width="92.75" height="35.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
