@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-24T09:44:46.190Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="ztHoCoLEdo5b2f-EYgg_" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-24T09:50:42.099Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="L7CHrViKLJp1KYQKldw2" version="22.1.18" type="github">
   <diagram name="第 1 页" id="ZuhVlxFlhkBg7zVoVy1D">
     <mxGraphModel dx="1429" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,6 +33,51 @@
         </mxCell>
         <mxCell id="GPAt1WRh6mztTl92b3K6-11" value="dsi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="460" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GPAt1WRh6mztTl92b3K6-13" value="cni" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="140" y="10" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GPAt1WRh6mztTl92b3K6-15" value="dns" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="180" width="80" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="GPAt1WRh6mztTl92b3K6-16" value="vip" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="180" width="80" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="GPAt1WRh6mztTl92b3K6-17" value="docker&lt;br&gt;build" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="200" y="10" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GPAt1WRh6mztTl92b3K6-19" value="dsi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="180" width="80" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="GPAt1WRh6mztTl92b3K6-20" value="galahad" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="270" y="10" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GPAt1WRh6mztTl92b3K6-21" value="harbor" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="330" y="10" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GPAt1WRh6mztTl92b3K6-22" value="webhook" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="390" y="10" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GPAt1WRh6mztTl92b3K6-23" value="ipamv2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="450" y="10" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GPAt1WRh6mztTl92b3K6-24" value="ipamv1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="510" y="10" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GPAt1WRh6mztTl92b3K6-25" value="iptables" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="135" y="70" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GPAt1WRh6mztTl92b3K6-26" value="kruise" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="200" y="70" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GPAt1WRh6mztTl92b3K6-27" value="ipam" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="270" y="70" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GPAt1WRh6mztTl92b3K6-28" value="k8s" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="330" y="70" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GPAt1WRh6mztTl92b3K6-29" value="kubeconfig" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=15;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
