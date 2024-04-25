@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T07:33:01.418Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="VMj8mpojg8shMdVO1YQE" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-25T07:34:38.993Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="e4mgvg3Zx1zmqxWesWm0" version="22.1.18" type="github">
   <diagram name="第 1 页" id="ZuhVlxFlhkBg7zVoVy1D">
     <mxGraphModel dx="817" dy="1555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
           <mxGeometry x="800" y="-30" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GPAt1WRh6mztTl92b3K6-21" value="harbor" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="300" y="-30" width="50" height="50" as="geometry" />
+          <mxGeometry x="170" y="-50" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GPAt1WRh6mztTl92b3K6-22" value="webhook" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="670" y="30" width="50" height="50" as="geometry" />
@@ -119,10 +119,7 @@
           <mxGeometry x="95" y="-350" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eo2u99sirjMwnlyiHI97-35" value="odin-tree" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="117.5" y="-30" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="eo2u99sirjMwnlyiHI97-36" value="iptables" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="117.5" y="30" width="50" height="50" as="geometry" />
+          <mxGeometry x="105" y="-50" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eo2u99sirjMwnlyiHI97-45" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;arcSize=11;" vertex="1" parent="1">
           <mxGeometry x="240" y="-350" width="190" height="105" as="geometry" />
@@ -138,6 +135,9 @@
         </mxCell>
         <mxCell id="eo2u99sirjMwnlyiHI97-49" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=5;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="377.5" y="-295" width="45" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="eo2u99sirjMwnlyiHI97-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eo2u99sirjMwnlyiHI97-50" target="eo2u99sirjMwnlyiHI97-48">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eo2u99sirjMwnlyiHI97-50" value="物理机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="305" y="-350" width="60" height="30" as="geometry" />
@@ -160,8 +160,8 @@
         <mxCell id="eo2u99sirjMwnlyiHI97-56" value="物理机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="515" y="-350" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eo2u99sirjMwnlyiHI97-57" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;iptables&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40.75" y="-322.5" width="588.5" height="15" as="geometry" />
+        <mxCell id="eo2u99sirjMwnlyiHI97-57" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;iptables&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40.75" y="-321.25" width="588.5" height="12.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
