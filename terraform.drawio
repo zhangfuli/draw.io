@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T07:44:26.729Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="_nELKOy9yqoSCTp9yL-h" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-25T07:45:06.789Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Hl9PNpN0YjqXGzo12aVh" version="22.1.18" type="github">
   <diagram name="第 1 页" id="ZuhVlxFlhkBg7zVoVy1D">
     <mxGraphModel dx="1191" dy="1732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eo2u99sirjMwnlyiHI97-70" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="404" y="-50" width="70" height="180" as="geometry" />
+        </mxCell>
         <mxCell id="eo2u99sirjMwnlyiHI97-33" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;arcSize=11;" vertex="1" parent="1">
           <mxGeometry x="30" y="-350" width="190" height="105" as="geometry" />
         </mxCell>
@@ -76,7 +79,7 @@
         <mxCell id="GPAt1WRh6mztTl92b3K6-26" value="kruise&lt;br&gt;localapi" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="414" y="70" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="eo2u99sirjMwnlyiHI97-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GPAt1WRh6mztTl92b3K6-28">
+        <mxCell id="eo2u99sirjMwnlyiHI97-68" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GPAt1WRh6mztTl92b3K6-28" target="eo2u99sirjMwnlyiHI97-70">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="40" as="targetPoint" />
           </mxGeometry>
