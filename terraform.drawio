@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T09:16:46.396Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="-23Ss-PkxOmGBmJH2KMk" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-25T09:16:55.397Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="SER4rOfNZdheQIgsUX2v" version="22.1.18" type="github">
   <diagram name="第 1 页" id="ZuhVlxFlhkBg7zVoVy1D">
     <mxGraphModel dx="1243" dy="1757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -93,10 +93,10 @@
         <mxCell id="GPAt1WRh6mztTl92b3K6-28" value="k8s" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="236.87" y="54.370000000000005" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GPAt1WRh6mztTl92b3K6-29" value="kubeconfig" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" parent="1" vertex="1">
+        <mxCell id="GPAt1WRh6mztTl92b3K6-29" value="kubeconfig" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="287.12" y="36.870000000000005" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GPAt1WRh6mztTl92b3K6-31" value="k8s-resource" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" parent="1" vertex="1">
+        <mxCell id="GPAt1WRh6mztTl92b3K6-31" value="k8s-resource" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="286.87" y="-0.6299999999999955" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GPAt1WRh6mztTl92b3K6-34" value="node-controller" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
