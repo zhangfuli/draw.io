@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T03:25:16.658Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="_j0q50gLj8K_Yxq1JVN6" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-30T03:26:58.924Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="3R3RT8ewDBbN3D45aSMC" version="22.1.18" type="github">
   <diagram name="第 1 页" id="ZuhVlxFlhkBg7zVoVy1D">
-    <mxGraphModel dx="952" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1020" dy="1655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="533.57" y="-10.25" width="70" height="180" as="geometry" />
         </mxCell>
         <mxCell id="eo2u99sirjMwnlyiHI97-96" value="平台类产品SDK" style="rounded=1;html=1;dashed=1;arcSize=11;horizontal=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;labelBorderColor=none;fontSize=12;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="89.99999999999989" y="290" width="830" height="120" as="geometry" />
+          <mxGeometry x="90" y="290" width="760" height="120" as="geometry" />
         </mxCell>
         <mxCell id="eo2u99sirjMwnlyiHI97-72" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="439.5" y="16.870000000000005" width="70" height="125" as="geometry" />
@@ -28,22 +28,22 @@
           <mxGeometry x="89.07" y="420" width="190" height="105" as="geometry" />
         </mxCell>
         <mxCell id="GPAt1WRh6mztTl92b3K6-3" value="terraform-provider" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;arcSize=21;" parent="1" vertex="1">
-          <mxGeometry x="90" y="240" width="830" height="40" as="geometry" />
+          <mxGeometry x="90" y="240" width="760" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GPAt1WRh6mztTl92b3K6-6" value="zeus" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="221.87" y="320" width="80" height="80" as="geometry" />
+          <mxGeometry x="222.14" y="320" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GPAt1WRh6mztTl92b3K6-7" value="sts" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="334.07" y="320" width="85" height="80" as="geometry" />
+          <mxGeometry x="322.14" y="320" width="85" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GPAt1WRh6mztTl92b3K6-8" value="daemonset" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="455" y="320" width="85" height="80" as="geometry" />
+          <mxGeometry x="427.57" y="320" width="85" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GPAt1WRh6mztTl92b3K6-9" value="cmdb" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="822.11" y="320" width="81.93" height="80" as="geometry" />
+          <mxGeometry x="742.1400000000001" y="320" width="81.93" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GPAt1WRh6mztTl92b3K6-10" value="odin-tree" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="696.57" y="320" width="82.5" height="80" as="geometry" />
+          <mxGeometry x="636.6400000000001" y="320" width="82.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GPAt1WRh6mztTl92b3K6-13" value="cni" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="449.5" y="26.870000000000005" width="50" height="50" as="geometry" />
@@ -172,7 +172,7 @@
           <mxGeometry x="781.57" y="-40" width="30" height="218.75" as="geometry" />
         </mxCell>
         <mxCell id="eo2u99sirjMwnlyiHI97-81" value="存储DB&lt;br&gt;OFS" style="rounded=1;whiteSpace=wrap;html=1;arcSize=21;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="821.57" y="-40" width="30" height="217.5" as="geometry" />
+          <mxGeometry x="821.57" y="-40" width="30" height="218.75" as="geometry" />
         </mxCell>
         <mxCell id="eo2u99sirjMwnlyiHI97-82" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;arcSize=11;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="729.07" y="420" width="190" height="105" as="geometry" />
@@ -196,13 +196,13 @@
           <mxGeometry x="99.82" y="448.75" width="810.18" height="12.5" as="geometry" />
         </mxCell>
         <mxCell id="eo2u99sirjMwnlyiHI97-94" value="deploy" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="107.87000000000009" y="320" width="81.93" height="80" as="geometry" />
+          <mxGeometry x="120.94000000000008" y="320" width="81.93" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eo2u99sirjMwnlyiHI97-95" value="dsi" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="574.07" y="320" width="85" height="80" as="geometry" />
+          <mxGeometry x="532.1400000000001" y="320" width="85" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eo2u99sirjMwnlyiHI97-101" value="env" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;dashed=1;arcSize=29;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="90" y="190" width="830" height="40" as="geometry" />
+          <mxGeometry x="90" y="190" width="760" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eo2u99sirjMwnlyiHI97-102" value="&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 10.5pt;&quot;&gt;&lt;font color=&quot;#bcbec4&quot;&gt;{&lt;br&gt;  &quot;&lt;/font&gt;&lt;font color=&quot;#c77dbb&quot;&gt;name&lt;/font&gt;&lt;font color=&quot;#bcbec4&quot;&gt;&quot;: &lt;/font&gt;&lt;span style=&quot;color: rgb(106, 171, 115);&quot;&gt;&quot;dockerbuild&quot;&lt;/span&gt;&lt;font color=&quot;#bcbec4&quot;&gt;,&lt;br&gt;  &lt;/font&gt;&lt;span style=&quot;color: rgb(199, 125, 187);&quot;&gt;&quot;ns&quot;&lt;/span&gt;&lt;font color=&quot;#bcbec4&quot;&gt;: &lt;/font&gt;&lt;span style=&quot;color: rgb(106, 171, 115);&quot;&gt;&quot;ddcloud.op.didi.com&quot;&lt;/span&gt;&lt;font color=&quot;#bcbec4&quot;&gt;,&lt;br&gt;  &lt;/font&gt;&lt;span style=&quot;color: rgb(199, 125, 187);&quot;&gt;&quot;machine&quot;&lt;/span&gt;&lt;font color=&quot;#bcbec4&quot;&gt;: [&lt;br&gt;    &lt;/font&gt;&lt;span style=&quot;color: rgb(106, 171, 115);&quot;&gt;&quot;terraform-test02.zjy&quot;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(106, 171, 115);&quot;&gt;  &lt;/span&gt;&lt;font color=&quot;#bcbec4&quot;&gt;],&lt;br&gt;  &lt;/font&gt;&lt;span style=&quot;color: rgb(199, 125, 187);&quot;&gt;&quot;module_id&quot;&lt;/span&gt;&lt;font color=&quot;#bcbec4&quot;&gt;: &lt;/font&gt;&lt;span style=&quot;color: rgb(42, 172, 184);&quot;&gt;505223&lt;/span&gt;&lt;font color=&quot;#bcbec4&quot;&gt;,&lt;br&gt;  &lt;/font&gt;&lt;span style=&quot;color: rgb(199, 125, 187);&quot;&gt;&quot;approver&quot;&lt;/span&gt;&lt;font color=&quot;#bcbec4&quot;&gt;: &lt;/font&gt;&lt;span style=&quot;color: rgb(106, 171, 115);&quot;&gt;&quot;liufuniu&quot;&lt;/span&gt;&lt;font color=&quot;#bcbec4&quot;&gt;,&lt;br&gt;  &lt;/font&gt;&lt;span style=&quot;color: rgb(199, 125, 187);&quot;&gt;&quot;vip&quot;&lt;/span&gt;&lt;font color=&quot;#bcbec4&quot;&gt;: {&lt;br&gt;    &lt;/font&gt;&lt;span style=&quot;color: rgb(199, 125, 187);&quot;&gt;&quot;warhouse&quot;&lt;/span&gt;&lt;font color=&quot;#bcbec4&quot;&gt;: &lt;/font&gt;&lt;span style=&quot;color: rgb(106, 171, 115);&quot;&gt;&quot;BJ-ZJY&quot;&lt;/span&gt;&lt;font color=&quot;#bcbec4&quot;&gt;,&lt;br&gt;    &lt;/font&gt;&lt;span style=&quot;color: rgb(199, 125, 187);&quot;&gt;&quot;cluster&quot;&lt;/span&gt;&lt;font color=&quot;#bcbec4&quot;&gt;: &lt;/font&gt;&lt;span style=&quot;color: rgb(106, 171, 115);&quot;&gt;&quot;ilvs_BJ-ZJY&quot;&lt;/span&gt;&lt;font color=&quot;#bcbec4&quot;&gt;,&lt;br&gt;    &lt;/font&gt;&lt;span style=&quot;color: rgb(199, 125, 187);&quot;&gt;&quot;clusterName&quot;&lt;/span&gt;&lt;font color=&quot;#bcbec4&quot;&gt;: &lt;/font&gt;&lt;span style=&quot;color: rgb(106, 171, 115);&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: rgb(106, 171, 115); font-family: Menlo-Regular, monospace;&quot;&gt;内网&lt;/span&gt;&lt;span style=&quot;color: rgb(106, 171, 115);&quot;&gt;-&lt;/span&gt;&lt;span style=&quot;color: rgb(106, 171, 115); font-family: Menlo-Regular, monospace;&quot;&gt;公共&lt;/span&gt;&lt;span style=&quot;color: rgb(106, 171, 115);&quot;&gt;-&lt;/span&gt;&lt;span style=&quot;color: rgb(106, 171, 115); font-family: Menlo-Regular, monospace;&quot;&gt;默认&lt;/span&gt;&lt;span style=&quot;color: rgb(106, 171, 115);&quot;&gt;&quot;&lt;/span&gt;&lt;font color=&quot;#bcbec4&quot;&gt;,&lt;br&gt;    &lt;/font&gt;&lt;span style=&quot;color: rgb(199, 125, 187);&quot;&gt;&quot;vports&quot;&lt;/span&gt;&lt;font color=&quot;#bcbec4&quot;&gt;: {&lt;br&gt;      &lt;/font&gt;&lt;span style=&quot;color: rgb(199, 125, 187);&quot;&gt;&quot;main&quot;&lt;/span&gt;&lt;font color=&quot;#bcbec4&quot;&gt;: &lt;/font&gt;&lt;span style=&quot;color: rgb(106, 171, 115);&quot;&gt;&quot;8002&quot;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(106, 171, 115);&quot;&gt;    &lt;/span&gt;&lt;font color=&quot;#bcbec4&quot;&gt;}&lt;br&gt;  }&lt;br&gt;},&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=14;pointerEvents=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="930" y="-42.2" width="340" height="332.2" as="geometry" />
