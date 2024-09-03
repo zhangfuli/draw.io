@@ -8,7 +8,7 @@
           <mxGeometry x="101" y="988" width="732" height="220" as="geometry" />
         </mxCell>
         <mxCell id="wlwrEhy4mnkCsIl2O21r-49" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="695" y="1017" width="126.25" height="181" as="geometry" />
+          <mxGeometry x="688" y="1018" width="126.25" height="181" as="geometry" />
         </mxCell>
         <mxCell id="GPAt1WRh6mztTl92b3K6-4" value="核心流程产品" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;arcSize=4;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="290" y="22.2" width="590" height="219.37" as="geometry" />
@@ -335,13 +335,13 @@
           <mxGeometry x="10.110000000000005" y="123" width="103" height="42" as="geometry" />
         </mxCell>
         <mxCell id="wlwrEhy4mnkCsIl2O21r-52" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="695" y="1026.5" width="126.25" height="171" as="geometry" />
+          <mxGeometry x="688" y="1026.5" width="126.25" height="171" as="geometry" />
         </mxCell>
         <mxCell id="wlwrEhy4mnkCsIl2O21r-18" value="ui-proxy" style="html=1;whiteSpace=wrap;fillColor=#9FC791;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="wlwrEhy4mnkCsIl2O21r-52">
           <mxGeometry x="11.629999999999995" y="63" width="103" height="42" as="geometry" />
         </mxCell>
         <mxCell id="wlwrEhy4mnkCsIl2O21r-19" value="kubelet&amp;amp;kube-proxy&amp;amp;flannel" style="html=1;whiteSpace=wrap;fillColor=#DEC24E;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="wlwrEhy4mnkCsIl2O21r-52">
-          <mxGeometry x="11.629999999999995" y="115" width="103" height="42" as="geometry" />
+          <mxGeometry x="11.619999999999996" y="120.5" width="103" height="42" as="geometry" />
         </mxCell>
         <mxCell id="wlwrEhy4mnkCsIl2O21r-35" value="kube-odin" style="html=1;whiteSpace=wrap;fillColor=#5DA49A;strokeColor=none;fontColor=#FFFFFF;gradientColor=#DEC24E;gradientDirection=east;" vertex="1" parent="wlwrEhy4mnkCsIl2O21r-52">
           <mxGeometry x="11.63" y="2.5" width="103" height="42" as="geometry" />
