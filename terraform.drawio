@@ -283,16 +283,16 @@
         <mxCell id="wlwrEhy4mnkCsIl2O21r-9" value="+ Apply(id string, value map)&lt;div&gt;+ Destroy(id string)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="wlwrEhy4mnkCsIl2O21r-6">
           <mxGeometry y="37" width="169" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="wlwrEhy4mnkCsIl2O21r-11" value="docker-build" style="html=1;whiteSpace=wrap;fillColor=#64DB8F;strokeColor=default;gradientColor=none;fontColor=#000000;fillStyle=auto;" vertex="1" parent="1">
+        <mxCell id="wlwrEhy4mnkCsIl2O21r-11" value="docker-build" style="html=1;whiteSpace=wrap;fillColor=#5DA49A;strokeColor=none;gradientColor=none;fontColor=#FFFFFF;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="372" y="1037" width="103" height="42" as="geometry" />
         </mxCell>
         <mxCell id="wlwrEhy4mnkCsIl2O21r-12" value="paas-controller" style="html=1;whiteSpace=wrap;fillColor=#BDB8DE;strokeColor=default;fontColor=#000000;gradientColor=#fbf6d9;gradientDirection=east;" vertex="1" parent="1">
           <mxGeometry x="370" y="1098" width="103" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="wlwrEhy4mnkCsIl2O21r-18" value="ui-proxy" style="html=1;whiteSpace=wrap;fillColor=#DEDCEF;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="wlwrEhy4mnkCsIl2O21r-18" value="ui-proxy" style="html=1;whiteSpace=wrap;fillColor=#9FC791;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="659" y="1100" width="103" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="wlwrEhy4mnkCsIl2O21r-19" value="kubelet&amp;amp;kube-proxy&amp;amp;flannel" style="html=1;whiteSpace=wrap;fillColor=#fbf6d9;strokeColor=default;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="wlwrEhy4mnkCsIl2O21r-19" value="kubelet&amp;amp;kube-proxy&amp;amp;flannel" style="html=1;whiteSpace=wrap;fillColor=#DEC24E;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="662.25" y="1167" width="103" height="42" as="geometry" />
         </mxCell>
         <mxCell id="wlwrEhy4mnkCsIl2O21r-20" value="kruise-operator" style="html=1;whiteSpace=wrap;fillColor=#BDB8DE;strokeColor=default;fontColor=#000000;gradientColor=#fbf6d9;gradientDirection=east;" vertex="1" parent="1">
@@ -313,10 +313,10 @@
         <mxCell id="wlwrEhy4mnkCsIl2O21r-26" value="k8s" style="html=1;whiteSpace=wrap;fillColor=#fbf6d9;strokeColor=default;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="217.93" y="1104" width="103" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="wlwrEhy4mnkCsIl2O21r-27" value="zeus" style="html=1;whiteSpace=wrap;fillColor=#fbf6d9;strokeColor=default;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="wlwrEhy4mnkCsIl2O21r-27" value="zeus" style="html=1;whiteSpace=wrap;fillColor=#DEC24E;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="908" y="1037" width="63.43" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="wlwrEhy4mnkCsIl2O21r-28" value="部署系统" style="html=1;whiteSpace=wrap;fillColor=#bdb8de;strokeColor=default;gradientColor=none;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="wlwrEhy4mnkCsIl2O21r-28" value="部署系统" style="html=1;whiteSpace=wrap;fillColor=#5DA49A;strokeColor=none;gradientColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="909" y="1082" width="61.43" height="26" as="geometry" />
         </mxCell>
       </root>
