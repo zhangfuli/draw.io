@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="第 1 页" id="ZuhVlxFlhkBg7zVoVy1D">
-    <mxGraphModel dx="1434" dy="675" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="675" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -270,10 +270,10 @@
           <mxGeometry x="224" y="640" width="88" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wlwrEhy4mnkCsIl2O21r-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="2" y="1022" width="32" height="32" as="geometry" />
+          <mxGeometry x="-13" y="1116" width="24" height="24" as="geometry" />
         </mxCell>
         <mxCell id="wlwrEhy4mnkCsIl2O21r-5" value="CVM" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="234" y="1054" width="103" height="42" as="geometry" />
+          <mxGeometry x="72" y="1104" width="103" height="42" as="geometry" />
         </mxCell>
         <mxCell id="wlwrEhy4mnkCsIl2O21r-6" value="&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;«interface»&lt;/span&gt;&lt;br&gt;&lt;/div&gt;Stage" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=37;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="405" y="880" width="169" height="75" as="geometry">
@@ -284,16 +284,34 @@
           <mxGeometry y="37" width="169" height="38" as="geometry" />
         </mxCell>
         <mxCell id="wlwrEhy4mnkCsIl2O21r-10" value="k8s" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="383.5" y="1052" width="103" height="42" as="geometry" />
+          <mxGeometry x="229.07" y="1104" width="103" height="42" as="geometry" />
         </mxCell>
         <mxCell id="wlwrEhy4mnkCsIl2O21r-11" value="docker-build" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="523" y="1052" width="103" height="42" as="geometry" />
+          <mxGeometry x="374" y="1040" width="103" height="42" as="geometry" />
         </mxCell>
         <mxCell id="wlwrEhy4mnkCsIl2O21r-12" value="paas-controller" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="524.5" y="1114" width="103" height="42" as="geometry" />
+          <mxGeometry x="372" y="1100" width="103" height="42" as="geometry" />
         </mxCell>
         <mxCell id="wlwrEhy4mnkCsIl2O21r-13" value="kruise-operator" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="523" y="1171" width="103" height="42" as="geometry" />
+          <mxGeometry x="374" y="1159" width="103" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="wlwrEhy4mnkCsIl2O21r-14" value="local-api" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="517.5" y="1036" width="103" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="wlwrEhy4mnkCsIl2O21r-15" value="galahad" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="517.5" y="1100" width="103" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="wlwrEhy4mnkCsIl2O21r-16" value="hook" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="517.5" y="1159" width="103" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="wlwrEhy4mnkCsIl2O21r-17" value="kube-odin" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="662.25" y="1031" width="103" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="wlwrEhy4mnkCsIl2O21r-18" value="ui-proxy" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="662.25" y="1098" width="103" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="wlwrEhy4mnkCsIl2O21r-19" value="kubelet&amp;amp;kube-proxy&amp;amp;flannel" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="662.25" y="1159" width="103" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
