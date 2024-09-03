@@ -313,7 +313,7 @@
         <mxCell id="wlwrEhy4mnkCsIl2O21r-35" value="kube-odin" style="html=1;whiteSpace=wrap;fillColor=#5DA49A;strokeColor=none;fontColor=#FFFFFF;gradientColor=#DEC24E;gradientDirection=east;" vertex="1" parent="1">
           <mxGeometry x="659" y="1035" width="103" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="wlwrEhy4mnkCsIl2O21r-37" value="" style="html=1;whiteSpace=wrap;fillColor=#9FC791;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="wlwrEhy4mnkCsIl2O21r-37" value="script" style="html=1;whiteSpace=wrap;fillColor=#9FC791;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="909" y="1127" width="63" height="27" as="geometry" />
         </mxCell>
         <mxCell id="wlwrEhy4mnkCsIl2O21r-38" value="k8s" style="html=1;whiteSpace=wrap;fillColor=#DEC24E;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
