@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T07:27:58.788Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="aMCi8TNRW53xWeNXLWwS" version="24.7.3" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="第 1 页" id="ZuhVlxFlhkBg7zVoVy1D">
     <mxGraphModel dx="1434" dy="675" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -268,6 +268,23 @@
         </mxCell>
         <mxCell id="eo2u99sirjMwnlyiHI97-147" value="&lt;b&gt;Configuration&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="224" y="640" width="88" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wlwrEhy4mnkCsIl2O21r-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2" y="1022" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="wlwrEhy4mnkCsIl2O21r-4" value="«interface»&lt;br&gt;&lt;b&gt;Stage&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="407.5" y="968" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wlwrEhy4mnkCsIl2O21r-5" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="256.87" y="1042" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wlwrEhy4mnkCsIl2O21r-6" value="&amp;lt;&amp;lt;Stage&amp;gt;&amp;gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="815" y="978" width="169" height="75" as="geometry">
+            <mxRectangle x="815" y="978" width="95" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wlwrEhy4mnkCsIl2O21r-9" value="+ Apply(id string, value map)&lt;div&gt;+ Destroy(id string)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="wlwrEhy4mnkCsIl2O21r-6">
+          <mxGeometry y="26" width="169" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
