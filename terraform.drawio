@@ -286,11 +286,11 @@
         <mxCell id="wlwrEhy4mnkCsIl2O21r-10" value="k8s" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="229.07" y="1104" width="103" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="wlwrEhy4mnkCsIl2O21r-11" value="docker-build" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="wlwrEhy4mnkCsIl2O21r-11" value="docker-build" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="374" y="1040" width="103" height="42" as="geometry" />
         </mxCell>
         <mxCell id="wlwrEhy4mnkCsIl2O21r-12" value="paas-controller" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="372" y="1100" width="103" height="42" as="geometry" />
+          <mxGeometry x="374" y="1100" width="103" height="42" as="geometry" />
         </mxCell>
         <mxCell id="wlwrEhy4mnkCsIl2O21r-13" value="kruise-operator" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="374" y="1159" width="103" height="42" as="geometry" />
