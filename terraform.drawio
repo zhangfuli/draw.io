@@ -295,15 +295,6 @@
         <mxCell id="wlwrEhy4mnkCsIl2O21r-19" value="kubelet&amp;amp;kube-proxy&amp;amp;flannel" style="html=1;whiteSpace=wrap;fillColor=#DEC24E;strokeColor=default;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="659" y="1161" width="103" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="wlwrEhy4mnkCsIl2O21r-23" value="galahad" style="html=1;whiteSpace=wrap;fillColor=#BDB8DE;strokeColor=default;fontColor=#000000;gradientColor=#fbf6d9;gradientDirection=east;" vertex="1" parent="1">
-          <mxGeometry x="504" y="1098" width="103" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="wlwrEhy4mnkCsIl2O21r-24" value="hook" style="html=1;whiteSpace=wrap;fillColor=#BDB8DE;strokeColor=default;fontColor=#000000;gradientColor=#fbf6d9;gradientDirection=east;" vertex="1" parent="1">
-          <mxGeometry x="504" y="1158" width="103" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="wlwrEhy4mnkCsIl2O21r-25" value="kube-odin" style="html=1;whiteSpace=wrap;fillColor=#BDB8DE;strokeColor=default;fontColor=#000000;gradientColor=#fbf6d9;gradientDirection=east;" vertex="1" parent="1">
-          <mxGeometry x="662.25" y="1033" width="103" height="42" as="geometry" />
-        </mxCell>
         <mxCell id="wlwrEhy4mnkCsIl2O21r-26" value="k8s" style="html=1;whiteSpace=wrap;fillColor=#fbf6d9;strokeColor=default;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="217.93" y="1104" width="103" height="42" as="geometry" />
         </mxCell>
@@ -318,6 +309,15 @@
         </mxCell>
         <mxCell id="wlwrEhy4mnkCsIl2O21r-32" value="local-api" style="html=1;whiteSpace=wrap;fillColor=#5DA49A;strokeColor=default;gradientColor=none;fontColor=#FFFFFF;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="504" y="1037" width="103" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="wlwrEhy4mnkCsIl2O21r-33" value="galahad" style="html=1;whiteSpace=wrap;fillColor=#5DA49A;strokeColor=default;fontColor=#FFFFFF;gradientColor=#DEC24E;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="504" y="1100" width="103" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="wlwrEhy4mnkCsIl2O21r-34" value="hook" style="html=1;whiteSpace=wrap;fillColor=#5DA49A;strokeColor=default;fontColor=#FFFFFF;gradientColor=#DEC24E;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="499.75" y="1158" width="103" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="wlwrEhy4mnkCsIl2O21r-35" value="kube-odin" style="html=1;whiteSpace=wrap;fillColor=#5DA49A;strokeColor=default;fontColor=#FFFFFF;gradientColor=#DEC24E;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="659" y="1035" width="103" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
