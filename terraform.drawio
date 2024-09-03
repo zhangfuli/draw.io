@@ -292,6 +292,9 @@
         <mxCell id="wlwrEhy4mnkCsIl2O21r-12" value="paas-controller" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="524.5" y="1114" width="103" height="42" as="geometry" />
         </mxCell>
+        <mxCell id="wlwrEhy4mnkCsIl2O21r-13" value="kruise-operator" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="523" y="1171" width="103" height="42" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
