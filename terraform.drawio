@@ -272,16 +272,25 @@
         <mxCell id="wlwrEhy4mnkCsIl2O21r-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="2" y="1022" width="32" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="wlwrEhy4mnkCsIl2O21r-5" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="256.87" y="1042" width="110" height="50" as="geometry" />
+        <mxCell id="wlwrEhy4mnkCsIl2O21r-5" value="CVM" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="234" y="1054" width="103" height="42" as="geometry" />
         </mxCell>
         <mxCell id="wlwrEhy4mnkCsIl2O21r-6" value="&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;«interface»&lt;/span&gt;&lt;br&gt;&lt;/div&gt;Stage" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=37;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="383.5" y="942" width="169" height="75" as="geometry">
+          <mxGeometry x="405" y="880" width="169" height="75" as="geometry">
             <mxRectangle x="815" y="978" width="95" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wlwrEhy4mnkCsIl2O21r-9" value="+ Apply(id string, value map)&lt;div&gt;+ Destroy(id string)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="wlwrEhy4mnkCsIl2O21r-6">
           <mxGeometry y="37" width="169" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="wlwrEhy4mnkCsIl2O21r-10" value="k8s" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="383.5" y="1052" width="103" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="wlwrEhy4mnkCsIl2O21r-11" value="docker-build" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="523" y="1052" width="103" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="wlwrEhy4mnkCsIl2O21r-12" value="paas-controller" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="524.5" y="1114" width="103" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
