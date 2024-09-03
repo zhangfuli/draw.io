@@ -272,14 +272,11 @@
         <mxCell id="wlwrEhy4mnkCsIl2O21r-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="2" y="1022" width="32" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="wlwrEhy4mnkCsIl2O21r-4" value="&lt;br&gt;&lt;b&gt;Stage&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="407.5" y="968" width="110" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="wlwrEhy4mnkCsIl2O21r-5" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="256.87" y="1042" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wlwrEhy4mnkCsIl2O21r-6" value="&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;«interface»&lt;/span&gt;&lt;br&gt;&lt;/div&gt;Stage" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=37;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="815" y="953" width="169" height="75" as="geometry">
+          <mxGeometry x="383.5" y="942" width="169" height="75" as="geometry">
             <mxRectangle x="815" y="978" width="95" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
