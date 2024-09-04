@@ -284,13 +284,13 @@
           <mxGeometry y="37" width="214" height="38" as="geometry" />
         </mxCell>
         <mxCell id="wlwrEhy4mnkCsIl2O21r-27" value="zeus" style="html=1;whiteSpace=wrap;fillColor=#DEC24E;strokeColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="872.5" y="988" width="63.43" height="26" as="geometry" />
+          <mxGeometry x="858" y="1024" width="63.43" height="26" as="geometry" />
         </mxCell>
         <mxCell id="wlwrEhy4mnkCsIl2O21r-28" value="部署系统" style="html=1;whiteSpace=wrap;fillColor=#5DA49A;strokeColor=none;gradientColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="873.5" y="1033" width="61.43" height="26" as="geometry" />
+          <mxGeometry x="858.0000000000001" y="988" width="61.43" height="26" as="geometry" />
         </mxCell>
         <mxCell id="wlwrEhy4mnkCsIl2O21r-37" value="直接触发" style="html=1;whiteSpace=wrap;fillColor=#9FC791;strokeColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="873.5" y="1078" width="63" height="27" as="geometry" />
+          <mxGeometry x="858.4300000000001" y="1061.5" width="63" height="27" as="geometry" />
         </mxCell>
         <mxCell id="wlwrEhy4mnkCsIl2O21r-54" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wlwrEhy4mnkCsIl2O21r-38" target="wlwrEhy4mnkCsIl2O21r-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
