@@ -449,7 +449,19 @@
           <mxGeometry x="297.77" y="1091" width="36.46" height="35" as="geometry" />
         </mxCell>
         <mxCell id="pspTebWxk9koUcWxZ6gJ-49" value="k8s" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="247" y="1094.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="250.93" y="1096" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pspTebWxk9koUcWxZ6gJ-50" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=5;rotation=90;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="123.43" y="1156" width="45" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="pspTebWxk9koUcWxZ6gJ-51" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=5;rotation=90;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="179" y="1156" width="45" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="pspTebWxk9koUcWxZ6gJ-52" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=5;rotation=90;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="229.07" y="1156" width="45" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="pspTebWxk9koUcWxZ6gJ-53" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=5;rotation=90;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="286" y="1156" width="45" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
