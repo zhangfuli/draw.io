@@ -280,7 +280,7 @@
             <mxRectangle x="815" y="978" width="95" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wlwrEhy4mnkCsIl2O21r-9" value="+ Apply(id string, value map)&lt;div&gt;+ Destroy(id string)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="wlwrEhy4mnkCsIl2O21r-6" vertex="1">
+        <mxCell id="wlwrEhy4mnkCsIl2O21r-9" value="+ Apply(id string, &lt;b&gt;value map&lt;/b&gt;)&lt;div&gt;+ Destroy(id string)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="wlwrEhy4mnkCsIl2O21r-6" vertex="1">
           <mxGeometry y="37" width="214" height="38" as="geometry" />
         </mxCell>
         <mxCell id="wlwrEhy4mnkCsIl2O21r-27" value="zeus" style="html=1;whiteSpace=wrap;fillColor=#DEC24E;strokeColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
@@ -357,9 +357,6 @@
             <mxPoint x="654" y="1113" as="sourcePoint" />
             <mxPoint x="538" y="1120" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="pspTebWxk9koUcWxZ6gJ-2" value="stage_value" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="205" y="1134" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
