@@ -98,10 +98,10 @@
           <mxGeometry x="205" y="12" width="45" height="35" as="geometry" />
         </mxCell>
         <mxCell id="EStw5bXizqeQKJaaaStb-21" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Node Group 1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EStw5bXizqeQKJaaaStb-7">
-          <mxGeometry x="69" y="53" width="71" height="16" as="geometry" />
+          <mxGeometry x="69" y="54" width="71" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="EStw5bXizqeQKJaaaStb-22" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;IDC&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EStw5bXizqeQKJaaaStb-7">
-          <mxGeometry x="188" y="54" width="37" height="16" as="geometry" />
+        <mxCell id="EStw5bXizqeQKJaaaStb-23" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Node Group 2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EStw5bXizqeQKJaaaStb-7">
+          <mxGeometry x="167" y="54" width="71" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
