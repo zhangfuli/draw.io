@@ -163,16 +163,19 @@
           <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="EStw5bXizqeQKJaaaStb-50" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;" vertex="1" parent="1">
-          <mxGeometry x="140" y="954" width="250" height="150" as="geometry" />
+          <mxGeometry x="136" y="957" width="250" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EStw5bXizqeQKJaaaStb-51" value="RunOnce" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;" vertex="1" parent="EStw5bXizqeQKJaaaStb-50">
           <mxGeometry width="245" height="28.5" as="geometry" />
         </mxCell>
         <mxCell id="EStw5bXizqeQKJaaaStb-52" value="Refresh" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="EStw5bXizqeQKJaaaStb-50">
-          <mxGeometry x="10" y="37" width="57" height="23" as="geometry" />
+          <mxGeometry x="188" y="26" width="57" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="EStw5bXizqeQKJaaaStb-54" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="EStw5bXizqeQKJaaaStb-50">
+          <mxGeometry x="5" y="26" width="163" height="113.5" as="geometry" />
         </mxCell>
         <mxCell id="EStw5bXizqeQKJaaaStb-53" value="ClusterStateRegistry" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1032" width="128" height="26" as="geometry" />
+          <mxGeometry x="507" y="976" width="128" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
