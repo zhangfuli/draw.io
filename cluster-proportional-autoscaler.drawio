@@ -145,6 +145,9 @@
         <mxCell id="EStw5bXizqeQKJaaaStb-43" value="newInstanceStatusMap&amp;nbsp; make(map[AwsInstanceRef]*string)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="63" y="880" width="337" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="EStw5bXizqeQKJaaaStb-44" value="Refresh" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="107.38" y="762.97" width="47.62" height="26.03" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
