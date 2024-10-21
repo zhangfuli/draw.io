@@ -142,8 +142,8 @@
         <mxCell id="EStw5bXizqeQKJaaaStb-42" value="sub" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="EStw5bXizqeQKJaaaStb-40">
           <mxGeometry x="8" y="66" width="87" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="EStw5bXizqeQKJaaaStb-43" value="newInstanceStatusMap" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="425" y="815" width="143" height="26" as="geometry" />
+        <mxCell id="EStw5bXizqeQKJaaaStb-43" value="newInstanceStatusMap&amp;nbsp; make(map[AwsInstanceRef]*string)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="63" y="880" width="337" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
