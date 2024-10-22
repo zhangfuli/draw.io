@@ -221,8 +221,8 @@
         <mxCell id="EStw5bXizqeQKJaaaStb-100" value="Node" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="1031" width="412" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="EStw5bXizqeQKJaaaStb-104" value="instances" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="EStw5bXizqeQKJaaaStb-100">
-          <mxGeometry x="311" y="13.5" width="78" height="40" as="geometry" />
+        <mxCell id="EStw5bXizqeQKJaaaStb-104" value="gceInstances" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="EStw5bXizqeQKJaaaStb-100">
+          <mxGeometry x="296" y="13.5" width="93" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EStw5bXizqeQKJaaaStb-105" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="EStw5bXizqeQKJaaaStb-100" source="EStw5bXizqeQKJaaaStb-91" target="EStw5bXizqeQKJaaaStb-104">
           <mxGeometry relative="1" as="geometry">
@@ -240,7 +240,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EStw5bXizqeQKJaaaStb-107" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ClusterStateRegistry&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="399" y="946" width="133" height="67" as="geometry">
+          <mxGeometry x="392" y="946" width="133" height="67" as="geometry">
             <mxRectangle x="379" y="1184" width="127" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
