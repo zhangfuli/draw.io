@@ -137,7 +137,7 @@
           <mxGeometry x="124.66" y="37" width="67.34" height="24.81" as="geometry" />
         </mxCell>
         <mxCell id="EStw5bXizqeQKJaaaStb-70" value="updateClusterState" style="rounded=1;absoluteArcSize=1;html=1;arcSize=0;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="EStw5bXizqeQKJaaaStb-50">
-          <mxGeometry x="300" y="28.75" width="111" height="33.0625" as="geometry" />
+          <mxGeometry x="301" y="37" width="110" height="27.81" as="geometry" />
         </mxCell>
         <mxCell id="EStw5bXizqeQKJaaaStb-53" value="ClusterStateRegistry" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="525" y="898" width="128" height="26" as="geometry" />
@@ -195,7 +195,7 @@
           <mxGeometry x="173" y="18" width="109" height="31" as="geometry" />
         </mxCell>
         <mxCell id="EStw5bXizqeQKJaaaStb-60" value="instances" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="EStw5bXizqeQKJaaaStb-69">
-          <mxGeometry x="320" y="13.5" width="78" height="40" as="geometry" />
+          <mxGeometry x="311" y="13.5" width="78" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EStw5bXizqeQKJaaaStb-39" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="EStw5bXizqeQKJaaaStb-69" source="EStw5bXizqeQKJaaaStb-36" target="EStw5bXizqeQKJaaaStb-60">
           <mxGeometry relative="1" as="geometry">
