@@ -192,6 +192,9 @@
         <mxCell id="EStw5bXizqeQKJaaaStb-58" value="instanceStatus" style="text;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="337" y="1296" width="74" height="23" as="geometry" />
         </mxCell>
+        <mxCell id="EStw5bXizqeQKJaaaStb-59" value="instances" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="428.5" y="1333" width="60.5" height="29" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
