@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="第 1 页" id="F5VYigaGw1SXEJX05_Oq">
-    <mxGraphModel dx="650" dy="329" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="762" dy="386" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -386,7 +386,7 @@
           <mxGeometry x="292" y="1640" width="92.6" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EStw5bXizqeQKJaaaStb-171" value="不填充，返回instance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="477" y="1866" width="128" height="26" as="geometry" />
+          <mxGeometry x="442" y="1898" width="128" height="23" as="geometry" />
         </mxCell>
         <mxCell id="EStw5bXizqeQKJaaaStb-172" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="EStw5bXizqeQKJaaaStb-169" target="EStw5bXizqeQKJaaaStb-171">
           <mxGeometry relative="1" as="geometry">
@@ -409,11 +409,14 @@
         <mxCell id="EStw5bXizqeQKJaaaStb-184" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EStw5bXizqeQKJaaaStb-177" target="EStw5bXizqeQKJaaaStb-183">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EStw5bXizqeQKJaaaStb-177" value="scaleUpRequest&lt;div&gt;[startTime, EcpectedAddTime]&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EStw5bXizqeQKJaaaStb-177" value="scaleUpRequest&lt;div&gt;[startTime, ExpectedAddTime]&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="251" y="1793" width="178" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="EStw5bXizqeQKJaaaStb-189" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EStw5bXizqeQKJaaaStb-179" target="EStw5bXizqeQKJaaaStb-187">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EStw5bXizqeQKJaaaStb-179" value="填充OtherErrorClass" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="95" y="1857" width="113" height="26" as="geometry" />
+          <mxGeometry x="134" y="1898" width="113" height="24" as="geometry" />
         </mxCell>
         <mxCell id="EStw5bXizqeQKJaaaStb-180" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="EStw5bXizqeQKJaaaStb-174" target="EStw5bXizqeQKJaaaStb-179">
           <mxGeometry relative="1" as="geometry">
@@ -422,13 +425,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EStw5bXizqeQKJaaaStb-181" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="195" y="1716" width="30" height="26" as="geometry" />
+          <mxGeometry x="214" y="1716" width="30" height="26" as="geometry" />
         </mxCell>
         <mxCell id="EStw5bXizqeQKJaaaStb-182" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="305" y="1763" width="30" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="EStw5bXizqeQKJaaaStb-183" value="伸缩活动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="301.6" y="1853" width="83" height="34" as="geometry" />
+        <mxCell id="EStw5bXizqeQKJaaaStb-186" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EStw5bXizqeQKJaaaStb-183" target="EStw5bXizqeQKJaaaStb-185">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EStw5bXizqeQKJaaaStb-183" value="查询时间区间内的伸缩活动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="264" y="1852" width="152.5" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="EStw5bXizqeQKJaaaStb-190" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EStw5bXizqeQKJaaaStb-185" target="EStw5bXizqeQKJaaaStb-187">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EStw5bXizqeQKJaaaStb-185" value="根据伸缩活动ErrorCode填充" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260.5" y="1898" width="159.5" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="EStw5bXizqeQKJaaaStb-187" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="331" y="1953" width="18" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="EStw5bXizqeQKJaaaStb-191" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EStw5bXizqeQKJaaaStb-171" target="EStw5bXizqeQKJaaaStb-187">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="201" y="1932" as="sourcePoint" />
+            <mxPoint x="341" y="1972" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
