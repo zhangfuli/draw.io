@@ -230,7 +230,7 @@
             <mxPoint x="332" y="33" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EStw5bXizqeQKJaaaStb-91" value="GetMigInstances" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EStw5bXizqeQKJaaaStb-100">
+        <mxCell id="EStw5bXizqeQKJaaaStb-91" value="GetMigNodes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EStw5bXizqeQKJaaaStb-100">
           <mxGeometry x="110.5" y="18" width="90" height="31" as="geometry" />
         </mxCell>
         <mxCell id="EStw5bXizqeQKJaaaStb-106" value="" style="endArrow=classicThin;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=1;dashed=1;entryX=0.532;entryY=1.043;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EStw5bXizqeQKJaaaStb-104" target="EStw5bXizqeQKJaaaStb-109">
