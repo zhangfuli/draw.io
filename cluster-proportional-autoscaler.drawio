@@ -379,6 +379,9 @@
         <mxCell id="EStw5bXizqeQKJaaaStb-167" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="329.3" y="1597" width="18" height="18" as="geometry" />
         </mxCell>
+        <mxCell id="EStw5bXizqeQKJaaaStb-175" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EStw5bXizqeQKJaaaStb-169" target="EStw5bXizqeQKJaaaStb-174">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EStw5bXizqeQKJaaaStb-169" value="cur &amp;lt; desired" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="292" y="1640" width="92.6" height="40" as="geometry" />
         </mxCell>
@@ -395,7 +398,7 @@
           <mxGeometry x="432" y="1634" width="30" height="26" as="geometry" />
         </mxCell>
         <mxCell id="EStw5bXizqeQKJaaaStb-174" value="IsNodeGroup&lt;div&gt;ScalingUp&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="291.34999999999997" y="1720" width="97.3" height="47" as="geometry" />
+          <mxGeometry x="291.34999999999997" y="1716" width="97.3" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
