@@ -165,7 +165,7 @@
         <mxCell id="EStw5bXizqeQKJaaaStb-36" value="GetInstanceStatus" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="EStw5bXizqeQKJaaaStb-69">
           <mxGeometry x="173" y="18" width="109" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="EStw5bXizqeQKJaaaStb-60" value="instances" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="EStw5bXizqeQKJaaaStb-69">
+        <mxCell id="EStw5bXizqeQKJaaaStb-60" value="instances" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="EStw5bXizqeQKJaaaStb-69">
           <mxGeometry x="311" y="13.5" width="78" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EStw5bXizqeQKJaaaStb-39" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="EStw5bXizqeQKJaaaStb-69" source="EStw5bXizqeQKJaaaStb-36" target="EStw5bXizqeQKJaaaStb-60">
