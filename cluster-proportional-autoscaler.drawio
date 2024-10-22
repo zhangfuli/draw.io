@@ -210,7 +210,7 @@
         </mxCell>
         <mxCell id="EStw5bXizqeQKJaaaStb-96" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 10px; text-wrap: wrap;&quot;&gt;instances&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EStw5bXizqeQKJaaaStb-95">
           <mxGeometry x="0.2063" relative="1" as="geometry">
-            <mxPoint x="-1" y="-10" as="offset" />
+            <mxPoint x="-1" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EStw5bXizqeQKJaaaStb-99" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="EStw5bXizqeQKJaaaStb-110" target="EStw5bXizqeQKJaaaStb-92">
@@ -224,14 +224,14 @@
         <mxCell id="EStw5bXizqeQKJaaaStb-104" value="instances" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="EStw5bXizqeQKJaaaStb-100">
           <mxGeometry x="311" y="13.5" width="78" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EStw5bXizqeQKJaaaStb-105" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="EStw5bXizqeQKJaaaStb-100" target="EStw5bXizqeQKJaaaStb-104">
+        <mxCell id="EStw5bXizqeQKJaaaStb-105" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="EStw5bXizqeQKJaaaStb-100" source="EStw5bXizqeQKJaaaStb-91" target="EStw5bXizqeQKJaaaStb-104">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="282" y="33.5" as="sourcePoint" />
             <mxPoint x="332" y="33" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EStw5bXizqeQKJaaaStb-91" value="GetMigInstances" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EStw5bXizqeQKJaaaStb-100">
-          <mxGeometry x="110.5" y="13.5" width="90" height="31" as="geometry" />
+          <mxGeometry x="110.5" y="18" width="90" height="31" as="geometry" />
         </mxCell>
         <mxCell id="EStw5bXizqeQKJaaaStb-106" value="" style="endArrow=classicThin;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=1;dashed=1;entryX=0.532;entryY=1.043;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EStw5bXizqeQKJaaaStb-104" target="EStw5bXizqeQKJaaaStb-109">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
