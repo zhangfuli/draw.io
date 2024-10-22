@@ -160,14 +160,14 @@
         <mxCell id="EStw5bXizqeQKJaaaStb-38" value="asgNodes" style="text;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="122" y="1294" width="51" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="EStw5bXizqeQKJaaaStb-39" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="EStw5bXizqeQKJaaaStb-36">
+        <mxCell id="EStw5bXizqeQKJaaaStb-39" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EStw5bXizqeQKJaaaStb-36" target="EStw5bXizqeQKJaaaStb-60">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="433" y="1348.23" as="sourcePoint" />
             <mxPoint x="426" y="1348" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EStw5bXizqeQKJaaaStb-46" value="asgCache" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="208" y="1279" width="89" height="26" as="geometry">
+          <mxGeometry x="205" y="1283" width="81" height="26" as="geometry">
             <mxRectangle x="458" y="852" width="140" height="78" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -190,10 +190,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EStw5bXizqeQKJaaaStb-58" value="instanceStatus" style="text;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="337" y="1296" width="74" height="23" as="geometry" />
+          <mxGeometry x="340" y="1299" width="74" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="EStw5bXizqeQKJaaaStb-59" value="instances" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="428.5" y="1333" width="60.5" height="29" as="geometry" />
+        <mxCell id="EStw5bXizqeQKJaaaStb-60" value="instances" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="423" y="1328.5" width="78" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
