@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.8.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="第 1 页" id="F5VYigaGw1SXEJX05_Oq">
-    <mxGraphModel dx="859" dy="409" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="675" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -497,10 +497,13 @@
         <mxCell id="EStw5bXizqeQKJaaaStb-202" value="&lt;span style=&quot;text-align: left;&quot;&gt;instanceToAsg&lt;/span&gt;" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="297.79999999999995" y="2066" width="87.2" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="varlpIeGK1AMJLTbUiaN-1" value="DeleteNodes" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="varlpIeGK1AMJLTbUiaN-1" value="DeleteNodes" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="187" y="1082" width="345" height="77" as="geometry">
             <mxRectangle x="188" y="1102" width="32" height="92" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5BBRg3yK1_JjyFoo_uhe-3" value="跳过虚拟node" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="varlpIeGK1AMJLTbUiaN-1">
+          <mxGeometry x="120.5" y="25" width="90" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
