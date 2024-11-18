@@ -89,13 +89,19 @@
           <mxGeometry x="103" y="811" width="200" height="27" as="geometry" />
         </mxCell>
         <mxCell id="vgwbtMTXq44dJ_e6THVO-56" value="获取实例元信息&lt;br&gt;getInstanceMetadata(node)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="103" y="875" width="201" height="30" as="geometry" />
+          <mxGeometry x="102.5" y="932" width="201" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vgwbtMTXq44dJ_e6THVO-57" value="实例元信息获取label、providerId等&lt;br&gt;getNodeModifiersFromCloudProvider" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="103" y="944" width="202" height="30" as="geometry" />
+          <mxGeometry x="103" y="988" width="202" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vgwbtMTXq44dJ_e6THVO-58" value="更新node信息、记录event&lt;div&gt;client.Update()、recorder.Event()&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="103" y="1007" width="202" height="30" as="geometry" />
+          <mxGeometry x="103" y="1034" width="202" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vgwbtMTXq44dJ_e6THVO-59" value="获取node taint&lt;br&gt;getCloudTaint(node.spec)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="103" y="860" width="201" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vgwbtMTXq44dJ_e6THVO-62" value="node.cloudprovider.kubernetes.io/uninitialized" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="452" y="875" width="263" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
