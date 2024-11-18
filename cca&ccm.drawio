@@ -101,7 +101,7 @@
           <mxGeometry x="103" y="860" width="201" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vgwbtMTXq44dJ_e6THVO-62" value="node.cloudprovider.kubernetes.io/uninitialized" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="860" width="263" height="30" as="geometry" />
+          <mxGeometry x="358" y="860" width="263" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
