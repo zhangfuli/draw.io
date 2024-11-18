@@ -88,8 +88,8 @@
         <mxCell id="vgwbtMTXq44dJ_e6THVO-55" value="&amp;nbsp;获取node信息&lt;div&gt;nodeInformer.Get(nodeName)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="103" y="811" width="200" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="vgwbtMTXq44dJ_e6THVO-56" value="获取实例元信息&lt;br&gt;getInstanceMetadata(node)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="102.5" y="932" width="201" height="30" as="geometry" />
+        <mxCell id="vgwbtMTXq44dJ_e6THVO-56" value="获取实例元信息&lt;br&gt;getInstanceMetadata(node)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="102.5" y="930" width="201" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vgwbtMTXq44dJ_e6THVO-57" value="实例元信息获取label、providerId等&lt;br&gt;getNodeModifiersFromCloudProvider" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="103" y="988" width="202" height="30" as="geometry" />
@@ -101,7 +101,7 @@
           <mxGeometry x="103" y="860" width="201" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vgwbtMTXq44dJ_e6THVO-62" value="node.cloudprovider.kubernetes.io/uninitialized" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="358" y="860" width="263" height="30" as="geometry" />
+          <mxGeometry x="329" y="860" width="263" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
