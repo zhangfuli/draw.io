@@ -94,7 +94,7 @@
         <mxCell id="vgwbtMTXq44dJ_e6THVO-57" value="实例元信息获取label、providerId等&lt;br&gt;getNodeModifiersFromCloudProvider" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="103" y="944" width="202" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vgwbtMTXq44dJ_e6THVO-58" value="更新node信息&lt;div&gt;client.Update()&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vgwbtMTXq44dJ_e6THVO-58" value="更新node信息、记录event&lt;div&gt;client.Update()、recorder.Event()&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="103" y="1007" width="202" height="30" as="geometry" />
         </mxCell>
       </root>
