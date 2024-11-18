@@ -74,7 +74,10 @@
           <mxGeometry x="490" y="612" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vgwbtMTXq44dJ_e6THVO-50" value="nodeInformer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="537" width="157" height="29" as="geometry" />
+          <mxGeometry x="276" y="538" width="157" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="vgwbtMTXq44dJ_e6THVO-51" value="SplitMetaNamespaceKey" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="156.00333333333327" y="667.5925925925926" width="163" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
