@@ -55,8 +55,8 @@
         <mxCell id="vgwbtMTXq44dJ_e6THVO-5" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;" vertex="1" parent="1">
           <mxGeometry x="81" y="355" width="54" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vgwbtMTXq44dJ_e6THVO-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="161" y="330" width="259" height="124" as="geometry" />
+        <mxCell id="vgwbtMTXq44dJ_e6THVO-8" value="Token()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="372" width="71" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
