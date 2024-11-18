@@ -76,8 +76,20 @@
         <mxCell id="vgwbtMTXq44dJ_e6THVO-50" value="nodeInformer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="276" y="538" width="157" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="vgwbtMTXq44dJ_e6THVO-51" value="SplitMetaNamespaceKey(name)" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="148" y="667.59" width="211" height="29.41" as="geometry" />
+        <mxCell id="vgwbtMTXq44dJ_e6THVO-51" value="SplitMetaNamespaceKey(key)" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="61" y="667.59" width="211" height="29.41" as="geometry" />
+        </mxCell>
+        <mxCell id="vgwbtMTXq44dJ_e6THVO-52" value="key: ns/name" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="249" y="667.59" width="211" height="29.41" as="geometry" />
+        </mxCell>
+        <mxCell id="vgwbtMTXq44dJ_e6THVO-54" value="syncNode" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="86" y="723" width="68" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="vgwbtMTXq44dJ_e6THVO-55" value="nodeInformer.Get 获取节点信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="811" width="173" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="vgwbtMTXq44dJ_e6THVO-56" value="nodeInformer.Get 获取节点信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="154" y="868" width="173" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
