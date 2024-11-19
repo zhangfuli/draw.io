@@ -111,7 +111,7 @@
         <mxCell id="vgwbtMTXq44dJ_e6THVO-62" value="&lt;div&gt;kubelet --cloud-provider=&quot;external&quot;&lt;/div&gt;node.cloudprovider.kubernetes.io/uninitialized" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="329" y="860" width="263" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vgwbtMTXq44dJ_e6THVO-65" value="&lt;div&gt;kubelet --cloud-provider=&quot;external&quot;&lt;/div&gt;node.cloudprovider.kubernetes.io/uninitialized" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vgwbtMTXq44dJ_e6THVO-65" value="InstanceMetadata(node)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="329" y="925" width="263" height="30" as="geometry" />
         </mxCell>
       </root>
