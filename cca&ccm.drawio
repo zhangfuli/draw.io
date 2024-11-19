@@ -226,13 +226,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vgwbtMTXq44dJ_e6THVO-128" value="&amp;nbsp;获取所有node信息&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;nodesLister.List()&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="105" y="1472" width="253" height="27" as="geometry" />
+          <mxGeometry x="105" y="1467" width="253" height="27" as="geometry" />
         </mxCell>
         <mxCell id="vgwbtMTXq44dJ_e6THVO-129" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vgwbtMTXq44dJ_e6THVO-130" target="vgwbtMTXq44dJ_e6THVO-132">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vgwbtMTXq44dJ_e6THVO-130" value="GetNodeCondition(v1.NodeReady)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="105.5" y="1522" width="252" height="29" as="geometry" />
+          <mxGeometry x="105.5" y="1518" width="252" height="29" as="geometry" />
         </mxCell>
         <mxCell id="vgwbtMTXq44dJ_e6THVO-131" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vgwbtMTXq44dJ_e6THVO-132" target="vgwbtMTXq44dJ_e6THVO-135">
           <mxGeometry relative="1" as="geometry" />
