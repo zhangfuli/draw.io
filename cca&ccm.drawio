@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="第 1 页" id="36RgzYje6eGZbE3Gu0CY">
-    <mxGraphModel dx="1062" dy="500" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1889" dy="500" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -108,17 +108,20 @@
         <mxCell id="vgwbtMTXq44dJ_e6THVO-59" value="获取node taint&lt;br&gt;getCloudTaint(node.spec)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="103" y="867" width="201" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="vgwbtMTXq44dJ_e6THVO-73" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="vgwbtMTXq44dJ_e6THVO-62" target="vgwbtMTXq44dJ_e6THVO-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vgwbtMTXq44dJ_e6THVO-62" value="&lt;div&gt;kubelet --cloud-provider=&quot;external&quot;&lt;/div&gt;node.cloudprovider.kubernetes.io/uninitialized" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="329" y="864" width="263" height="30" as="geometry" />
+          <mxGeometry x="-202" y="867" width="263" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vgwbtMTXq44dJ_e6THVO-65" value="InstanceMetadata(node)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="329" y="925" width="195" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vgwbtMTXq44dJ_e6THVO-67" value="GetInstanceProviderID(nodeName)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vgwbtMTXq44dJ_e6THVO-67" value="GetInstanceProviderID(nodeName)&lt;br&gt;gce://instacneID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="329.26" y="974" width="196.74" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vgwbtMTXq44dJ_e6THVO-70" value="&lt;span style=&quot;text-align: left;&quot;&gt;instance.InstanceID(nodeName)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="564" y="976" width="207" height="30" as="geometry" />
+        <mxCell id="vgwbtMTXq44dJ_e6THVO-70" value="&lt;span style=&quot;text-align: left;&quot;&gt;instance.InstanceID(nodeName)&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;projectID/instance.Zone/instance.Name&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="564" y="976" width="214" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vgwbtMTXq44dJ_e6THVO-72" value="&lt;span style=&quot;text-align: left;&quot;&gt;g.getInstanceByName(instanceName)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="564" y="1018" width="207" height="30" as="geometry" />
