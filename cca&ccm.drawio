@@ -127,7 +127,7 @@
           <mxGeometry x="11.879999999999995" y="50" width="214" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vgwbtMTXq44dJ_e6THVO-89" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="418.5" y="817" width="237.75" height="223" as="geometry" />
+          <mxGeometry x="418" y="818" width="237.75" height="223" as="geometry" />
         </mxCell>
         <mxCell id="vgwbtMTXq44dJ_e6THVO-86" value="InstanceMetadata(node)" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;arcSize=5;dashed=1;" vertex="1" parent="vgwbtMTXq44dJ_e6THVO-89">
           <mxGeometry width="237.75" height="223" as="geometry" />
@@ -139,13 +139,13 @@
           <mxGeometry x="11.5" y="35" width="212" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vgwbtMTXq44dJ_e6THVO-75" value="&lt;span style=&quot;&quot;&gt;GetGCERegion(zone)&lt;/span&gt;&lt;div style=&quot;&quot;&gt;zone/region&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="vgwbtMTXq44dJ_e6THVO-89">
-          <mxGeometry x="11.5" y="82" width="213" height="30" as="geometry" />
+          <mxGeometry x="10.5" y="83" width="213" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vgwbtMTXq44dJ_e6THVO-77" value="&lt;span style=&quot;text-align: left;&quot;&gt;nodeAddressesFromInstance(instance)&lt;br&gt;Address&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vgwbtMTXq44dJ_e6THVO-89">
-          <mxGeometry x="12" y="131" width="213.74" height="30" as="geometry" />
+          <mxGeometry x="9.76" y="132" width="213.74" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vgwbtMTXq44dJ_e6THVO-78" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;instanceType&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vgwbtMTXq44dJ_e6THVO-89">
-          <mxGeometry x="12" y="180" width="213.74" height="30" as="geometry" />
+          <mxGeometry x="9.76" y="179" width="213.74" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vgwbtMTXq44dJ_e6THVO-84" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="vgwbtMTXq44dJ_e6THVO-89" source="vgwbtMTXq44dJ_e6THVO-75" target="vgwbtMTXq44dJ_e6THVO-77">
           <mxGeometry relative="1" as="geometry">
