@@ -4,6 +4,21 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vgwbtMTXq44dJ_e6THVO-147" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="404" y="1538" width="278" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="vgwbtMTXq44dJ_e6THVO-144" value="InstanceExists(node)" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="vgwbtMTXq44dJ_e6THVO-147">
+          <mxGeometry width="278" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="vgwbtMTXq44dJ_e6THVO-146" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="vgwbtMTXq44dJ_e6THVO-147" source="vgwbtMTXq44dJ_e6THVO-140" target="vgwbtMTXq44dJ_e6THVO-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vgwbtMTXq44dJ_e6THVO-140" value="node.Spec.ProviderID==&quot;&quot;&lt;br&gt;GetInstanceProviderID(nodeName)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="vgwbtMTXq44dJ_e6THVO-147">
+          <mxGeometry x="13" y="34.61999999999989" width="252" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="vgwbtMTXq44dJ_e6THVO-142" value="&lt;span style=&quot;text-align: left;&quot;&gt;InstanceExistsByProviderID(providerID)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vgwbtMTXq44dJ_e6THVO-147">
+          <mxGeometry x="13" y="85" width="254" height="29" as="geometry" />
+        </mxCell>
         <mxCell id="vgwbtMTXq44dJ_e6THVO-120" value="UpdateNodeStatus" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="1">
           <mxGeometry x="92" y="1127" width="278" height="235" as="geometry" />
         </mxCell>
@@ -246,17 +261,11 @@
         <mxCell id="vgwbtMTXq44dJ_e6THVO-137" value="NotReady" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="171.00000000000006" y="1547" width="57.92" height="25.62" as="geometry" />
         </mxCell>
-        <mxCell id="vgwbtMTXq44dJ_e6THVO-139" value="InstanceExists(node)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="395" y="1518" width="252" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="vgwbtMTXq44dJ_e6THVO-140" value="node.Spec.ProviderID==&quot;&quot;&lt;br&gt;GetInstanceProviderID(nodeName)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="395" y="1585" width="252" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="vgwbtMTXq44dJ_e6THVO-142" value="&lt;span style=&quot;text-align: left;&quot;&gt;InstanceExistsByProviderID(providerID)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="395" y="1628" width="254" height="29" as="geometry" />
+        <mxCell id="vgwbtMTXq44dJ_e6THVO-148" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="vgwbtMTXq44dJ_e6THVO-143" target="vgwbtMTXq44dJ_e6THVO-142">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vgwbtMTXq44dJ_e6THVO-143" value="&lt;span style=&quot;text-align: left;&quot;&gt;getInstanceFromProjectInZoneByName&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;入参: project, zone,instanceName&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="698" y="1627.5" width="228" height="30" as="geometry" />
+          <mxGeometry x="705" y="1622" width="228" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
