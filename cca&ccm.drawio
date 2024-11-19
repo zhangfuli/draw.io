@@ -255,7 +255,7 @@
         <mxCell id="vgwbtMTXq44dJ_e6THVO-132" value="ensureNodeExistsByProviderID(node)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="106" y="1577" width="252" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="vgwbtMTXq44dJ_e6THVO-135" value="存在，deleteNode&lt;div&gt;不存在，添加shutdown taint&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vgwbtMTXq44dJ_e6THVO-135" value="厂商不存在，deleteNode&lt;div&gt;厂商存在，添加shutdown taint&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="105.5" y="1628" width="253" height="29" as="geometry" />
         </mxCell>
         <mxCell id="vgwbtMTXq44dJ_e6THVO-137" value="NotReady" style="text;whiteSpace=wrap;" vertex="1" parent="1">
