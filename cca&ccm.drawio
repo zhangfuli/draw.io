@@ -126,10 +126,10 @@
         <mxCell id="vgwbtMTXq44dJ_e6THVO-72" value="&lt;span style=&quot;text-align: left;&quot;&gt;g.getInstanceByName(instanceName)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="564" y="1027" width="214" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vgwbtMTXq44dJ_e6THVO-75" value="&lt;span style=&quot;text-align: left;&quot;&gt;GetGCERegion&lt;/span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;region&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vgwbtMTXq44dJ_e6THVO-75" value="&lt;span style=&quot;&quot;&gt;GetGCERegion(zone)&lt;/span&gt;&lt;div style=&quot;&quot;&gt;zone/region&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="329.26" y="1018" width="196.74" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vgwbtMTXq44dJ_e6THVO-77" value="&lt;span style=&quot;text-align: left;&quot;&gt;nodeAddressesFromInstance&lt;br&gt;Address&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vgwbtMTXq44dJ_e6THVO-77" value="&lt;span style=&quot;text-align: left;&quot;&gt;nodeAddressesFromInstance(instance)&lt;br&gt;Address&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="334" y="1067" width="196.74" height="30" as="geometry" />
         </mxCell>
       </root>
