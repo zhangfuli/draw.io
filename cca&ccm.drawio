@@ -237,14 +237,14 @@
         <mxCell id="vgwbtMTXq44dJ_e6THVO-131" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vgwbtMTXq44dJ_e6THVO-132" target="vgwbtMTXq44dJ_e6THVO-135">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vgwbtMTXq44dJ_e6THVO-132" value="getInstanceNodeAddresses(node)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vgwbtMTXq44dJ_e6THVO-132" value="ensureNodeExistsByProviderID(node)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="106" y="1577" width="252" height="29" as="geometry" />
         </mxCell>
         <mxCell id="vgwbtMTXq44dJ_e6THVO-135" value="updateNodeAddress" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="105.5" y="1628" width="253" height="29" as="geometry" />
         </mxCell>
         <mxCell id="vgwbtMTXq44dJ_e6THVO-137" value="NotReady" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="171.00000000000006" y="1547" width="57.92" height="25.62" as="geometry" />
+          <mxGeometry x="172.00000000000006" y="1547" width="57.92" height="25.62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
