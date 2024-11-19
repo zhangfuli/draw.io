@@ -195,13 +195,13 @@
         <mxCell id="vgwbtMTXq44dJ_e6THVO-122" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vgwbtMTXq44dJ_e6THVO-107" target="vgwbtMTXq44dJ_e6THVO-109">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vgwbtMTXq44dJ_e6THVO-107" value="getCloudTaint&lt;br&gt;&lt;span style=&quot;color: rgb(51, 51, 51);&quot;&gt;node.cloudprovider.kubernetes.io/uninitialized&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vgwbtMTXq44dJ_e6THVO-107" value="getCloudTaint(node.spec.taints)&lt;br&gt;&lt;span style=&quot;color: rgb(51, 51, 51);&quot;&gt;node.cloudprovider.kubernetes.io/uninitialized&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="105.5" y="1213" width="252" height="29" as="geometry" />
         </mxCell>
         <mxCell id="vgwbtMTXq44dJ_e6THVO-123" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vgwbtMTXq44dJ_e6THVO-109" target="vgwbtMTXq44dJ_e6THVO-119">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vgwbtMTXq44dJ_e6THVO-109" value="getInstanceNodeAddresses" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vgwbtMTXq44dJ_e6THVO-109" value="getInstanceNodeAddresses(node)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="106" y="1268" width="252" height="29" as="geometry" />
         </mxCell>
         <mxCell id="vgwbtMTXq44dJ_e6THVO-110" value="" style="group;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" connectable="0" parent="1">
