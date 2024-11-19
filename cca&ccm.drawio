@@ -118,7 +118,7 @@
           <mxGeometry x="329" y="925" width="195" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vgwbtMTXq44dJ_e6THVO-67" value="GetInstanceProviderID(nodeName)&lt;br&gt;gce://instacneID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="329.26" y="974" width="196.74" height="30" as="geometry" />
+          <mxGeometry x="317" y="973" width="212" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vgwbtMTXq44dJ_e6THVO-70" value="&lt;span style=&quot;text-align: left;&quot;&gt;instance.InstanceID(nodeName)&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;projectID/instance.Zone/instance.Name&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="564" y="976" width="214" height="30" as="geometry" />
@@ -127,10 +127,13 @@
           <mxGeometry x="564" y="1027" width="214" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vgwbtMTXq44dJ_e6THVO-75" value="&lt;span style=&quot;&quot;&gt;GetGCERegion(zone)&lt;/span&gt;&lt;div style=&quot;&quot;&gt;zone/region&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="329.26" y="1018" width="196.74" height="30" as="geometry" />
+          <mxGeometry x="317" y="1018" width="213" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vgwbtMTXq44dJ_e6THVO-77" value="&lt;span style=&quot;text-align: left;&quot;&gt;nodeAddressesFromInstance(instance)&lt;br&gt;Address&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="334" y="1067" width="196.74" height="30" as="geometry" />
+          <mxGeometry x="317" y="1060" width="213.74" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vgwbtMTXq44dJ_e6THVO-78" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;instanceType&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="317" y="1102" width="213.74" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
