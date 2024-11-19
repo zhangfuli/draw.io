@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="第 1 页" id="36RgzYje6eGZbE3Gu0CY">
-    <mxGraphModel dx="1503" dy="519" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1595" dy="563" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vgwbtMTXq44dJ_e6THVO-126" value="MonitorNodes" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="89" y="1434" width="278" height="235" as="geometry" />
+        </mxCell>
         <mxCell id="vgwbtMTXq44dJ_e6THVO-147" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="404" y="1538" width="278" height="128" as="geometry" />
         </mxCell>
@@ -234,9 +237,6 @@
             <mxPoint x="242" y="1278" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vgwbtMTXq44dJ_e6THVO-126" value="UpdateNodeStatus" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="1">
-          <mxGeometry x="-213" y="1419" width="278" height="235" as="geometry" />
-        </mxCell>
         <mxCell id="vgwbtMTXq44dJ_e6THVO-127" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vgwbtMTXq44dJ_e6THVO-128" target="vgwbtMTXq44dJ_e6THVO-130">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -266,6 +266,18 @@
         </mxCell>
         <mxCell id="vgwbtMTXq44dJ_e6THVO-143" value="&lt;span style=&quot;text-align: left;&quot;&gt;getInstanceFromProjectInZoneByName&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;入参: project, zone,instanceName&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="705" y="1622" width="228" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vgwbtMTXq44dJ_e6THVO-149" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vgwbtMTXq44dJ_e6THVO-132">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="451" y="1282" as="sourcePoint" />
+            <mxPoint x="402" y="1549" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgwbtMTXq44dJ_e6THVO-150" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;entryX=0;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="vgwbtMTXq44dJ_e6THVO-144">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="358" y="1592" as="sourcePoint" />
+            <mxPoint x="412" y="1559" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
