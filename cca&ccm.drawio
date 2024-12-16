@@ -324,6 +324,15 @@
         <mxCell id="lga6PXxjO77zRgHS1bvE-13" value="nodeclaim.initialization" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="lga6PXxjO77zRgHS1bvE-12">
           <mxGeometry width="202" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="lga6PXxjO77zRgHS1bvE-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="661" y="1854" width="202" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lga6PXxjO77zRgHS1bvE-16" value="nodeclaim.registration" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="lga6PXxjO77zRgHS1bvE-15">
+          <mxGeometry width="202" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lga6PXxjO77zRgHS1bvE-17" value="cloudProvider.Create(nodeClaim)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lga6PXxjO77zRgHS1bvE-15">
+          <mxGeometry x="7" y="27" width="188" height="27" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
