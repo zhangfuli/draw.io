@@ -304,13 +304,13 @@
           <mxGeometry x="7" y="27" width="188" height="27" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-9" value="found pending pod" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-71" y="2080" width="253" height="27" as="geometry" />
+          <mxGeometry x="-71" y="2203" width="253" height="27" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-10" value="computed new nodeclaim(s) to fit pod(s)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-75" y="2130" width="253" height="27" as="geometry" />
+          <mxGeometry x="-75" y="2253" width="253" height="27" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-11" value="created nodeclaim" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-71" y="2181" width="253" height="27" as="geometry" />
+          <mxGeometry x="-71" y="2304" width="253" height="27" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-12" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="495.25" y="2380" width="202" height="30" as="geometry" />
@@ -363,13 +363,16 @@
           <mxGeometry x="20.120000000000005" y="33" width="204" height="27" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-25" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="70" y="1861" width="244.25" height="70.5" as="geometry" />
+          <mxGeometry x="70" y="1861" width="244.25" height="201" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-26" value="provisioner" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="lga6PXxjO77zRgHS1bvE-25">
-          <mxGeometry width="244.25" height="70.5" as="geometry" />
+          <mxGeometry width="244.25" height="201" as="geometry" />
         </mxCell>
-        <mxCell id="lga6PXxjO77zRgHS1bvE-27" value="UpdateNode()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lga6PXxjO77zRgHS1bvE-25">
-          <mxGeometry x="20.120000000000005" y="33" width="204" height="27" as="geometry" />
+        <mxCell id="lga6PXxjO77zRgHS1bvE-28" value="Schedule()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lga6PXxjO77zRgHS1bvE-25">
+          <mxGeometry x="20.129999999999995" y="33" width="204" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="lga6PXxjO77zRgHS1bvE-27" value="schedule" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="383" y="1929" width="161" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
