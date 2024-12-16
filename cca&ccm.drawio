@@ -387,7 +387,10 @@
           <mxGeometry x="687" y="1972" width="204" height="27" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-39" value="&lt;div&gt;获取并筛选NodePool&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="667" y="1846" width="204" height="27" as="geometry" />
+          <mxGeometry x="682" y="1828" width="204" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="lga6PXxjO77zRgHS1bvE-40" value="获取所有的instanceType" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="682" y="1863.75" width="204" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
