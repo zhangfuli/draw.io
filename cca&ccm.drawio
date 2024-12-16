@@ -360,13 +360,10 @@
           <mxGeometry x="20.120000000000005" y="33" width="204" height="27" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-25" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="70" y="1861" width="244.25" height="201" as="geometry" />
+          <mxGeometry x="-140" y="2059" width="855.25" height="292.99" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-26" value="provisioner" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="lga6PXxjO77zRgHS1bvE-25">
-          <mxGeometry width="244.25" height="201" as="geometry" />
-        </mxCell>
-        <mxCell id="lga6PXxjO77zRgHS1bvE-28" value="Schedule()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lga6PXxjO77zRgHS1bvE-25">
-          <mxGeometry x="20.129999999999995" y="33" width="204" height="27" as="geometry" />
+          <mxGeometry width="855.25" height="292.99" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-29" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="365.5" y="1801" width="244.25" height="201" as="geometry" />
@@ -384,7 +381,7 @@
           <mxGeometry x="20.129999999999995" y="74" width="204" height="27" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-38" value="nodeSelectorRequirement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="682" y="2005" width="204" height="27" as="geometry" />
+          <mxGeometry x="682" y="1949" width="204" height="27" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-39" value="&lt;div&gt;获取并筛选NodePool&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="682" y="1828" width="204" height="27" as="geometry" />
