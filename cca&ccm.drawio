@@ -289,10 +289,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-4" value="nodeclaim.lifecycle" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="1">
-          <mxGeometry x="473" y="2187" width="246.5" height="319" as="geometry" />
+          <mxGeometry x="472" y="2480" width="246.5" height="319" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-8" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="495.25" y="2219" width="253" height="60" as="geometry" />
+          <mxGeometry x="494.25" y="2512" width="253" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-6" value="nodeclaim.lauch" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="lga6PXxjO77zRgHS1bvE-8">
           <mxGeometry width="202" height="60" as="geometry" />
@@ -301,22 +301,22 @@
           <mxGeometry x="7" y="27" width="188" height="27" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-9" value="found pending pod" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-71" y="2203" width="253" height="27" as="geometry" />
+          <mxGeometry x="-72" y="2496" width="253" height="27" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-10" value="computed new nodeclaim(s) to fit pod(s)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-75" y="2253" width="253" height="27" as="geometry" />
+          <mxGeometry x="-76" y="2546" width="253" height="27" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-11" value="created nodeclaim" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-71" y="2304" width="253" height="27" as="geometry" />
+          <mxGeometry x="-72" y="2597" width="253" height="27" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-12" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="495.25" y="2380" width="202" height="30" as="geometry" />
+          <mxGeometry x="494.25" y="2673" width="202" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-13" value="nodeclaim.initialization" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="lga6PXxjO77zRgHS1bvE-12">
           <mxGeometry width="202" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-15" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="495.25" y="2300" width="202" height="60" as="geometry" />
+          <mxGeometry x="494.25" y="2593" width="202" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-16" value="nodeclaim.registration" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="lga6PXxjO77zRgHS1bvE-15">
           <mxGeometry width="202" height="60" as="geometry" />
@@ -325,7 +325,7 @@
           <mxGeometry x="7" y="27" width="188" height="27" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-18" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="495.25" y="2430" width="202" height="60" as="geometry" />
+          <mxGeometry x="494.25" y="2723" width="202" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-19" value="nodeclaim.liveness" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="lga6PXxjO77zRgHS1bvE-18">
           <mxGeometry width="202" height="60" as="geometry" />
@@ -335,19 +335,19 @@
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-21" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lga6PXxjO77zRgHS1bvE-6" target="lga6PXxjO77zRgHS1bvE-16">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="596.25" y="2317" as="targetPoint" />
+            <mxPoint x="595.25" y="2610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-22" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lga6PXxjO77zRgHS1bvE-16" target="lga6PXxjO77zRgHS1bvE-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="595.25" y="2360" as="sourcePoint" />
-            <mxPoint x="606.25" y="2310" as="targetPoint" />
+            <mxPoint x="594.25" y="2653" as="sourcePoint" />
+            <mxPoint x="605.25" y="2603" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-23" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lga6PXxjO77zRgHS1bvE-13" target="lga6PXxjO77zRgHS1bvE-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="606.25" y="2370" as="sourcePoint" />
-            <mxPoint x="606.25" y="2390" as="targetPoint" />
+            <mxPoint x="605.25" y="2663" as="sourcePoint" />
+            <mxPoint x="605.25" y="2683" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-24" value="" style="group" vertex="1" connectable="0" parent="1">
