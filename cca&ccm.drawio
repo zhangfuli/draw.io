@@ -441,10 +441,10 @@
           <mxGeometry x="10.99860103626943" y="8.818181818181818" width="74.61139896373057" height="88.18181818181819" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-74" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="41.388601036269435" y="2326.818181818182" width="74.61139896373057" height="88.18181818181819" as="geometry" />
+          <mxGeometry x="61.388601036269435" y="2326.818181818182" width="74.61139896373057" height="88.18181818181819" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-75" value="instanceType" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="37.388601036269435" y="2322.408181818182" width="74.61139896373057" height="88.18181818181819" as="geometry" />
+          <mxGeometry x="57.388601036269435" y="2322.408181818182" width="74.61139896373057" height="88.18181818181819" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
