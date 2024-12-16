@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lga6PXxjO77zRgHS1bvE-3" value="informer.NodeController" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-273" y="1846" width="278" height="235" as="geometry" />
+        </mxCell>
         <mxCell id="vgwbtMTXq44dJ_e6THVO-126" value="MonitorNodes" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" parent="1" vertex="1">
           <mxGeometry x="89" y="1434" width="278" height="235" as="geometry" />
         </mxCell>
@@ -288,11 +291,14 @@
             <mxPoint x="412" y="1559" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lga6PXxjO77zRgHS1bvE-2" value="&amp;nbsp;获取所有node信息&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;nodesLister.List()&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1909" width="253" height="27" as="geometry" />
+        <mxCell id="lga6PXxjO77zRgHS1bvE-2" value="UpdateNode()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="1913" width="253" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="lga6PXxjO77zRgHS1bvE-3" value="informer.NodeController" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="1849" width="278" height="235" as="geometry" />
+        <mxCell id="lga6PXxjO77zRgHS1bvE-4" value="nodeclaim.lifecycle" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="86" y="1859" width="278" height="235" as="geometry" />
+        </mxCell>
+        <mxCell id="lga6PXxjO77zRgHS1bvE-5" value="UpdateNode()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="99" y="1926" width="253" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
