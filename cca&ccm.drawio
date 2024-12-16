@@ -488,11 +488,6 @@
             <mxPoint x="680.3838335761702" y="2245.998336000194" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lga6PXxjO77zRgHS1bvE-112" value="pod&amp;nbsp;&lt;div&gt;nodeSelector&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lga6PXxjO77zRgHS1bvE-110">
-          <mxGeometry x="0.0593" relative="1" as="geometry">
-            <mxPoint x="-95" y="-201" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-115" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="35" y="2171" as="sourcePoint" />
@@ -551,7 +546,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-146" value="nodeClaimTemplate--&amp;gt;nodeClaim" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="281" y="2374" width="181" height="103" as="geometry" />
+          <mxGeometry x="281" y="2374" width="206" height="103" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-147" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="292" y="2403" width="52" height="67" as="geometry" />
@@ -567,6 +562,20 @@
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-151" value="instance&lt;div&gt;Type&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="lga6PXxjO77zRgHS1bvE-149">
           <mxGeometry x="2.956067372614976" y="3.045996832329209" width="47.02693435007307" height="60.907378424224405" as="geometry" />
+        </mxCell>
+        <mxCell id="lga6PXxjO77zRgHS1bvE-163" value="node&lt;div&gt;Claim&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="429.223065649927" y="2406.0426215757757" width="47.02693435007307" height="60.907378424224405" as="geometry" />
+        </mxCell>
+        <mxCell id="lga6PXxjO77zRgHS1bvE-164" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.572;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.999;exitY=0.479;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="lga6PXxjO77zRgHS1bvE-163">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="343.99512282040047" y="2441.0082628262826" as="sourcePoint" />
+            <mxPoint x="405.07675416180206" y="2440.997168027141" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lga6PXxjO77zRgHS1bvE-166" value="pod&amp;nbsp;&lt;div&gt;nodeSelector&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lga6PXxjO77zRgHS1bvE-164">
+          <mxGeometry x="-0.2721" y="1" relative="1" as="geometry">
+            <mxPoint x="7" y="-2" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
