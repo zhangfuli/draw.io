@@ -363,9 +363,9 @@
           <mxGeometry x="20.120000000000005" y="33" width="204" height="27" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-25" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-22" y="1758" width="244.25" height="70.5" as="geometry" />
+          <mxGeometry x="70" y="1861" width="244.25" height="70.5" as="geometry" />
         </mxCell>
-        <mxCell id="lga6PXxjO77zRgHS1bvE-26" value="informer.NodeController" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="lga6PXxjO77zRgHS1bvE-25">
+        <mxCell id="lga6PXxjO77zRgHS1bvE-26" value="provisioner" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="lga6PXxjO77zRgHS1bvE-25">
           <mxGeometry width="244.25" height="70.5" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-27" value="UpdateNode()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lga6PXxjO77zRgHS1bvE-25">
