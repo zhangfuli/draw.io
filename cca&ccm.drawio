@@ -301,7 +301,7 @@
           <mxGeometry x="729.75" y="2000" width="136" height="28" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-8" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="342" y="1910" width="202" height="60" as="geometry" />
+          <mxGeometry x="339" y="1900" width="202" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-6" value="nodeclaim.lauch" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="lga6PXxjO77zRgHS1bvE-8">
           <mxGeometry width="202" height="60" as="geometry" />
@@ -317,6 +317,12 @@
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-11" value="created nodeclaim" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="18" y="1958" width="253" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="lga6PXxjO77zRgHS1bvE-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="339" y="2000" width="202" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lga6PXxjO77zRgHS1bvE-13" value="nodeclaim.initialization" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="lga6PXxjO77zRgHS1bvE-12">
+          <mxGeometry width="202" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
