@@ -295,7 +295,7 @@
           <mxGeometry x="-260" y="1913" width="253" height="27" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-4" value="nodeclaim.lifecycle" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="1">
-          <mxGeometry x="301" y="1854" width="278" height="320" as="geometry" />
+          <mxGeometry x="311.5" y="1854" width="257" height="320" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-7" value="nodeclaim.lauch" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="1">
           <mxGeometry x="736" y="1893" width="136" height="28" as="geometry" />
