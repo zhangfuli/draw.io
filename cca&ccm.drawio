@@ -295,19 +295,28 @@
           <mxGeometry x="-260" y="1913" width="253" height="27" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-4" value="nodeclaim.lifecycle" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="1">
-          <mxGeometry x="86" y="1859" width="278" height="235" as="geometry" />
+          <mxGeometry x="301" y="1854" width="278" height="235" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-7" value="nodeclaim.lauch" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="1">
           <mxGeometry x="729.75" y="2000" width="136" height="28" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-8" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="127" y="1915" width="202" height="60" as="geometry" />
+          <mxGeometry x="342" y="1910" width="202" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-6" value="nodeclaim.lauch" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="lga6PXxjO77zRgHS1bvE-8">
           <mxGeometry width="202" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-5" value="cloudProvider.Create(nodeClaim)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lga6PXxjO77zRgHS1bvE-8">
           <mxGeometry x="7" y="27" width="188" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="lga6PXxjO77zRgHS1bvE-9" value="found pending pod" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="18" y="1857" width="253" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="lga6PXxjO77zRgHS1bvE-10" value="computed new nodeclaim(s) to fit pod(s)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="14" y="1907" width="253" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="lga6PXxjO77zRgHS1bvE-11" value="created nodeclaim" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="18" y="1958" width="253" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
