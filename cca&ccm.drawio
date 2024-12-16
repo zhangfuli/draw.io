@@ -298,7 +298,7 @@
           <mxGeometry x="301" y="1854" width="278" height="320" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-7" value="nodeclaim.lauch" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="1">
-          <mxGeometry x="729.75" y="2000" width="136" height="28" as="geometry" />
+          <mxGeometry x="736" y="1893" width="136" height="28" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-8" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="339" y="1900" width="202" height="60" as="geometry" />
@@ -319,18 +319,27 @@
           <mxGeometry x="18" y="1958" width="253" height="27" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-12" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="339" y="2101" width="202" height="30" as="geometry" />
+          <mxGeometry x="339" y="2051" width="202" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-13" value="nodeclaim.initialization" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="lga6PXxjO77zRgHS1bvE-12">
           <mxGeometry width="202" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-15" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="339" y="1998" width="202" height="60" as="geometry" />
+          <mxGeometry x="339" y="1974" width="202" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-16" value="nodeclaim.registration" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="lga6PXxjO77zRgHS1bvE-15">
           <mxGeometry width="202" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-17" value="r.kubeClient.Patch(node)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lga6PXxjO77zRgHS1bvE-15">
+          <mxGeometry x="7" y="27" width="188" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="lga6PXxjO77zRgHS1bvE-18" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="339" y="2098" width="202" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lga6PXxjO77zRgHS1bvE-19" value="nodeclaim.liveness" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="lga6PXxjO77zRgHS1bvE-18">
+          <mxGeometry width="202" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lga6PXxjO77zRgHS1bvE-20" value="r.kubeClient.Delete(nodeclaim)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lga6PXxjO77zRgHS1bvE-18">
           <mxGeometry x="7" y="27" width="188" height="27" as="geometry" />
         </mxCell>
       </root>
