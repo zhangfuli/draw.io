@@ -594,7 +594,7 @@
         <mxCell id="lga6PXxjO77zRgHS1bvE-181" value="cloudProvider.Create(nodeClaim)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="486" y="2261" width="188" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="lga6PXxjO77zRgHS1bvE-180" value="nodeclaim.drift" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="1">
+        <mxCell id="lga6PXxjO77zRgHS1bvE-180" value="nodeclaim.drift(偏移)" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="1">
           <mxGeometry x="187.92999999999998" y="2162" width="202" height="60" as="geometry" />
         </mxCell>
       </root>
