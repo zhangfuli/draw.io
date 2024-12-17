@@ -538,6 +538,9 @@
         <mxCell id="lga6PXxjO77zRgHS1bvE-174" value="验证节点是否能被中断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="533" y="2193" width="179" height="47" as="geometry" />
         </mxCell>
+        <mxCell id="lga6PXxjO77zRgHS1bvE-175" value="验证pod是否能被驱逐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="2251" width="179" height="47" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
