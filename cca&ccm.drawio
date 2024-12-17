@@ -535,6 +535,9 @@
         <mxCell id="lga6PXxjO77zRgHS1bvE-173" value="GetCandidates" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="333" y="2193" width="179" height="47" as="geometry" />
         </mxCell>
+        <mxCell id="lga6PXxjO77zRgHS1bvE-174" value="验证节点是否能被中断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="533" y="2193" width="179" height="47" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
