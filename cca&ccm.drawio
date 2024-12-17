@@ -559,7 +559,7 @@
         <mxCell id="lga6PXxjO77zRgHS1bvE-184" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="187.92999999999998" y="2243" width="202" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lga6PXxjO77zRgHS1bvE-185" value="nodeclaim.registration" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="lga6PXxjO77zRgHS1bvE-184">
+        <mxCell id="lga6PXxjO77zRgHS1bvE-185" value="nodeclaim.consolidation" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="lga6PXxjO77zRgHS1bvE-184">
           <mxGeometry width="202" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-186" value="r.kubeClient.Patch(node)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lga6PXxjO77zRgHS1bvE-184">
