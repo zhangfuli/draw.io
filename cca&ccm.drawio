@@ -570,6 +570,15 @@
         <mxCell id="lga6PXxjO77zRgHS1bvE-181" value="isDrifted(nodeClaim)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="194.93" y="2186" width="188" height="27" as="geometry" />
         </mxCell>
+        <mxCell id="lga6PXxjO77zRgHS1bvE-193" value="厂商api" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3" y="1964.55" width="136" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="lga6PXxjO77zRgHS1bvE-196" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="lga6PXxjO77zRgHS1bvE-193">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="176" y="1922" as="sourcePoint" />
+            <mxPoint x="254" y="1997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
