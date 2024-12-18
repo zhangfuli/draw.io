@@ -359,7 +359,7 @@
             <mxPoint x="578.4091828661935" y="1991.8816420344324" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lga6PXxjO77zRgHS1bvE-166" value="node&lt;div&gt;Selector&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;" vertex="1" connectable="0" parent="lga6PXxjO77zRgHS1bvE-164">
+        <mxCell id="lga6PXxjO77zRgHS1bvE-166" value="binpack" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;" vertex="1" connectable="0" parent="lga6PXxjO77zRgHS1bvE-164">
           <mxGeometry x="-0.2721" y="1" relative="1" as="geometry">
             <mxPoint x="6" y="-17" as="offset" />
           </mxGeometry>
@@ -578,6 +578,9 @@
             <mxPoint x="176" y="1922" as="sourcePoint" />
             <mxPoint x="254" y="1997" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lga6PXxjO77zRgHS1bvE-197" value="node&lt;div&gt;Selector&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="548.7728736059804" y="2007.997439287091" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
