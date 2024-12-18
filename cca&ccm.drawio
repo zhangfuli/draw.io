@@ -361,7 +361,7 @@
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-166" value="binpack" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;" vertex="1" connectable="0" parent="lga6PXxjO77zRgHS1bvE-164">
           <mxGeometry x="-0.2721" y="1" relative="1" as="geometry">
-            <mxPoint x="6" y="-17" as="offset" />
+            <mxPoint x="6" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-148" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;fillColor=#fff2cc;strokeColor=#d6b656;container=0;" vertex="1" parent="1">
@@ -580,7 +580,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lga6PXxjO77zRgHS1bvE-197" value="node&lt;div&gt;Selector&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];container=0;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="548.7728736059804" y="2007.997439287091" as="geometry" />
+          <mxGeometry x="544.5928736059805" y="2007.997439287091" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
