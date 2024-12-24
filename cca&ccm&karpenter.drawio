@@ -604,16 +604,16 @@
           <mxGeometry x="132" y="159" width="22.92" height="22" as="geometry" />
         </mxCell>
         <mxCell id="FzHhuDCIx835FuhgVcT0-36" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#E6E6E6;strokeColor=#FFFFFF;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod" vertex="1" parent="1">
-          <mxGeometry x="11" y="196" width="22.92" height="22" as="geometry" />
+          <mxGeometry x="89" y="196" width="22.92" height="22" as="geometry" />
         </mxCell>
         <mxCell id="FzHhuDCIx835FuhgVcT0-38" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#E6E6E6;strokeColor=#FFFFFF;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod" vertex="1" parent="1">
-          <mxGeometry x="48.08" y="196" width="22.92" height="22" as="geometry" />
+          <mxGeometry x="126.08" y="196" width="22.92" height="22" as="geometry" />
         </mxCell>
         <mxCell id="FzHhuDCIx835FuhgVcT0-39" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#5DA49A;strokeColor=#FFFFFF;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="94.88" y="196" width="22.92" height="22" as="geometry" />
+          <mxGeometry x="12.629999999999992" y="196" width="22.92" height="22" as="geometry" />
         </mxCell>
         <mxCell id="FzHhuDCIx835FuhgVcT0-40" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#5DA49A;strokeColor=#FFFFFF;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="129.63" y="196" width="22.92" height="22" as="geometry" />
+          <mxGeometry x="47.379999999999995" y="196" width="22.92" height="22" as="geometry" />
         </mxCell>
         <mxCell id="FzHhuDCIx835FuhgVcT0-42" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="55" y="158" width="24.920000000000016" height="24.920000000000016" as="geometry" />
