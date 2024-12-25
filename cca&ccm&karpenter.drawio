@@ -714,6 +714,9 @@
         <mxCell id="FzHhuDCIx835FuhgVcT0-84" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="640.36" y="93" width="26" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="FzHhuDCIx835FuhgVcT0-85" value="获取" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="255" y="58" width="119" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
