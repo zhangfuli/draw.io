@@ -755,13 +755,16 @@
           <mxGeometry x="771" y="194.56" width="57" height="25" as="geometry" />
         </mxCell>
         <mxCell id="FzHhuDCIx835FuhgVcT0-101" value="remainP-=(3-stsPerNode)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="813.51" y="301" width="151.81" height="31" as="geometry" />
+          <mxGeometry x="960" y="224.78" width="151.81" height="31" as="geometry" />
         </mxCell>
         <mxCell id="FzHhuDCIx835FuhgVcT0-103" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FzHhuDCIx835FuhgVcT0-102" target="FzHhuDCIx835FuhgVcT0-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FzHhuDCIx835FuhgVcT0-102" value="remainP=max(Pod1,Podn)" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.02757061610591978;" vertex="1" parent="1">
           <mxGeometry x="809" y="129.56" width="156.32" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="FzHhuDCIx835FuhgVcT0-106" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="911" y="215.76999999999998" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
