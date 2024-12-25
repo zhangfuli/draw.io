@@ -778,8 +778,8 @@
         <mxCell id="FzHhuDCIx835FuhgVcT0-113" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="793" y="237.99999999999994" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FzHhuDCIx835FuhgVcT0-114" value="remainP-=(3-stsPerNode)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="814.77" y="387.23" width="151.81" height="31" as="geometry" />
+        <mxCell id="FzHhuDCIx835FuhgVcT0-114" value="remainP-=(desiredNode-curNode) / 3" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="766" y="395" width="253.23" height="31" as="geometry" />
         </mxCell>
         <mxCell id="FzHhuDCIx835FuhgVcT0-117" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FzHhuDCIx835FuhgVcT0-116" target="FzHhuDCIx835FuhgVcT0-84">
           <mxGeometry relative="1" as="geometry" />
