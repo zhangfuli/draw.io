@@ -754,7 +754,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FzHhuDCIx835FuhgVcT0-102" value="remainP=max(Pod1,Podn)" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.02757061610591978;" vertex="1" parent="1">
-          <mxGeometry x="315.06" y="88" width="156.32" height="31" as="geometry" />
+          <mxGeometry x="315.06" y="84" width="156.32" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
