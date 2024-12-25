@@ -720,7 +720,7 @@
         <mxCell id="FzHhuDCIx835FuhgVcT0-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FzHhuDCIx835FuhgVcT0-85" target="FzHhuDCIx835FuhgVcT0-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FzHhuDCIx835FuhgVcT0-85" value="获取Pending + Coming&lt;div&gt;(筛选服务等级)&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.04861828863623863;" vertex="1" parent="1">
+        <mxCell id="FzHhuDCIx835FuhgVcT0-85" value="获取Pending + Coming&lt;div&gt;(打散不区分，服务等级)&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.04861828863623863;" vertex="1" parent="1">
           <mxGeometry x="319" y="34" width="142.32" height="31" as="geometry" />
         </mxCell>
         <mxCell id="FzHhuDCIx835FuhgVcT0-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FzHhuDCIx835FuhgVcT0-86" target="FzHhuDCIx835FuhgVcT0-84">
