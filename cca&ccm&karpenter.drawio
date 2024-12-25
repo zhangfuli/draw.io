@@ -717,6 +717,9 @@
         <mxCell id="FzHhuDCIx835FuhgVcT0-85" value="获取Pending + Coming&lt;div&gt;(筛选服务等级)&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.04861828863623863;" vertex="1" parent="1">
           <mxGeometry x="324.4" y="31" width="142.32" height="31" as="geometry" />
         </mxCell>
+        <mxCell id="FzHhuDCIx835FuhgVcT0-86" value="构造stsToNode&lt;div&gt;map[string]map[string]int&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.04861828863623863;" vertex="1" parent="1">
+          <mxGeometry x="319" y="93" width="142.32" height="31" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
