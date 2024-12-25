@@ -714,7 +714,7 @@
         <mxCell id="FzHhuDCIx835FuhgVcT0-84" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="640.36" y="93" width="29.64" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="FzHhuDCIx835FuhgVcT0-85" value="获取Pending + Coming&lt;div&gt;(筛选服务等级)&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.07836495371799805;" vertex="1" parent="1">
+        <mxCell id="FzHhuDCIx835FuhgVcT0-85" value="获取Pending + Coming&lt;div&gt;(筛选服务等级)&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.04861828863623863;" vertex="1" parent="1">
           <mxGeometry x="329" y="42" width="142.32" height="31" as="geometry" />
         </mxCell>
       </root>
