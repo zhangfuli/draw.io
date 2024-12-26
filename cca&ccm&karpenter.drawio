@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="36RgzYje6eGZbE3Gu0CY">
-    <mxGraphModel dx="894" dy="633" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1269" dy="810" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -734,7 +734,7 @@
         <mxCell id="FzHhuDCIx835FuhgVcT0-87" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FzHhuDCIx835FuhgVcT0-85" target="FzHhuDCIx835FuhgVcT0-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FzHhuDCIx835FuhgVcT0-85" value="获取Pending + Coming&lt;div&gt;(打散不区分，服务等级)&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.04861828863623863;" vertex="1" parent="1">
+        <mxCell id="FzHhuDCIx835FuhgVcT0-85" value="获取Pending + Coming&lt;div&gt;(当前，打散不区分服务等级)&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.04861828863623863;" vertex="1" parent="1">
           <mxGeometry x="761" y="182" width="160.94" height="31" as="geometry" />
         </mxCell>
         <mxCell id="FzHhuDCIx835FuhgVcT0-94" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FzHhuDCIx835FuhgVcT0-86" target="FzHhuDCIx835FuhgVcT0-102">
