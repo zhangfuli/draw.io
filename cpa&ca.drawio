@@ -510,11 +510,11 @@
         <mxCell id="IJfKlmuMN-XNazfKIvlV-18" value="300台 3min" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="438.18" y="2578" width="79" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="IJfKlmuMN-XNazfKIvlV-19" value="400台 1min" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="IJfKlmuMN-XNazfKIvlV-19" value="400台 7min" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="438.18" y="2598" width="79" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="IJfKlmuMN-XNazfKIvlV-20" value="500台 2min" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="438.18" y="2620" width="79" height="26" as="geometry" />
+        <mxCell id="IJfKlmuMN-XNazfKIvlV-20" value="500台 10min" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435.18" y="2620" width="86" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
