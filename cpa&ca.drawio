@@ -465,7 +465,7 @@
             <mxPoint x="261.0050000000001" y="2603" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IJfKlmuMN-XNazfKIvlV-1" value="申请机器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IJfKlmuMN-XNazfKIvlV-1" value="机器开机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="193" y="2473" width="68.65" height="29" as="geometry" />
         </mxCell>
         <mxCell id="IJfKlmuMN-XNazfKIvlV-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IJfKlmuMN-XNazfKIvlV-2" target="IJfKlmuMN-XNazfKIvlV-3">
@@ -485,6 +485,36 @@
         </mxCell>
         <mxCell id="IJfKlmuMN-XNazfKIvlV-5" value="mmachine流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="438.17999999999995" y="2538" width="68.65" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="IJfKlmuMN-XNazfKIvlV-11" value="均1min" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="213.99999999999997" y="2414" width="56" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="IJfKlmuMN-XNazfKIvlV-12" value="300台 1min" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="432.5" y="2402" width="79" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="IJfKlmuMN-XNazfKIvlV-13" value="400台 1min" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="432.5" y="2422" width="79" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="IJfKlmuMN-XNazfKIvlV-14" value="500台 2min" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="432.5" y="2444" width="79" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="IJfKlmuMN-XNazfKIvlV-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IJfKlmuMN-XNazfKIvlV-15" target="IJfKlmuMN-XNazfKIvlV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IJfKlmuMN-XNazfKIvlV-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="137" y="2481" width="13" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="IJfKlmuMN-XNazfKIvlV-17" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="235.5" y="2364.5" width="20" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="IJfKlmuMN-XNazfKIvlV-18" value="300台 1min" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="438.18" y="2578" width="79" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="IJfKlmuMN-XNazfKIvlV-19" value="400台 1min" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="438.18" y="2598" width="79" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="IJfKlmuMN-XNazfKIvlV-20" value="500台 2min" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="438.18" y="2620" width="79" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
