@@ -483,7 +483,7 @@
         <mxCell id="IJfKlmuMN-XNazfKIvlV-4" value="cmdb" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="222.99999999999994" y="2539.5" width="68.65" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="IJfKlmuMN-XNazfKIvlV-5" value="mmachine流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IJfKlmuMN-XNazfKIvlV-5" value="mmachine流程(分批)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="351.17999999999995" y="2539.5" width="68.65" height="29" as="geometry" />
         </mxCell>
         <mxCell id="IJfKlmuMN-XNazfKIvlV-11" value="1min左右" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
