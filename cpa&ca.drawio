@@ -527,12 +527,12 @@
         </mxCell>
         <mxCell id="IJfKlmuMN-XNazfKIvlV-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="2487.13" as="sourcePoint" />
-            <mxPoint x="445" y="2487.13" as="targetPoint" />
+            <mxPoint x="494" y="2487.13" as="sourcePoint" />
+            <mxPoint x="449" y="2487.13" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IJfKlmuMN-XNazfKIvlV-26" value="cni启动完成即可调度po" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="490" y="2474.5" width="143" height="26" as="geometry" />
+          <mxGeometry x="494" y="2474.5" width="143" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
