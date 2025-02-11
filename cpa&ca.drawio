@@ -508,13 +508,13 @@
           <mxGeometry x="148.5" y="2366" width="20" height="185" as="geometry" />
         </mxCell>
         <mxCell id="IJfKlmuMN-XNazfKIvlV-18" value="300台 3min" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="355.18" y="2642" width="79" height="26" as="geometry" />
+          <mxGeometry x="350.3" y="2631" width="79" height="26" as="geometry" />
         </mxCell>
         <mxCell id="IJfKlmuMN-XNazfKIvlV-19" value="400台 7min" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="355.18" y="2662" width="79" height="26" as="geometry" />
+          <mxGeometry x="350.3" y="2646" width="79" height="26" as="geometry" />
         </mxCell>
         <mxCell id="IJfKlmuMN-XNazfKIvlV-20" value="500台 10min" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="352.18" y="2684" width="86" height="26" as="geometry" />
+          <mxGeometry x="347.3" y="2661" width="86" height="26" as="geometry" />
         </mxCell>
         <mxCell id="IJfKlmuMN-XNazfKIvlV-23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
