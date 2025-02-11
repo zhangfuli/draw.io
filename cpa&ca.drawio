@@ -457,14 +457,34 @@
         <mxCell id="5BBRg3yK1_JjyFoo_uhe-3" value="跳过虚拟node" style="rounded=0;whiteSpace=wrap;html=1;" parent="varlpIeGK1AMJLTbUiaN-1" vertex="1">
           <mxGeometry x="120.5" y="25" width="90" height="31" as="geometry" />
         </mxCell>
+        <mxCell id="IJfKlmuMN-XNazfKIvlV-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IJfKlmuMN-XNazfKIvlV-1" target="IJfKlmuMN-XNazfKIvlV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IJfKlmuMN-XNazfKIvlV-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IJfKlmuMN-XNazfKIvlV-1" target="IJfKlmuMN-XNazfKIvlV-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="261.0050000000001" y="2603" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IJfKlmuMN-XNazfKIvlV-1" value="申请机器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="171.35" y="2473" width="68.65" height="29" as="geometry" />
+          <mxGeometry x="193" y="2473" width="68.65" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="IJfKlmuMN-XNazfKIvlV-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IJfKlmuMN-XNazfKIvlV-2" target="IJfKlmuMN-XNazfKIvlV-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IJfKlmuMN-XNazfKIvlV-2" value="k8s注册node" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="309.99999999999994" y="2473" width="68.65" height="29" as="geometry" />
         </mxCell>
         <mxCell id="IJfKlmuMN-XNazfKIvlV-3" value="启动cni" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="438.17999999999995" y="2473" width="68.65" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="IJfKlmuMN-XNazfKIvlV-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IJfKlmuMN-XNazfKIvlV-4" target="IJfKlmuMN-XNazfKIvlV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IJfKlmuMN-XNazfKIvlV-4" value="cmdb" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="309.99999999999994" y="2538" width="68.65" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="IJfKlmuMN-XNazfKIvlV-5" value="mmachine流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="438.17999999999995" y="2538" width="68.65" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
