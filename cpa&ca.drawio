@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="F5VYigaGw1SXEJX05_Oq">
-    <mxGraphModel dx="760" dy="419" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1062" dy="501" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -522,8 +522,8 @@
             <mxPoint x="457" y="2616.13" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IJfKlmuMN-XNazfKIvlV-24" value="旁路不影响正常使用，主要用于在odin tree展示" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="507" y="2605" width="269" height="26" as="geometry" />
+        <mxCell id="IJfKlmuMN-XNazfKIvlV-24" value="旁路不影响正常使用，主要用于在odin tree展示&lt;div&gt;mmachine测试环境的值，仅用于参考，正式环境会更快&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="514" y="2593" width="313" height="41" as="geometry" />
         </mxCell>
         <mxCell id="IJfKlmuMN-XNazfKIvlV-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -531,14 +531,14 @@
             <mxPoint x="449" y="2487.13" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IJfKlmuMN-XNazfKIvlV-26" value="cni启动完成即可调度po" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="494" y="2474.5" width="143" height="26" as="geometry" />
+        <mxCell id="IJfKlmuMN-XNazfKIvlV-26" value="cni启动完成即可调度po，可以认为扩容成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="514" y="2474.5" width="251" height="26" as="geometry" />
         </mxCell>
         <mxCell id="IJfKlmuMN-XNazfKIvlV-32" value="600台 11min" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="348.8" y="2677" width="85" height="26" as="geometry" />
         </mxCell>
         <mxCell id="IJfKlmuMN-XNazfKIvlV-33" value="600台 3min" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="347.3" y="2548" width="79" height="26" as="geometry" />
+          <mxGeometry x="346" y="2551" width="79" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
