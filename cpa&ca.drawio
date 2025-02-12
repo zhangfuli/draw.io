@@ -518,8 +518,8 @@
         </mxCell>
         <mxCell id="IJfKlmuMN-XNazfKIvlV-23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="502" y="2616.13" as="sourcePoint" />
-            <mxPoint x="457" y="2616.13" as="targetPoint" />
+            <mxPoint x="509" y="2616.13" as="sourcePoint" />
+            <mxPoint x="464" y="2616.13" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IJfKlmuMN-XNazfKIvlV-24" value="旁路不影响正常使用，主要用于在odin tree展示&lt;div&gt;mmachine测试环境的值，仅用于参考，正式环境会更快&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -527,8 +527,8 @@
         </mxCell>
         <mxCell id="IJfKlmuMN-XNazfKIvlV-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="494" y="2487.13" as="sourcePoint" />
-            <mxPoint x="449" y="2487.13" as="targetPoint" />
+            <mxPoint x="502" y="2487.13" as="sourcePoint" />
+            <mxPoint x="457" y="2487.13" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IJfKlmuMN-XNazfKIvlV-26" value="cni启动完成即可调度po，可以认为扩容完成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
