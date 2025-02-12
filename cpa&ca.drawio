@@ -490,13 +490,13 @@
           <mxGeometry x="120.99999999999997" y="2415.5" width="68" height="26" as="geometry" />
         </mxCell>
         <mxCell id="IJfKlmuMN-XNazfKIvlV-12" value="300台 1min" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="346" y="2503.5" width="79" height="26" as="geometry" />
+          <mxGeometry x="346" y="2502.5" width="79" height="26" as="geometry" />
         </mxCell>
         <mxCell id="IJfKlmuMN-XNazfKIvlV-13" value="400台 1min" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="346" y="2517.5" width="79" height="26" as="geometry" />
+          <mxGeometry x="346" y="2516.5" width="79" height="26" as="geometry" />
         </mxCell>
         <mxCell id="IJfKlmuMN-XNazfKIvlV-14" value="500台 2min" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="346" y="2532.5" width="79" height="26" as="geometry" />
+          <mxGeometry x="346" y="2533.5" width="79" height="26" as="geometry" />
         </mxCell>
         <mxCell id="IJfKlmuMN-XNazfKIvlV-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IJfKlmuMN-XNazfKIvlV-15" target="IJfKlmuMN-XNazfKIvlV-1">
           <mxGeometry relative="1" as="geometry" />
