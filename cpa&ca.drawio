@@ -496,7 +496,7 @@
           <mxGeometry x="346" y="2516.5" width="79" height="26" as="geometry" />
         </mxCell>
         <mxCell id="IJfKlmuMN-XNazfKIvlV-14" value="500台 2min" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="346" y="2533.5" width="79" height="26" as="geometry" />
+          <mxGeometry x="346" y="2530.5" width="79" height="26" as="geometry" />
         </mxCell>
         <mxCell id="IJfKlmuMN-XNazfKIvlV-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IJfKlmuMN-XNazfKIvlV-15" target="IJfKlmuMN-XNazfKIvlV-1">
           <mxGeometry relative="1" as="geometry" />
@@ -538,7 +538,10 @@
           <mxGeometry x="348.8" y="2677" width="85" height="26" as="geometry" />
         </mxCell>
         <mxCell id="IJfKlmuMN-XNazfKIvlV-33" value="600台 3min" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="346" y="2551" width="79" height="26" as="geometry" />
+          <mxGeometry x="346" y="2545" width="79" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="IJfKlmuMN-XNazfKIvlV-34" value="扩容" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="35.5" y="2500.5" width="42" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
