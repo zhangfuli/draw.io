@@ -493,10 +493,10 @@
           <mxGeometry x="346" y="2503.5" width="79" height="26" as="geometry" />
         </mxCell>
         <mxCell id="IJfKlmuMN-XNazfKIvlV-13" value="400台 1min" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="346" y="2521.5" width="79" height="26" as="geometry" />
+          <mxGeometry x="346" y="2517.5" width="79" height="26" as="geometry" />
         </mxCell>
         <mxCell id="IJfKlmuMN-XNazfKIvlV-14" value="500台 2min" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="346" y="2538.5" width="79" height="26" as="geometry" />
+          <mxGeometry x="346" y="2532.5" width="79" height="26" as="geometry" />
         </mxCell>
         <mxCell id="IJfKlmuMN-XNazfKIvlV-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IJfKlmuMN-XNazfKIvlV-15" target="IJfKlmuMN-XNazfKIvlV-1">
           <mxGeometry relative="1" as="geometry" />
@@ -536,6 +536,9 @@
         </mxCell>
         <mxCell id="IJfKlmuMN-XNazfKIvlV-32" value="600台 11min" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="348.8" y="2677" width="85" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="IJfKlmuMN-XNazfKIvlV-33" value="600台 3min" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="347.3" y="2548" width="79" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
