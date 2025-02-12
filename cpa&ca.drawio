@@ -555,8 +555,11 @@
         <mxCell id="IJfKlmuMN-XNazfKIvlV-37" value="机器关机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="116" y="2731" width="68.65" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="IJfKlmuMN-XNazfKIvlV-41" value="并发: 2min" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="114" y="2764" width="75" height="26" as="geometry" />
+        <mxCell id="IJfKlmuMN-XNazfKIvlV-41" value="并发: 2min(与机器数无明显差别)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="112" y="2760" width="191" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="IJfKlmuMN-XNazfKIvlV-42" value="实际每次单台退还: 2min" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="112" y="2784" width="147" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
