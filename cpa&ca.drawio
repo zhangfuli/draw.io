@@ -558,7 +558,7 @@
         <mxCell id="IJfKlmuMN-XNazfKIvlV-41" value="并发: 2min(与机器数无明显差别)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="112" y="2760" width="191" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="IJfKlmuMN-XNazfKIvlV-42" value="真实场景单台依次退还，具体跟节点上的po分布有关，以下数据仅供参考:&lt;div&gt;- 500台&amp;nbsp;&lt;/div&gt;&lt;div&gt;- 600台 10min&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="IJfKlmuMN-XNazfKIvlV-42" value="真实场景单台依次退还，具体跟节点上的po分布有关，以下数据仅供参考:&lt;div&gt;- 100台 5min&lt;/div&gt;&lt;div&gt;- 600台 10min&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="119.5" y="2774" width="407" height="55" as="geometry" />
         </mxCell>
       </root>
