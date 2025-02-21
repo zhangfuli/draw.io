@@ -585,7 +585,7 @@
           <mxGeometry x="1373.5700000000002" y="590" width="88" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6gAkQ8Frz9WRIfwcS36O-17" value="&lt;b&gt;Configuration&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="921" y="584.22" width="88" height="30" as="geometry" />
+          <mxGeometry x="912" y="584.21" width="88" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6gAkQ8Frz9WRIfwcS36O-18" value="deploy" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="1368.29" y="757" width="98.57" height="35.22" as="geometry" />
@@ -595,6 +595,12 @@
         </mxCell>
         <mxCell id="6gAkQ8Frz9WRIfwcS36O-20" value="&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;pre style=&quot;border-color: var(--border-color); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;.../prod_vars.json&lt;/font&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=14;pointerEvents=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="880" y="760.22" width="164" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="6gAkQ8Frz9WRIfwcS36O-36" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6gAkQ8Frz9WRIfwcS36O-35" target="6gAkQ8Frz9WRIfwcS36O-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1274.94" y="732.74" as="sourcePoint" />
+            <mxPoint x="1365" y="734" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
