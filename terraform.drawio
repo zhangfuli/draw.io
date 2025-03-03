@@ -242,7 +242,7 @@
         <mxCell id="eo2u99sirjMwnlyiHI97-134" value="dockerbuild" style="rounded=1;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="609.93" y="629.99" width="98.57" height="35.22" as="geometry" />
         </mxCell>
-        <mxCell id="eo2u99sirjMwnlyiHI97-139" value="ipamv1" style="rounded=1;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
+        <mxCell id="eo2u99sirjMwnlyiHI97-139" value="galahad" style="rounded=1;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="609.93" y="672.99" width="98.57" height="35.22" as="geometry" />
         </mxCell>
         <mxCell id="eo2u99sirjMwnlyiHI97-144" value="cni" style="rounded=1;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
