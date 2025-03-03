@@ -60,7 +60,7 @@
         <mxCell id="GPAt1WRh6mztTl92b3K6-17" value="docker&lt;br&gt;build" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="366.87" y="89.07000000000001" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GPAt1WRh6mztTl92b3K6-20" value="galahad&lt;div&gt;webhook&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="GPAt1WRh6mztTl92b3K6-20" value="galahad" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="737.5700000000002" y="61.57000000000001" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eo2u99sirjMwnlyiHI97-61" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GPAt1WRh6mztTl92b3K6-21" target="GPAt1WRh6mztTl92b3K6-17" edge="1">
