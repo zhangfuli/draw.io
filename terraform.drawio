@@ -52,7 +52,7 @@
         <mxCell id="GPAt1WRh6mztTl92b3K6-8" value="daemonset" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="439.64" y="320" width="85" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GPAt1WRh6mztTl92b3K6-9" value="cmdb" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="GPAt1WRh6mztTl92b3K6-9" value="cmdb&lt;div&gt;(vip、dns)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="785.6400000000001" y="320" width="81.93" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GPAt1WRh6mztTl92b3K6-10" value="odin-tree" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
