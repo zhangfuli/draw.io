@@ -64,9 +64,10 @@
         <mxCell id="GPAt1WRh6mztTl92b3K6-21" value="harbor" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="301.87" y="89.07000000000001" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="eo2u99sirjMwnlyiHI97-78" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="eo2u99sirjMwnlyiHI97-110" target="eo2u99sirjMwnlyiHI97-18" edge="1">
+        <mxCell id="eo2u99sirjMwnlyiHI97-78" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.011;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="eo2u99sirjMwnlyiHI97-70" target="eo2u99sirjMwnlyiHI97-110" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="801" y="141.2" as="sourcePoint" />
+            <mxPoint x="655" y="142" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GPAt1WRh6mztTl92b3K6-22" value="webhook" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
