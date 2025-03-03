@@ -608,13 +608,16 @@
           <mxGeometry x="875" y="-63" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HXuFF3I7P1BFjrdIdmDx-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="708.2500000000002" y="61.57" width="70" height="180" as="geometry" />
+          <mxGeometry x="719.2500000000002" y="51.57" width="70" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="HXuFF3I7P1BFjrdIdmDx-5" value="galahad" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="718.2500000000002" y="71.19" width="50" height="50" as="geometry" />
+        <mxCell id="HXuFF3I7P1BFjrdIdmDx-5" value="cni&lt;br&gt;ipamv2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="729.2500000000002" y="61.19" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HXuFF3I7P1BFjrdIdmDx-6" value="webhook" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="718.2500000000002" y="126.19000000000001" width="50" height="50" as="geometry" />
+        <mxCell id="HXuFF3I7P1BFjrdIdmDx-6" value="kube-agent" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="729.2500000000002" y="116.19000000000001" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HXuFF3I7P1BFjrdIdmDx-7" value="node&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="729.2500000000002" y="171.57000000000002" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
