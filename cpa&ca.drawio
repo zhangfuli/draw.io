@@ -651,7 +651,7 @@
           <mxGeometry x="1154" y="652" width="423" height="160" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-22" value="Node" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1261" y="700" width="132" height="57" as="geometry" />
+          <mxGeometry x="1261" y="673" width="132" height="57" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-23" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fU3qHzXubMhYcUPqZXy5-10" target="fU3qHzXubMhYcUPqZXy5-22">
           <mxGeometry relative="1" as="geometry" />
@@ -682,6 +682,12 @@
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-31" value="k8sC&lt;span style=&quot;background-color: initial;&quot;&gt;lient&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1622" y="567" width="106" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fU3qHzXubMhYcUPqZXy5-34" value="Pod" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1256.75" y="738" width="132" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="fU3qHzXubMhYcUPqZXy5-35" value="HPA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1011" y="738" width="132" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
