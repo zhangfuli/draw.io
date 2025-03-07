@@ -657,7 +657,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-24" value="1. Query Nodes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1366" y="618" width="50" height="30" as="geometry" />
+          <mxGeometry x="1366" y="618" width="92" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-25" value="&lt;div&gt;syncConfig&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=10;" vertex="1" parent="1">
           <mxGeometry x="1221" y="576" width="80" height="29" as="geometry" />
