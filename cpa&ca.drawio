@@ -636,7 +636,7 @@
           <mxGeometry x="1333" y="585" width="193" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-12" value="expander" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1189" y="488.5" width="317" height="53" as="geometry" />
+          <mxGeometry x="1137" y="488.5" width="369" height="53" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-13" value="scheduler" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1408" y="499.5" width="87" height="31" as="geometry" />
@@ -648,7 +648,7 @@
           <mxGeometry x="1218" y="499.5" width="83" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-19" value="syncConfig" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1132" y="585" width="193" height="30" as="geometry" />
+          <mxGeometry x="1132" y="573" width="193" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
