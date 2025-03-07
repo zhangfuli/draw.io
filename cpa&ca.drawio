@@ -620,8 +620,8 @@
         <mxCell id="fU3qHzXubMhYcUPqZXy5-22" value="Node" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1125" y="666" width="135" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="fU3qHzXubMhYcUPqZXy5-28" value="Cluster-Capa" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;verticalAlign=top;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="1249" y="475" width="366" height="141" as="geometry" />
+        <mxCell id="fU3qHzXubMhYcUPqZXy5-28" value="Cluster-AutoScaler" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="1249" y="459" width="366" height="157" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-29" value="ConfigMap" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1278" y="665" width="112" height="39" as="geometry" />
