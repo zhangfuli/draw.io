@@ -627,13 +627,13 @@
           <mxGeometry x="1422" y="264" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-5" value="Cluster-Capacity-Adjuster" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;verticalAlign=top;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="1079.5" y="470" width="495" height="160" as="geometry" />
+          <mxGeometry x="1152" y="470" width="366" height="160" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-9" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fU3qHzXubMhYcUPqZXy5-10" target="fU3qHzXubMhYcUPqZXy5-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-10" value="k8sC&lt;span style=&quot;background-color: initial;&quot;&gt;lient&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1332" y="576" width="193" height="30" as="geometry" />
+          <mxGeometry x="1389" y="579" width="106" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-12" value="expander" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1189" y="488.5" width="317" height="53" as="geometry" />
@@ -648,7 +648,7 @@
           <mxGeometry x="1218" y="499.5" width="83" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-19" value="syncConfig" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1132" y="573" width="193" height="30" as="geometry" />
+          <mxGeometry x="1215" y="573" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-21" value="Cluster-Capacity-Adjuster" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;verticalAlign=top;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="1082" y="652" width="495" height="160" as="geometry" />
@@ -656,7 +656,7 @@
         <mxCell id="fU3qHzXubMhYcUPqZXy5-22" value="Node" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1343" y="680" width="132" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="fU3qHzXubMhYcUPqZXy5-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fU3qHzXubMhYcUPqZXy5-10" target="fU3qHzXubMhYcUPqZXy5-22">
+        <mxCell id="fU3qHzXubMhYcUPqZXy5-23" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fU3qHzXubMhYcUPqZXy5-10" target="fU3qHzXubMhYcUPqZXy5-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-24" value="1. Query Nodes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
