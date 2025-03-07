@@ -633,7 +633,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-10" value="k8sC&lt;span style=&quot;background-color: initial;&quot;&gt;lient&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1389" y="579" width="106" height="30" as="geometry" />
+          <mxGeometry x="1297" y="573" width="106" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-12" value="expander" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1189" y="488.5" width="317" height="53" as="geometry" />
@@ -647,8 +647,8 @@
         <mxCell id="fU3qHzXubMhYcUPqZXy5-18" value="packing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1218" y="499.5" width="83" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fU3qHzXubMhYcUPqZXy5-19" value="syncConfig" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1215" y="573" width="110" height="30" as="geometry" />
+        <mxCell id="fU3qHzXubMhYcUPqZXy5-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="573" width="66" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-21" value="Cluster-Capacity-Adjuster" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;verticalAlign=top;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="1082" y="652" width="495" height="160" as="geometry" />
@@ -661,6 +661,9 @@
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-24" value="1. Query Nodes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1366" y="618" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fU3qHzXubMhYcUPqZXy5-25" value="&lt;div&gt;syncConfig&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=10;" vertex="1" parent="1">
+          <mxGeometry x="946" y="513" width="80" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
