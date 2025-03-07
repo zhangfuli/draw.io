@@ -668,6 +668,9 @@
             <mxPoint x="1357" y="552" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="fU3qHzXubMhYcUPqZXy5-28" value="Cluster-Capacity-Adjuster" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;verticalAlign=top;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="470" width="366" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
