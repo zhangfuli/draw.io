@@ -736,6 +736,9 @@
         <mxCell id="fU3qHzXubMhYcUPqZXy5-72" value="kube-scheduler" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1073" y="757" width="135" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="fU3qHzXubMhYcUPqZXy5-73" value="Master" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;verticalAlign=top;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="1286" y="649" width="216" height="163" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
