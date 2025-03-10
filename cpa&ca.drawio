@@ -17,7 +17,7 @@
           <mxGeometry x="1266" y="652" width="267" height="148" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-87" value="厂商初始化虚机流程" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;spacingTop=-3;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1152.5" y="836" width="388" height="64" as="geometry" />
+          <mxGeometry x="1152.5" y="836" width="388" height="74" as="geometry" />
         </mxCell>
         <mxCell id="aSUJhLrz8YBLQvyZwgPZ-1" value="kube-apiserver" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="120" y="240" width="490" height="90" as="geometry" />
@@ -738,26 +738,26 @@
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="fU3qHzXubMhYcUPqZXy5-76" target="fU3qHzXubMhYcUPqZXy5-79">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1319.5" y="875" as="targetPoint" />
+            <mxPoint x="1319.5" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-76" value="更改&lt;div&gt;hostname&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1165.5" y="860" width="60" height="30" as="geometry" />
+          <mxGeometry x="1165.5" y="865" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="fU3qHzXubMhYcUPqZXy5-79" target="fU3qHzXubMhYcUPqZXy5-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-79" value="挂载磁盘快照" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1261.5" y="860" width="60" height="30" as="geometry" />
+          <mxGeometry x="1261.5" y="865" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="fU3qHzXubMhYcUPqZXy5-80" target="fU3qHzXubMhYcUPqZXy5-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-80" value="设置kubelet启动参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1350.5" y="860" width="77" height="30" as="geometry" />
+          <mxGeometry x="1350.5" y="865" width="77" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-81" value="启动kubelet&lt;div&gt;启动其他产品&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1454.5" y="860" width="77" height="30" as="geometry" />
+          <mxGeometry x="1454.5" y="865" width="77" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-91" value="Node" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1139" y="682" width="92" height="37" as="geometry" />
