@@ -650,7 +650,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fU3qHzXubMhYcUPqZXy5-104" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fU3qHzXubMhYcUPqZXy5-31" target="fU3qHzXubMhYcUPqZXy5-102">
+        <mxCell id="fU3qHzXubMhYcUPqZXy5-104" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="fU3qHzXubMhYcUPqZXy5-31" target="fU3qHzXubMhYcUPqZXy5-102">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-31" value="Core" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
