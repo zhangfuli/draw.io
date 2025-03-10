@@ -621,10 +621,10 @@
           <mxGeometry x="1125" y="666" width="135" height="37" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-28" value="Cluster-AutoScaler" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="1249" y="459" width="366" height="157" as="geometry" />
+          <mxGeometry x="1249" y="396" width="366" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="fU3qHzXubMhYcUPqZXy5-31" value="k8sC&lt;span style=&quot;background-color: initial;&quot;&gt;lient&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1365" y="579" width="106" height="30" as="geometry" />
+        <mxCell id="fU3qHzXubMhYcUPqZXy5-31" value="Core" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1346" y="562" width="75" height="28" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-35" value="HPA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="878" y="715" width="132" height="57" as="geometry" />
@@ -674,10 +674,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-50" value="ScaleUp" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1278" y="500" width="106" height="30" as="geometry" />
+          <mxGeometry x="1291" y="514" width="79" height="28" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-51" value="ScaleDown" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1418" y="503" width="106" height="30" as="geometry" />
+          <mxGeometry x="1404" y="514" width="82" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="fU3qHzXubMhYcUPqZXy5-52" value="Estimator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1291" y="475" width="79" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="fU3qHzXubMhYcUPqZXy5-53" value="Simulator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1404" y="475" width="82" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
