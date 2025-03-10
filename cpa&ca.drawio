@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="第 1 页" id="F5VYigaGw1SXEJX05_Oq">
-    <mxGraphModel dx="578" dy="1483" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="717" dy="1559" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fU3qHzXubMhYcUPqZXy5-70" value="" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=9;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1526" y="503" width="219" height="130" as="geometry" />
+        </mxCell>
         <mxCell id="aSUJhLrz8YBLQvyZwgPZ-1" value="kube-apiserver" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="120" y="240" width="490" height="90" as="geometry" />
         </mxCell>
@@ -712,10 +715,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-61" value="CloudManager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1539" y="516" width="82" height="28" as="geometry" />
+          <mxGeometry x="1539" y="522" width="82" height="28" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-62" value="ASG-Cache" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1654" y="516" width="82" height="28" as="geometry" />
+          <mxGeometry x="1654" y="522" width="82" height="28" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-63" value="Cloud-SDK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1656" y="575" width="82" height="28" as="geometry" />
@@ -730,7 +733,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-65" value="NodeGroup" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1539" y="596.5" width="82" height="28" as="geometry" />
+          <mxGeometry x="1539" y="593" width="82" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
