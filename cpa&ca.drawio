@@ -703,11 +703,14 @@
         <mxCell id="fU3qHzXubMhYcUPqZXy5-61" value="CloudManager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1538" y="565" width="82" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="fU3qHzXubMhYcUPqZXy5-62" value="ASG-Cache" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="fU3qHzXubMhYcUPqZXy5-62" value="ASG-Cache" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1659" y="565" width="82" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="fU3qHzXubMhYcUPqZXy5-63" value="CloudManager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1538" y="606" width="82" height="28" as="geometry" />
+        <mxCell id="fU3qHzXubMhYcUPqZXy5-63" value="AutoScalingGroups" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1659" y="609" width="82" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="fU3qHzXubMhYcUPqZXy5-64" value="NodeGroup" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1538" y="607" width="82" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
