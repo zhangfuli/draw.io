@@ -617,7 +617,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fU3qHzXubMhYcUPqZXy5-21" value="Cluster-Capacity-Adjuster" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;verticalAlign=top;arcSize=0;" vertex="1" parent="1">
+        <mxCell id="fU3qHzXubMhYcUPqZXy5-21" value="Kubernetes" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;verticalAlign=top;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="1026" y="648" width="551" height="164" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-22" value="kube-apiserver" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -706,10 +706,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-58" value="AWS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1539" y="403" width="82" height="28" as="geometry" />
+          <mxGeometry x="1547" y="403" width="82" height="28" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-59" value="GCE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1539" y="447" width="82" height="28" as="geometry" />
+          <mxGeometry x="1547" y="447" width="82" height="28" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fU3qHzXubMhYcUPqZXy5-61" target="fU3qHzXubMhYcUPqZXy5-62">
           <mxGeometry relative="1" as="geometry" />
