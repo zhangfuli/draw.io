@@ -617,11 +617,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fU3qHzXubMhYcUPqZXy5-21" value="Kubernetes" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;verticalAlign=top;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="1026" y="648" width="551" height="164" as="geometry" />
+        <mxCell id="fU3qHzXubMhYcUPqZXy5-21" value="Master" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;verticalAlign=top;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="1026" y="648" width="216" height="163" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-22" value="kube-apiserver" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1135" y="673" width="135" height="37" as="geometry" />
+          <mxGeometry x="1073" y="661" width="135" height="37" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-28" value="" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=9;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1286" y="516" width="209" height="88" as="geometry" />
@@ -630,12 +630,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fU3qHzXubMhYcUPqZXy5-31" target="fU3qHzXubMhYcUPqZXy5-22">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1388" y="636" />
-              <mxPoint x="1277" y="636" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-31" value="Core" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1351" y="568" width="75" height="28" as="geometry" />
@@ -734,6 +729,12 @@
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-65" value="NodeGroup" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1547" y="590.5" width="82" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="fU3qHzXubMhYcUPqZXy5-71" value="kube-controller-manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1073" y="708" width="135" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="fU3qHzXubMhYcUPqZXy5-72" value="kube-scheduler" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1073" y="757" width="135" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
