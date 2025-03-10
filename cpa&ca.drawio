@@ -769,16 +769,13 @@
           <mxGeometry x="13" y="101.5" width="82" height="28" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-91" value="kube-apiserver" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="975" y="651" width="85" height="37" as="geometry" />
+          <mxGeometry x="975" y="665.5" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-92" value="kube-apiserver" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="975" y="693.5" width="85" height="37" as="geometry" />
+          <mxGeometry x="975" y="708" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-93" value="kube-apiserver" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="975" y="737" width="85" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="fU3qHzXubMhYcUPqZXy5-94" value="kube-apiserver" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="975" y="782.5" width="85" height="37" as="geometry" />
+          <mxGeometry x="975" y="751.5" width="85" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
