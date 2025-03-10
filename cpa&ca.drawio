@@ -744,7 +744,7 @@
             <mxPoint x="1180" y="879" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fU3qHzXubMhYcUPqZXy5-76" value="更改host" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="fU3qHzXubMhYcUPqZXy5-76" value="更改&lt;div&gt;hostname&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1026" y="864" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-78" value="Disk" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=5.1034482758620925;" vertex="1" parent="1">
