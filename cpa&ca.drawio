@@ -653,8 +653,8 @@
         <mxCell id="fU3qHzXubMhYcUPqZXy5-31" value="Core" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1361" y="585" width="75" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="fU3qHzXubMhYcUPqZXy5-35" value="CCM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="980" y="860" width="81" height="23" as="geometry" />
+        <mxCell id="fU3qHzXubMhYcUPqZXy5-35" value="Cloud-Controller-Manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="980" y="845" width="95" height="38" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-23" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=elbowEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;elbow=vertical;" edge="1" parent="1" source="fU3qHzXubMhYcUPqZXy5-10" target="fU3qHzXubMhYcUPqZXy5-22">
           <mxGeometry relative="1" as="geometry">
@@ -776,7 +776,7 @@
           <mxGeometry x="1478" y="756" width="48" height="28" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-98" value="HPA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="980" y="896.5" width="81" height="23" as="geometry" />
+          <mxGeometry x="1087" y="848" width="81" height="23" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-70" value="Ali" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=6;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1273" y="663" width="192" height="130.5" as="geometry" />
