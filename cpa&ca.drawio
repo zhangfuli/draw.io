@@ -694,6 +694,15 @@
             <mxPoint x="1455" y="552" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="fU3qHzXubMhYcUPqZXy5-58" value="AWS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1538" y="475" width="82" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="fU3qHzXubMhYcUPqZXy5-59" value="GCE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1538" y="516" width="82" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="fU3qHzXubMhYcUPqZXy5-61" value="GCE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1538" y="565" width="82" height="28" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
