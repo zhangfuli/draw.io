@@ -769,11 +769,11 @@
         <mxCell id="fU3qHzXubMhYcUPqZXy5-61" value="CloudManager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="fU3qHzXubMhYcUPqZXy5-90">
           <mxGeometry x="13" y="30.71034482758621" width="82" height="28.193103448275863" as="geometry" />
         </mxCell>
-        <mxCell id="fU3qHzXubMhYcUPqZXy5-62" value="ASG-Cache" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="fU3qHzXubMhYcUPqZXy5-90">
+        <mxCell id="fU3qHzXubMhYcUPqZXy5-62" value="Cache" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="fU3qHzXubMhYcUPqZXy5-90">
           <mxGeometry x="130" y="30.71034482758621" width="82" height="28.193103448275863" as="geometry" />
         </mxCell>
-        <mxCell id="fU3qHzXubMhYcUPqZXy5-63" value="Cloud-SDK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="fU3qHzXubMhYcUPqZXy5-90">
-          <mxGeometry x="130" y="83.99586206896552" width="82" height="28.193103448275863" as="geometry" />
+        <mxCell id="fU3qHzXubMhYcUPqZXy5-63" value="SDK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="fU3qHzXubMhYcUPqZXy5-90">
+          <mxGeometry x="130" y="84" width="52" height="28.19" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="fU3qHzXubMhYcUPqZXy5-90" source="fU3qHzXubMhYcUPqZXy5-64" target="fU3qHzXubMhYcUPqZXy5-63">
           <mxGeometry relative="1" as="geometry" />
