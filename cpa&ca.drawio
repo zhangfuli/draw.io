@@ -774,7 +774,7 @@
         <mxCell id="fU3qHzXubMhYcUPqZXy5-98" value="Horizontal-Pod-Autoscaler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="982.5" y="882" width="148" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="fU3qHzXubMhYcUPqZXy5-70" value="Ali" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=6;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="fU3qHzXubMhYcUPqZXy5-70" value="Ali" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=6;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;dashPattern=1 2;" vertex="1" parent="1">
           <mxGeometry x="1273" y="663" width="192" height="130.5" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="fU3qHzXubMhYcUPqZXy5-61" target="fU3qHzXubMhYcUPqZXy5-62">
