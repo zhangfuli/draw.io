@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fU3qHzXubMhYcUPqZXy5-87" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1086" y="876" width="388" height="53" as="geometry" />
+        <mxCell id="fU3qHzXubMhYcUPqZXy5-87" value="userdata" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1086" y="857" width="388" height="72" as="geometry" />
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-70" value="Ali" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=6;" vertex="1" parent="1">
           <mxGeometry x="1534" y="489" width="219" height="145" as="geometry" />
@@ -767,9 +767,6 @@
         </mxCell>
         <mxCell id="fU3qHzXubMhYcUPqZXy5-81" value="启动kubelet&lt;div&gt;启动其他产品&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1388" y="889" width="77" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="fU3qHzXubMhYcUPqZXy5-88" value="开机器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="999" y="889" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
