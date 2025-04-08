@@ -840,6 +840,14 @@
         <mxCell id="nK_O2Fkam6YpSDWQyg5H-3" value="DScale Operator&lt;br&gt;&lt;div&gt;(DScale)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1302" y="1347" width="100" height="36" as="geometry" />
         </mxCell>
+        <mxCell id="nK_O2Fkam6YpSDWQyg5H-11" value="&amp;lt;&amp;lt;Scaler&amp;gt;&amp;gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="967" y="1470" width="160" height="120" as="geometry">
+            <mxRectangle x="967" y="1470" width="70" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nK_O2Fkam6YpSDWQyg5H-12" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="nK_O2Fkam6YpSDWQyg5H-11">
+          <mxGeometry y="50" width="160" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
