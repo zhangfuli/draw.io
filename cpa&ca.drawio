@@ -840,7 +840,7 @@
           <mxGeometry x="880" y="1347" width="100" height="36" as="geometry" />
         </mxCell>
         <mxCell id="nK_O2Fkam6YpSDWQyg5H-2" value="hpa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1293" y="1344" width="100" height="36" as="geometry" />
+          <mxGeometry x="1295.5" y="1344" width="100" height="36" as="geometry" />
         </mxCell>
         <mxCell id="nK_O2Fkam6YpSDWQyg5H-11" value="&amp;lt;&amp;lt;Scaler&amp;gt;&amp;gt;&lt;div&gt;mesh-proxy&lt;/div&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=34;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1069" y="1347" width="160" height="99" as="geometry">
@@ -850,8 +850,8 @@
         <mxCell id="nK_O2Fkam6YpSDWQyg5H-12" value="+GetMetrics()&lt;br&gt;+GetMetricSpecForScaling()&lt;br&gt;+IsActive()&lt;div&gt;+Close()&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="nK_O2Fkam6YpSDWQyg5H-11">
           <mxGeometry y="34" width="160" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="nK_O2Fkam6YpSDWQyg5H-28" value="mesh-proxy&lt;div&gt;scaler&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1250.5" y="1406" width="100" height="40" as="geometry" />
+        <mxCell id="nK_O2Fkam6YpSDWQyg5H-28" value="podIp: 15000" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="1460" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nK_O2Fkam6YpSDWQyg5H-33" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.998;exitY=0.155;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="nK_O2Fkam6YpSDWQyg5H-11" target="nK_O2Fkam6YpSDWQyg5H-2">
           <mxGeometry relative="1" as="geometry">
@@ -864,6 +864,9 @@
         </mxCell>
         <mxCell id="nK_O2Fkam6YpSDWQyg5H-36" value="dhpa" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1242" y="1336" width="31.5" height="26.45" as="geometry" />
+        </mxCell>
+        <mxCell id="nK_O2Fkam6YpSDWQyg5H-37" value="podIp: 15000" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="903" y="1460" width="85" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
