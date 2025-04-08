@@ -847,7 +847,7 @@
           <mxGeometry x="1302" y="1347" width="100" height="36" as="geometry" />
         </mxCell>
         <mxCell id="nK_O2Fkam6YpSDWQyg5H-11" value="&amp;lt;&amp;lt;Scaler&amp;gt;&amp;gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=28;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1095" y="1411" width="160" height="99" as="geometry">
+          <mxGeometry x="1053" y="1499" width="160" height="99" as="geometry">
             <mxRectangle x="967" y="1470" width="70" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -855,21 +855,21 @@
           <mxGeometry y="28" width="160" height="71" as="geometry" />
         </mxCell>
         <mxCell id="nK_O2Fkam6YpSDWQyg5H-27" value="prometheus scaler" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1037" y="1546" width="100" height="40" as="geometry" />
+          <mxGeometry x="1166" y="1426" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nK_O2Fkam6YpSDWQyg5H-28" value="mesh-proxy&lt;div&gt;scaler&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="1546" width="100" height="40" as="geometry" />
+          <mxGeometry x="992" y="1426" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nK_O2Fkam6YpSDWQyg5H-29" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nK_O2Fkam6YpSDWQyg5H-11" target="nK_O2Fkam6YpSDWQyg5H-27">
+        <mxCell id="nK_O2Fkam6YpSDWQyg5H-29" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nK_O2Fkam6YpSDWQyg5H-11" target="nK_O2Fkam6YpSDWQyg5H-27">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1666" y="1424" as="sourcePoint" />
-            <mxPoint x="1596" y="1474" as="targetPoint" />
+            <mxPoint x="1559" y="1446" as="sourcePoint" />
+            <mxPoint x="1489" y="1496" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nK_O2Fkam6YpSDWQyg5H-30" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nK_O2Fkam6YpSDWQyg5H-12" target="nK_O2Fkam6YpSDWQyg5H-28">
+        <mxCell id="nK_O2Fkam6YpSDWQyg5H-30" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="nK_O2Fkam6YpSDWQyg5H-11" target="nK_O2Fkam6YpSDWQyg5H-28">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1174" y="1500" as="sourcePoint" />
-            <mxPoint x="1097" y="1556" as="targetPoint" />
+            <mxPoint x="1067" y="1522" as="sourcePoint" />
+            <mxPoint x="990" y="1578" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
