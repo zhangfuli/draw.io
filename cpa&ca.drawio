@@ -845,7 +845,7 @@
             <mxRectangle x="967" y="1470" width="70" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nK_O2Fkam6YpSDWQyg5H-12" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="nK_O2Fkam6YpSDWQyg5H-11">
+        <mxCell id="nK_O2Fkam6YpSDWQyg5H-12" value="+GetMetrics()&lt;br&gt;+GetMetricSpecForScaling()&lt;br&gt;+IsActive()&lt;div&gt;+Close()&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="nK_O2Fkam6YpSDWQyg5H-11">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
