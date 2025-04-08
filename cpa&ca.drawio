@@ -850,9 +850,6 @@
         <mxCell id="nK_O2Fkam6YpSDWQyg5H-12" value="+GetMetrics()&lt;br&gt;+GetMetricSpecForScaling()&lt;br&gt;+IsActive()&lt;div&gt;+Close()&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="nK_O2Fkam6YpSDWQyg5H-11">
           <mxGeometry y="34" width="160" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="nK_O2Fkam6YpSDWQyg5H-28" value="podIp: 15000" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1084" y="1460" width="85" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="nK_O2Fkam6YpSDWQyg5H-33" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.998;exitY=0.155;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="nK_O2Fkam6YpSDWQyg5H-11" target="nK_O2Fkam6YpSDWQyg5H-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1005" y="1375" as="sourcePoint" />
@@ -865,17 +862,19 @@
         <mxCell id="nK_O2Fkam6YpSDWQyg5H-36" value="dhpa" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1242" y="1336" width="31.5" height="26.45" as="geometry" />
         </mxCell>
-        <mxCell id="nK_O2Fkam6YpSDWQyg5H-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nK_O2Fkam6YpSDWQyg5H-37" target="nK_O2Fkam6YpSDWQyg5H-28">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="nK_O2Fkam6YpSDWQyg5H-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nK_O2Fkam6YpSDWQyg5H-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1084" y="1475" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="nK_O2Fkam6YpSDWQyg5H-37" value="ScaleTarget" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="941" y="1460" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nK_O2Fkam6YpSDWQyg5H-39" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;odin&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;k8sclient&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1026" y="1476" width="52.18" height="35.64" as="geometry" />
+        <mxCell id="nK_O2Fkam6YpSDWQyg5H-39" value="podIp" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030.41" y="1476" width="52.18" height="35.64" as="geometry" />
         </mxCell>
         <mxCell id="nK_O2Fkam6YpSDWQyg5H-40" value="metrics" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1204" y="1460" width="85" height="30" as="geometry" />
+          <mxGeometry x="1084" y="1460" width="85" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
