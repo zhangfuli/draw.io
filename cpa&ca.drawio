@@ -837,7 +837,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nK_O2Fkam6YpSDWQyg5H-1" value="keda adapter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="971" y="1347" width="73" height="36" as="geometry" />
+          <mxGeometry x="970" y="1347" width="73" height="36" as="geometry" />
         </mxCell>
         <mxCell id="nK_O2Fkam6YpSDWQyg5H-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="nK_O2Fkam6YpSDWQyg5H-2" target="nK_O2Fkam6YpSDWQyg5H-41">
           <mxGeometry relative="1" as="geometry" />
@@ -860,7 +860,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nK_O2Fkam6YpSDWQyg5H-35" value="ScaledObject" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="908.0000000000001" y="1320.55" width="77.36" height="26.45" as="geometry" />
+          <mxGeometry x="909.0000000000001" y="1317.55" width="77.36" height="26.45" as="geometry" />
         </mxCell>
         <mxCell id="nK_O2Fkam6YpSDWQyg5H-36" value="dhpa" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1242" y="1336" width="31.5" height="26.45" as="geometry" />
@@ -885,11 +885,11 @@
         <mxCell id="nK_O2Fkam6YpSDWQyg5H-41" value="APIService" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="nK_O2Fkam6YpSDWQyg5H-48">
           <mxGeometry x="277.5" y="15.5" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nK_O2Fkam6YpSDWQyg5H-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nK_O2Fkam6YpSDWQyg5H-52" target="nK_O2Fkam6YpSDWQyg5H-1">
+        <mxCell id="nK_O2Fkam6YpSDWQyg5H-53" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nK_O2Fkam6YpSDWQyg5H-52" target="nK_O2Fkam6YpSDWQyg5H-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nK_O2Fkam6YpSDWQyg5H-52" value="scale api" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="841" y="1347" width="73" height="36" as="geometry" />
+          <mxGeometry x="842" y="1347" width="73" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
