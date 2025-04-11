@@ -897,7 +897,13 @@
           <mxGeometry x="842" y="1347" width="73" height="36" as="geometry" />
         </mxCell>
         <mxCell id="nK_O2Fkam6YpSDWQyg5H-59" value="runScrape" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="887.75" y="1372.25" width="110.5" height="189.5" as="geometry" />
+          <mxGeometry x="887.75" y="1372.25" width="126.25" height="189.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nK_O2Fkam6YpSDWQyg5H-65" value="&lt;div&gt;Scrape&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="nK_O2Fkam6YpSDWQyg5H-59">
+          <mxGeometry x="-27.75" y="73.75" width="69" height="28.25" as="geometry" />
+        </mxCell>
+        <mxCell id="nK_O2Fkam6YpSDWQyg5H-66" value="&lt;div&gt;Store&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="nK_O2Fkam6YpSDWQyg5H-59">
+          <mxGeometry x="57.25" y="74.36999999999989" width="69" height="28.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
