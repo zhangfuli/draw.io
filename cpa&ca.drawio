@@ -913,7 +913,10 @@
             <mxPoint x="919.05" y="1572.005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nK_O2Fkam6YpSDWQyg5H-70" value="pod" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="nK_O2Fkam6YpSDWQyg5H-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nK_O2Fkam6YpSDWQyg5H-70" target="nK_O2Fkam6YpSDWQyg5H-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nK_O2Fkam6YpSDWQyg5H-70" value="业务pod&lt;div&gt;mesh port&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="842" y="1440" width="73" height="36" as="geometry" />
         </mxCell>
       </root>
