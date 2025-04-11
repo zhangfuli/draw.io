@@ -878,7 +878,7 @@
             <mxPoint x="-28" y="24.87" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nK_O2Fkam6YpSDWQyg5H-37" value="ScaleTarget" style="whiteSpace=wrap;html=1;" vertex="1" parent="nK_O2Fkam6YpSDWQyg5H-48">
+        <mxCell id="nK_O2Fkam6YpSDWQyg5H-37" value="readyTarget" style="whiteSpace=wrap;html=1;" vertex="1" parent="nK_O2Fkam6YpSDWQyg5H-48">
           <mxGeometry x="43.5" y="16.12" width="71.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nK_O2Fkam6YpSDWQyg5H-42" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nK_O2Fkam6YpSDWQyg5H-48" source="nK_O2Fkam6YpSDWQyg5H-40" target="nK_O2Fkam6YpSDWQyg5H-41">
