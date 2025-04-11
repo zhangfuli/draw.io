@@ -908,6 +908,11 @@
         <mxCell id="nK_O2Fkam6YpSDWQyg5H-66" value="&lt;div&gt;Store&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="nK_O2Fkam6YpSDWQyg5H-59">
           <mxGeometry x="25.55" y="76.62999999999988" width="69" height="28.25" as="geometry" />
         </mxCell>
+        <mxCell id="nK_O2Fkam6YpSDWQyg5H-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.578;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="nK_O2Fkam6YpSDWQyg5H-66" target="nK_O2Fkam6YpSDWQyg5H-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="919.05" y="1572.005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
