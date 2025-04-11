@@ -894,9 +894,6 @@
         <mxCell id="nK_O2Fkam6YpSDWQyg5H-54" value="Refresh" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="964" y="1419" width="81" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="nK_O2Fkam6YpSDWQyg5H-55" value="&lt;span style=&quot;text-align: left;&quot;&gt;instanceToAsg&lt;/span&gt;" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="953.8" y="1579" width="87.2" height="33" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
