@@ -953,10 +953,10 @@
         <mxCell id="g7RMUTWT9NCEWnCM11Ii-34" value="GCE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1424" y="1899" width="48" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="g7RMUTWT9NCEWnCM11Ii-35" value="kube-controller-manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="g7RMUTWT9NCEWnCM11Ii-35" value="dhpa" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="948.5" y="1906.04" width="108" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="g7RMUTWT9NCEWnCM11Ii-36" value="kube-scheduler" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="g7RMUTWT9NCEWnCM11Ii-36" value="dscale" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="948" y="1950.65" width="110" height="37" as="geometry" />
         </mxCell>
         <mxCell id="g7RMUTWT9NCEWnCM11Ii-44" value="Node" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
