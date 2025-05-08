@@ -1025,7 +1025,10 @@
           <mxGeometry x="925" y="1832" width="31.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g7RMUTWT9NCEWnCM11Ii-107" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;dscale.spec.replicas&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1197" y="1882.5" width="106" height="20" as="geometry" />
+          <mxGeometry x="1197" y="1895" width="106" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g7RMUTWT9NCEWnCM11Ii-108" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;computeReplicas&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;ForMetric&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1197" y="1846" width="106" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
