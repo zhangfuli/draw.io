@@ -1042,6 +1042,9 @@
             <mxPoint x="1317" y="1980" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="g7RMUTWT9NCEWnCM11Ii-113" value="selector" style="text;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1304.75" y="1857" width="40.25" height="25" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
