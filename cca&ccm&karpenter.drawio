@@ -867,7 +867,7 @@
         <mxCell id="dWT1d8j1XqImpA5W3j_6-13" value="taint" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-12">
           <mxGeometry width="202" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dWT1d8j1XqImpA5W3j_6-14" value="ddcloud.didichuxing.com/service-type=stateless:NoSchedule" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-12">
+        <mxCell id="dWT1d8j1XqImpA5W3j_6-14" value="ddcloud.didichuxing.com/node-cluster=com.didi.asg.stateless:NoSchedule" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-12">
           <mxGeometry x="7" y="27" width="188" height="27" as="geometry" />
         </mxCell>
         <mxCell id="dWT1d8j1XqImpA5W3j_6-15" value="label" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="1">
