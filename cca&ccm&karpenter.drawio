@@ -912,7 +912,7 @@
         <mxCell id="dWT1d8j1XqImpA5W3j_6-27" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-217.25" y="3116" width="202" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dWT1d8j1XqImpA5W3j_6-28" value="allocatable/capacity" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-27">
+        <mxCell id="dWT1d8j1XqImpA5W3j_6-28" value="tolerations" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-27">
           <mxGeometry width="202" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dWT1d8j1XqImpA5W3j_6-29" value="ddcloud.didichuxing.com/cpu-allocatable-cores" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-27">
