@@ -900,7 +900,7 @@
         <mxCell id="dWT1d8j1XqImpA5W3j_6-24" value="required:&lt;div&gt;service-type: stateless&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-22">
           <mxGeometry x="7" y="27" width="188" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="dWT1d8j1XqImpA5W3j_6-31" value="preffered:&lt;div&gt;service-type: stateless&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-22">
+        <mxCell id="dWT1d8j1XqImpA5W3j_6-31" value="preffered:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;node-cluster:com.didi.asg.stateless&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-22">
           <mxGeometry x="7.5" y="61" width="188" height="27" as="geometry" />
         </mxCell>
         <mxCell id="dWT1d8j1XqImpA5W3j_6-25" value="label" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="1">
