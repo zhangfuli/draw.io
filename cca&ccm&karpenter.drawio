@@ -894,10 +894,10 @@
         <mxCell id="dWT1d8j1XqImpA5W3j_6-22" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-220.01999999999998" y="3009" width="202" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dWT1d8j1XqImpA5W3j_6-23" value="taint" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-22">
+        <mxCell id="dWT1d8j1XqImpA5W3j_6-23" value="affinity" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-22">
           <mxGeometry width="202" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dWT1d8j1XqImpA5W3j_6-24" value="node-cluster=&lt;div&gt;com.didi.asg.stateless:NoSchedule&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-22">
+        <mxCell id="dWT1d8j1XqImpA5W3j_6-24" value="requireed:node-cluster=&lt;div&gt;com.didi.asg.stateless:NoSchedule&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-22">
           <mxGeometry x="7" y="27" width="188" height="27" as="geometry" />
         </mxCell>
         <mxCell id="dWT1d8j1XqImpA5W3j_6-25" value="label" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="1">
