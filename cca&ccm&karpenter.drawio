@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="第 1 页" id="36RgzYje6eGZbE3Gu0CY">
-    <mxGraphModel dx="1113" dy="741" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1588" dy="968" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -832,27 +832,61 @@
           <mxGeometry x="1070.39" y="793" width="175" height="32.3" as="geometry" />
         </mxCell>
         <mxCell id="dWT1d8j1XqImpA5W3j_6-1" value="cloud" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="1">
-          <mxGeometry x="-163.02" y="2759" width="246.5" height="186" as="geometry" />
+          <mxGeometry x="-163.02" y="2759" width="247.02" height="248" as="geometry" />
         </mxCell>
         <mxCell id="dWT1d8j1XqImpA5W3j_6-2" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-140.77" y="2872" width="202" height="60" as="geometry" />
+          <mxGeometry x="-140.77" y="2859" width="202" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dWT1d8j1XqImpA5W3j_6-3" value="nodeclaim.consolidation" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-2">
+        <mxCell id="dWT1d8j1XqImpA5W3j_6-3" value="taint" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-2">
           <mxGeometry width="202" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dWT1d8j1XqImpA5W3j_6-4" value="r.kubeClient.Patch(node)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-2">
+        <mxCell id="dWT1d8j1XqImpA5W3j_6-4" value="ddcloud.didichuxing.com/service-type=stateless:NoSchedule" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-2">
           <mxGeometry x="7" y="27" width="188" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="dWT1d8j1XqImpA5W3j_6-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dWT1d8j1XqImpA5W3j_6-6" target="dWT1d8j1XqImpA5W3j_6-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-39.77000000000001" y="2889" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="dWT1d8j1XqImpA5W3j_6-6" value="label" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="1">
           <mxGeometry x="-140.77" y="2791" width="202" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dWT1d8j1XqImpA5W3j_6-7" value="ddcloud.didichuxing.com/service-type: stateless" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-133.77" y="2815" width="188" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="dWT1d8j1XqImpA5W3j_6-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-138" y="2932" width="202" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dWT1d8j1XqImpA5W3j_6-9" value="allocatable/capacity" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-8">
+          <mxGeometry width="202" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dWT1d8j1XqImpA5W3j_6-10" value="ddcloud.didichuxing.com/cpu-allocatable-cores" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-8">
+          <mxGeometry x="7" y="27" width="188" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="dWT1d8j1XqImpA5W3j_6-11" value="idc" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="179" y="2759" width="247.02" height="287" as="geometry" />
+        </mxCell>
+        <mxCell id="dWT1d8j1XqImpA5W3j_6-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="203" y="2902" width="202" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dWT1d8j1XqImpA5W3j_6-13" value="taint" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-12">
+          <mxGeometry width="202" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dWT1d8j1XqImpA5W3j_6-14" value="ddcloud.didichuxing.com/service-type=stateless:NoSchedule" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-12">
+          <mxGeometry x="7" y="27" width="188" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="dWT1d8j1XqImpA5W3j_6-15" value="label" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="201.25" y="2791" width="202" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="dWT1d8j1XqImpA5W3j_6-16" value="ddcloud.didichuxing.com/service-type: stateless" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="208.25" y="2815" width="188" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="dWT1d8j1XqImpA5W3j_6-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="205.77" y="2975" width="202" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dWT1d8j1XqImpA5W3j_6-18" value="allocatable/capacity" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-17">
+          <mxGeometry width="202" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dWT1d8j1XqImpA5W3j_6-19" value="ddcloud.didichuxing.com/cpu-allocatable-cores" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-17">
+          <mxGeometry x="7" y="27" width="188" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="dWT1d8j1XqImpA5W3j_6-20" value="ddcloud.didichuxing.com/node-cluster: com.didi.asg.stateless" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="208.51" y="2851" width="188" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
