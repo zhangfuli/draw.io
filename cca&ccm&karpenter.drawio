@@ -897,7 +897,7 @@
         <mxCell id="dWT1d8j1XqImpA5W3j_6-23" value="affinity" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-22">
           <mxGeometry width="203" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="dWT1d8j1XqImpA5W3j_6-24" value="required:&lt;div&gt;service-type: stateless&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-22">
+        <mxCell id="dWT1d8j1XqImpA5W3j_6-24" value="required:&lt;div&gt;service-type: stateless&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-22">
           <mxGeometry x="7" y="27" width="188" height="27" as="geometry" />
         </mxCell>
         <mxCell id="dWT1d8j1XqImpA5W3j_6-31" value="preffered:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;node-cluster:com.didi.asg.stateless&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-22">
@@ -906,7 +906,7 @@
         <mxCell id="dWT1d8j1XqImpA5W3j_6-25" value="label" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-161.77" y="2902" width="202" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="dWT1d8j1XqImpA5W3j_6-26" value="ddcloud.didichuxing.com/service-type: stateless" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dWT1d8j1XqImpA5W3j_6-26" value="ddcloud.didichuxing.com/service-type: stateless" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-154.76999999999998" y="2926" width="188" height="27" as="geometry" />
         </mxCell>
         <mxCell id="dWT1d8j1XqImpA5W3j_6-27" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -926,6 +926,12 @@
         </mxCell>
         <mxCell id="dWT1d8j1XqImpA5W3j_6-37" value="ddcloud.didichuxing.com/cpu-allocatable-cores" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-147.92" y="3230" width="188" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="dWT1d8j1XqImpA5W3j_6-38" value="preffered:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;node-cluster:com.didi.asg.stateless&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-382" y="3040" width="188" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="dWT1d8j1XqImpA5W3j_6-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dWT1d8j1XqImpA5W3j_6-31" target="dWT1d8j1XqImpA5W3j_6-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
