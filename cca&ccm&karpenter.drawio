@@ -900,7 +900,7 @@
         <mxCell id="dWT1d8j1XqImpA5W3j_6-24" value="required:&lt;div&gt;service-type: stateless&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-22">
           <mxGeometry x="7" y="27" width="188" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="dWT1d8j1XqImpA5W3j_6-31" value="preffered:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;node-cluster:com.didi.asg.stateless&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-22">
+        <mxCell id="dWT1d8j1XqImpA5W3j_6-31" value="preffered:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;node-cluster:com.didi.asg.stateless&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-22">
           <mxGeometry x="7.5" y="61" width="188" height="27" as="geometry" />
         </mxCell>
         <mxCell id="dWT1d8j1XqImpA5W3j_6-25" value="label" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
@@ -915,10 +915,10 @@
         <mxCell id="dWT1d8j1XqImpA5W3j_6-28" value="tolerations" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-27">
           <mxGeometry width="202" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="dWT1d8j1XqImpA5W3j_6-29" value="service-type=stateless:NoSchedule" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-27">
+        <mxCell id="dWT1d8j1XqImpA5W3j_6-29" value="service-type=stateless:NoSchedule" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-27">
           <mxGeometry x="7" y="27" width="188" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="dWT1d8j1XqImpA5W3j_6-35" value="node-cluster=&lt;div&gt;com.didi.asg.stateless:NoSchedule&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-27">
+        <mxCell id="dWT1d8j1XqImpA5W3j_6-35" value="node-cluster=&lt;div&gt;com.didi.asg.stateless:NoSchedule&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-27">
           <mxGeometry x="7" y="61" width="188" height="27" as="geometry" />
         </mxCell>
         <mxCell id="dWT1d8j1XqImpA5W3j_6-36" value="resources" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
@@ -927,7 +927,7 @@
         <mxCell id="dWT1d8j1XqImpA5W3j_6-37" value="ddcloud.didichuxing.com/cpu-allocatable-cores" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-147.92" y="3230" width="188" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="dWT1d8j1XqImpA5W3j_6-38" value="preffered: ddcloud.didichuxing.com/operator-status-node_cluster: common" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dWT1d8j1XqImpA5W3j_6-38" value="preffered: ddcloud.didichuxing.com/operator-status-node_cluster: common" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-383" y="3029" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dWT1d8j1XqImpA5W3j_6-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dWT1d8j1XqImpA5W3j_6-31" target="dWT1d8j1XqImpA5W3j_6-38">
