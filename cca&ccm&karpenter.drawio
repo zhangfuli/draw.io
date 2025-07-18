@@ -924,6 +924,9 @@
         <mxCell id="dWT1d8j1XqImpA5W3j_6-36" value="resources" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="1">
           <mxGeometry x="-217.25" y="3232" width="202" height="64" as="geometry" />
         </mxCell>
+        <mxCell id="dWT1d8j1XqImpA5W3j_6-37" value="service-type=stateless:NoSchedule" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-207.92" y="3260" width="188" height="27" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
