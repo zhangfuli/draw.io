@@ -915,10 +915,10 @@
         <mxCell id="dWT1d8j1XqImpA5W3j_6-28" value="tolerations" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-27">
           <mxGeometry width="202" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="dWT1d8j1XqImpA5W3j_6-29" value="ddcloud.didichuxing.com/cpu-allocatable-cores" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-27">
+        <mxCell id="dWT1d8j1XqImpA5W3j_6-29" value="service-type=stateless:NoSchedule" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-27">
           <mxGeometry x="7" y="27" width="188" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="dWT1d8j1XqImpA5W3j_6-35" value="ddcloud.didichuxing.com/cpu-allocatable-cores" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-27">
+        <mxCell id="dWT1d8j1XqImpA5W3j_6-35" value="node-cluster=&lt;div&gt;com.didi.asg.stateless:NoSchedule&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dWT1d8j1XqImpA5W3j_6-27">
           <mxGeometry x="7" y="61" width="188" height="27" as="geometry" />
         </mxCell>
       </root>
