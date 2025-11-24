@@ -1186,10 +1186,10 @@
         <mxCell id="9L3cjs1kzCg0ehlKbULG-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=6;" value="核心扩缩功能" vertex="1">
           <mxGeometry height="45" width="265" x="2049" y="814" as="geometry" />
         </mxCell>
-        <mxCell id="9L3cjs1kzCg0ehlKbULG-70" edge="1" parent="1" source="9L3cjs1kzCg0ehlKbULG-69" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1.5;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.61;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;exitPerimeter=0;" target="9L3cjs1kzCg0ehlKbULG-7" value="">
+        <mxCell id="9L3cjs1kzCg0ehlKbULG-70" edge="1" parent="1" source="9L3cjs1kzCg0ehlKbULG-69" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1.5;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;" target="9L3cjs1kzCg0ehlKbULG-7" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1845" y="842" />
+              <mxPoint x="1845" y="836" />
             </Array>
             <mxPoint x="1945" y="833" as="sourcePoint" />
             <mxPoint x="1891" y="925" as="targetPoint" />
