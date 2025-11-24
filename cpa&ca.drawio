@@ -1077,10 +1077,10 @@
           <mxGeometry height="25" width="40.25" x="1211" y="1877" as="geometry" />
         </mxCell>
         <mxCell id="9L3cjs1kzCg0ehlKbULG-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;spacingTop=-5;" value="其他组件" vertex="1">
-          <mxGeometry height="75" width="178" x="1752" y="1005" as="geometry" />
+          <mxGeometry height="75" width="178" x="1770.5" y="1005" as="geometry" />
         </mxCell>
         <mxCell id="9L3cjs1kzCg0ehlKbULG-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;verticalAlign=top;arcSize=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
-          <mxGeometry height="136" width="272" x="1753" y="857" as="geometry" />
+          <mxGeometry height="136" width="253" x="1772" y="857" as="geometry" />
         </mxCell>
         <mxCell id="9L3cjs1kzCg0ehlKbULG-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Cluster-AutoScaler" vertex="1">
           <mxGeometry height="224" width="282" x="2041.5" y="769" as="geometry" />
@@ -1088,20 +1088,20 @@
         <mxCell id="9L3cjs1kzCg0ehlKbULG-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=6;" value="" vertex="1">
           <mxGeometry height="116" width="267" x="2049" y="853" as="geometry" />
         </mxCell>
-        <mxCell id="9L3cjs1kzCg0ehlKbULG-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;spacingTop=-3;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="厂商初始化虚机流程" vertex="1">
-          <mxGeometry height="74" width="299.5" x="1935.5" y="1005" as="geometry" />
+        <mxCell id="9L3cjs1kzCg0ehlKbULG-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;spacingTop=-3;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="厂商初始化虚机流程(伸缩组)" vertex="1">
+          <mxGeometry height="74" width="299.5" x="1957.25" y="1005" as="geometry" />
         </mxCell>
         <mxCell id="9L3cjs1kzCg0ehlKbULG-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;verticalAlign=top;arcSize=0;" value="" vertex="1">
-          <mxGeometry height="85" width="149.5" x="1761" y="894" as="geometry" />
+          <mxGeometry height="85" width="130.5" x="1780" y="894" as="geometry" />
         </mxCell>
         <mxCell id="9L3cjs1kzCg0ehlKbULG-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="kube-apiserver" vertex="1">
-          <mxGeometry height="37" width="109" x="1785" y="921.5" as="geometry" />
+          <mxGeometry height="37" width="109" x="1790.75" y="920.85" as="geometry" />
         </mxCell>
         <mxCell id="9L3cjs1kzCg0ehlKbULG-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Cloud-Controller-Manager" vertex="1">
-          <mxGeometry height="23" width="148" x="1765.5" y="1022" as="geometry" />
+          <mxGeometry height="23" width="148" x="1784" y="1022" as="geometry" />
         </mxCell>
         <mxCell id="9L3cjs1kzCg0ehlKbULG-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Cluster-Capacity-Adjuster" vertex="1">
-          <mxGeometry height="79" width="272" x="1753" y="769.5" as="geometry" />
+          <mxGeometry height="79" width="253" x="1772" y="770" as="geometry" />
         </mxCell>
         <mxCell id="9L3cjs1kzCg0ehlKbULG-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="AWS" vertex="1">
           <mxGeometry height="28" width="50" x="2261" y="863.5" as="geometry" />
@@ -1110,16 +1110,16 @@
           <mxGeometry height="28" width="48" x="2261" y="897" as="geometry" />
         </mxCell>
         <mxCell id="9L3cjs1kzCg0ehlKbULG-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="根据镜像初始化虚机" vertex="1">
-          <mxGeometry height="30" width="66.5" x="1948.5" y="1034" as="geometry" />
+          <mxGeometry height="30" width="66.5" x="1970.25" y="1034" as="geometry" />
         </mxCell>
         <mxCell id="9L3cjs1kzCg0ehlKbULG-41" edge="1" parent="1" source="9L3cjs1kzCg0ehlKbULG-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;" target="9L3cjs1kzCg0ehlKbULG-43" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9L3cjs1kzCg0ehlKbULG-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="设置kubelet启动参数" vertex="1">
-          <mxGeometry height="30" width="77" x="2049" y="1034" as="geometry" />
+          <mxGeometry height="30" width="77" x="2070.75" y="1034" as="geometry" />
         </mxCell>
         <mxCell id="9L3cjs1kzCg0ehlKbULG-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="启动kubelet&lt;div&gt;启动其他产品&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="77" x="2148" y="1034" as="geometry" />
+          <mxGeometry height="30" width="77" x="2169.75" y="1034" as="geometry" />
         </mxCell>
         <mxCell id="9L3cjs1kzCg0ehlKbULG-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Node" vertex="1">
           <mxGeometry height="37" width="91" x="1922" y="895.5" as="geometry" />
@@ -1131,7 +1131,7 @@
           <mxGeometry height="28" width="48" x="2261" y="930.5" as="geometry" />
         </mxCell>
         <mxCell id="9L3cjs1kzCg0ehlKbULG-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Horizontal-Pod-Autoscaler" vertex="1">
-          <mxGeometry height="24" width="148" x="1765.5" y="1051" as="geometry" />
+          <mxGeometry height="24" width="148" x="1784" y="1051" as="geometry" />
         </mxCell>
         <mxCell id="9L3cjs1kzCg0ehlKbULG-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=6;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;dashPattern=1 2;" value="GCE" vertex="1">
           <mxGeometry height="93.5" width="192" x="2056" y="869" as="geometry" />
@@ -1173,8 +1173,8 @@
         </mxCell>
         <mxCell id="9L3cjs1kzCg0ehlKbULG-66" edge="1" parent="1" source="9L3cjs1kzCg0ehlKbULG-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="9L3cjs1kzCg0ehlKbULG-42" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2219" y="1042" as="sourcePoint" />
-            <mxPoint x="2246" y="1042" as="targetPoint" />
+            <mxPoint x="2240.75" y="1042" as="sourcePoint" />
+            <mxPoint x="2267.75" y="1042" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
