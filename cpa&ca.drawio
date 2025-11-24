@@ -1086,7 +1086,7 @@
           <mxGeometry height="65" width="146.5" x="1932" y="776" as="geometry" />
         </mxCell>
         <mxCell id="9L3cjs1kzCg0ehlKbULG-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;spacingTop=-3;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="厂商初始化虚机流程(伸缩组)" vertex="1">
-          <mxGeometry height="293.5" width="91" x="2100" y="777.5" as="geometry" />
+          <mxGeometry height="301.5" width="91" x="2100" y="777.5" as="geometry" />
         </mxCell>
         <mxCell id="9L3cjs1kzCg0ehlKbULG-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;verticalAlign=top;arcSize=0;" value="" vertex="1">
           <mxGeometry height="85" width="130.5" x="1784" y="894" as="geometry" />
@@ -1117,7 +1117,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9L3cjs1kzCg0ehlKbULG-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="启动kubelet&lt;div&gt;启动其他产品&lt;/div&gt;" vertex="1">
+        <mxCell id="9L3cjs1kzCg0ehlKbULG-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="启动kubelet&lt;div&gt;&amp;amp; 其他产品&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="77" x="2107" y="1009" as="geometry" />
         </mxCell>
         <mxCell id="9L3cjs1kzCg0ehlKbULG-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Node" vertex="1">
