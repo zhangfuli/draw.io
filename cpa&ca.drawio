@@ -1400,15 +1400,6 @@
         <mxCell id="-4xbR_UNm303EiTBvYga-87" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="PodB-0" vertex="1">
           <mxGeometry height="27.5" width="104.63" x="1842.43" y="1862" as="geometry" />
         </mxCell>
-        <mxCell id="-4xbR_UNm303EiTBvYga-92" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="27.5" width="104.62999999999988" x="1842.43" y="1896.25" as="geometry" />
-        </mxCell>
-        <mxCell id="-4xbR_UNm303EiTBvYga-90" parent="-4xbR_UNm303EiTBvYga-92" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="kubelet" vertex="1">
-          <mxGeometry height="27.5" width="104.63" as="geometry" />
-        </mxCell>
-        <mxCell id="-4xbR_UNm303EiTBvYga-103" parent="-4xbR_UNm303EiTBvYga-92" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=kubelet" value="" vertex="1">
-          <mxGeometry height="23.25" width="24.22" x="6.57" y="2.13" as="geometry" />
-        </mxCell>
         <mxCell id="-4xbR_UNm303EiTBvYga-93" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="Node" vertex="1">
           <mxGeometry height="130" width="120" x="1985" y="1798" as="geometry" />
         </mxCell>
@@ -1427,14 +1418,11 @@
         <mxCell id="-4xbR_UNm303EiTBvYga-101" parent="-4xbR_UNm303EiTBvYga-99" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=kubelet" value="" vertex="1">
           <mxGeometry height="21" width="21.88" x="8" y="3.25" as="geometry" />
         </mxCell>
-        <mxCell id="-4xbR_UNm303EiTBvYga-104" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="27.5" width="104.62999999999988" x="1992" y="1894.5" as="geometry" />
+        <mxCell id="-4xbR_UNm303EiTBvYga-106" parent="1" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=kubelet" value="" vertex="1">
+          <mxGeometry height="30.94" width="32.23" x="1878.63" y="1894.53" as="geometry" />
         </mxCell>
-        <mxCell id="-4xbR_UNm303EiTBvYga-105" parent="-4xbR_UNm303EiTBvYga-104" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="kubelet" vertex="1">
-          <mxGeometry height="27.5" width="104.63" as="geometry" />
-        </mxCell>
-        <mxCell id="-4xbR_UNm303EiTBvYga-106" parent="-4xbR_UNm303EiTBvYga-104" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=kubelet" value="" vertex="1">
-          <mxGeometry height="23.25" width="24.22" x="6.57" y="2.13" as="geometry" />
+        <mxCell id="-4xbR_UNm303EiTBvYga-107" parent="1" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=kubelet" value="" vertex="1">
+          <mxGeometry height="30.94" width="32.23" x="2028.88" y="1893.06" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
