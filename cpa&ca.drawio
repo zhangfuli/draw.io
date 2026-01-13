@@ -1539,6 +1539,12 @@
         <mxCell id="-4xbR_UNm303EiTBvYga-164" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="启动kubelet&lt;div&gt;启动其他产品&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="77" x="2269" y="2402" as="geometry" />
         </mxCell>
+        <mxCell id="-4xbR_UNm303EiTBvYga-165" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=14;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1734" y="2132" as="sourcePoint" />
+            <mxPoint x="2399" y="2127" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
