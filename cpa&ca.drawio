@@ -1397,6 +1397,9 @@
         <mxCell id="-4xbR_UNm303EiTBvYga-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="mmachine平台" vertex="1">
           <mxGeometry height="32" width="90.5" x="2068" y="1885" as="geometry" />
         </mxCell>
+        <mxCell id="-4xbR_UNm303EiTBvYga-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="云厂商" vertex="1">
+          <mxGeometry height="32" width="90.5" x="1752" y="1885" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
