@@ -1416,10 +1416,10 @@
           <mxGeometry height="37" width="182" x="1848.5" y="2091" as="geometry" />
         </mxCell>
         <mxCell id="-4xbR_UNm303EiTBvYga-117" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Cluster-AutoScaler" vertex="1">
-          <mxGeometry height="272.5" width="282" x="2102" y="1962.5" as="geometry" />
+          <mxGeometry height="249.5" width="282" x="2102" y="1962.5" as="geometry" />
         </mxCell>
         <mxCell id="-4xbR_UNm303EiTBvYga-118" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=6;" value="Cloud-Provider" vertex="1">
-          <mxGeometry height="72.5" width="267" x="2109.5" y="2150.5" as="geometry" />
+          <mxGeometry height="65.75" width="267" x="2109.5" y="2135.25" as="geometry" />
         </mxCell>
         <mxCell id="-4xbR_UNm303EiTBvYga-119" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=9;" value="" vertex="1">
           <mxGeometry height="88" width="203" x="2141.5" y="2035.5" as="geometry" />
@@ -1431,7 +1431,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-4xbR_UNm303EiTBvYga-122" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Core" vertex="1">
-          <mxGeometry height="28" width="75" x="2205.5" y="2087.5" as="geometry" />
+          <mxGeometry height="28" width="75" x="2205.5" y="2082" as="geometry" />
         </mxCell>
         <mxCell id="-4xbR_UNm303EiTBvYga-123" edge="1" parent="1" source="-4xbR_UNm303EiTBvYga-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;" target="-4xbR_UNm303EiTBvYga-127" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -1458,16 +1458,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-4xbR_UNm303EiTBvYga-130" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="AWS" vertex="1">
-          <mxGeometry height="28" width="50" x="2303" y="2181" as="geometry" />
+          <mxGeometry height="28" width="50" x="2305.5" y="2161" as="geometry" />
         </mxCell>
         <mxCell id="-4xbR_UNm303EiTBvYga-131" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GCE" vertex="1">
-          <mxGeometry height="28" width="48" x="2245.5" y="2181" as="geometry" />
+          <mxGeometry height="28" width="48" x="2248" y="2161" as="geometry" />
         </mxCell>
         <mxCell id="-4xbR_UNm303EiTBvYga-132" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tencent" vertex="1">
-          <mxGeometry height="28" width="48" x="2188" y="2181" as="geometry" />
+          <mxGeometry height="28" width="48" x="2190.5" y="2161" as="geometry" />
         </mxCell>
         <mxCell id="-4xbR_UNm303EiTBvYga-142" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ali" vertex="1">
-          <mxGeometry height="28" width="48" x="2128" y="2181" as="geometry" />
+          <mxGeometry height="28" width="48" x="2130.5" y="2161" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
