@@ -1389,7 +1389,13 @@
           <mxGeometry height="29" width="78.45" x="1919.55" y="1436" as="geometry" />
         </mxCell>
         <mxCell id="-4xbR_UNm303EiTBvYga-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="AutoScaler" vertex="1">
-          <mxGeometry height="30" width="60" x="1970.5" y="1945" as="geometry" />
+          <mxGeometry height="32" width="90.5" x="1970.5" y="1945" as="geometry" />
+        </mxCell>
+        <mxCell id="-4xbR_UNm303EiTBvYga-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="云管平台" vertex="1">
+          <mxGeometry height="32" width="90.5" x="1891" y="1885" as="geometry" />
+        </mxCell>
+        <mxCell id="-4xbR_UNm303EiTBvYga-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="mmachine平台" vertex="1">
+          <mxGeometry height="32" width="90.5" x="2068" y="1885" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
