@@ -1441,7 +1441,7 @@
             <mxPoint x="1924.75" y="1401" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-4xbR_UNm303EiTBvYga-220" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Pod横向扩缩控制面&lt;/font&gt;" vertex="1">
+        <mxCell id="-4xbR_UNm303EiTBvYga-220" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Pod扩缩&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;控制面&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="48" width="106" x="1678" y="1383" as="geometry" />
         </mxCell>
         <mxCell id="-4xbR_UNm303EiTBvYga-221" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Kubernetes&lt;/font&gt;" vertex="1">
