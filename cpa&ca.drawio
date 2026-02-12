@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
   <diagram name="第 1 页" id="F5VYigaGw1SXEJX05_Oq">
-    <mxGraphModel dx="1296" dy="1819" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="648" dy="1494" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1351,7 +1351,7 @@
         <mxCell id="-4xbR_UNm303EiTBvYga-194" parent="-4xbR_UNm303EiTBvYga-191" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=kubelet;container=0;" value="" vertex="1">
           <mxGeometry height="25.94" width="27.02" x="92.73000000000002" y="3" as="geometry" />
         </mxCell>
-        <mxCell id="-4xbR_UNm303EiTBvYga-195" parent="-4xbR_UNm303EiTBvYga-191" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;container=0;" value="Node" vertex="1">
+        <mxCell id="-4xbR_UNm303EiTBvYga-195" parent="-4xbR_UNm303EiTBvYga-191" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;container=0;" value="Node&lt;br&gt;(idc)" vertex="1">
           <mxGeometry height="26" width="48" x="47.5" y="3" as="geometry" />
         </mxCell>
         <mxCell id="-4xbR_UNm303EiTBvYga-196" edge="1" parent="-4xbR_UNm303EiTBvYga-191" style="endArrow=none;html=1;rounded=0;entryX=0.999;entryY=0.379;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.009;exitY=0.379;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
@@ -1375,7 +1375,7 @@
         <mxCell id="-4xbR_UNm303EiTBvYga-201" parent="-4xbR_UNm303EiTBvYga-198" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=kubelet;container=0;" value="" vertex="1">
           <mxGeometry height="25.94" width="27.02" x="92.73000000000002" y="3" as="geometry" />
         </mxCell>
-        <mxCell id="-4xbR_UNm303EiTBvYga-202" parent="-4xbR_UNm303EiTBvYga-198" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;container=0;" value="New-Node" vertex="1">
+        <mxCell id="-4xbR_UNm303EiTBvYga-202" parent="-4xbR_UNm303EiTBvYga-198" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;container=0;" value="New-Node&lt;div&gt;(cloud)&lt;/div&gt;" vertex="1">
           <mxGeometry height="26" width="66.5" x="29" y="3" as="geometry" />
         </mxCell>
         <mxCell id="-4xbR_UNm303EiTBvYga-203" edge="1" parent="-4xbR_UNm303EiTBvYga-198" style="endArrow=none;html=1;rounded=0;entryX=0.999;entryY=0.379;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.009;exitY=0.379;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
