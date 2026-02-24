@@ -1492,8 +1492,8 @@
         <mxCell id="c0_c0fI0rSupnvlC9U-6-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;CMDB&lt;/span&gt;" vertex="1">
           <mxGeometry height="73" width="122" x="1825" y="1915" as="geometry" />
         </mxCell>
-        <mxCell id="c0_c0fI0rSupnvlC9U-6-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="2024" y="2572" as="geometry" />
+        <mxCell id="c0_c0fI0rSupnvlC9U-6-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Pod横向扩缩控制器" vertex="1">
+          <mxGeometry height="60" width="120" x="2015" y="2597" as="geometry" />
         </mxCell>
         <mxCell id="c0_c0fI0rSupnvlC9U-6-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;verticalAlign=top;arcSize=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
           <mxGeometry height="178" width="566" x="1801" y="2677" as="geometry" />
