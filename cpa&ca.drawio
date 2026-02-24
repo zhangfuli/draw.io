@@ -1641,7 +1641,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="c0_c0fI0rSupnvlC9U-6-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="动态调节&lt;div&gt;容器数量&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="79" x="2265.25" y="2616" as="geometry" />
+          <mxGeometry height="30" width="79" x="2262" y="2624" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
