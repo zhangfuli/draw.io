@@ -1643,8 +1643,8 @@
         <mxCell id="c0_c0fI0rSupnvlC9U-6-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="动态调节&lt;div&gt;容器数量&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="79" x="2262" y="2624" as="geometry" />
         </mxCell>
-        <mxCell id="c0_c0fI0rSupnvlC9U-6-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Cluster-Capacity-Adjuster&lt;br&gt;&lt;div&gt;(Pod横向扩缩控制器）&lt;/div&gt;" vertex="1">
-          <mxGeometry height="54" width="304.5" x="2087.5" y="2923" as="geometry" />
+        <mxCell id="c0_c0fI0rSupnvlC9U-6-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Cluster-Capacity-Adjuster&lt;br&gt;&lt;div&gt;(集群容量控制器）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="54" width="304.5" x="1833" y="2906" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
