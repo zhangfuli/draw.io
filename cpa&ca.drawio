@@ -1606,6 +1606,9 @@
         <mxCell id="c0_c0fI0rSupnvlC9U-6-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Horizontal-Pod-Autoscaler&lt;/span&gt;&lt;div&gt;(Pod横向扩缩控制器）&lt;/div&gt;" vertex="1">
           <mxGeometry height="54" width="304.5" x="1954.75" y="2592" as="geometry" />
         </mxCell>
+        <mxCell id="c0_c0fI0rSupnvlC9U-6-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="hnd" vertex="1">
+          <mxGeometry height="30" width="60" x="2052" y="2713" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
