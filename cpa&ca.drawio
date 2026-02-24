@@ -1680,6 +1680,15 @@
         <mxCell id="c0_c0fI0rSupnvlC9U-6-63" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="动态调节&lt;div&gt;Node数量&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="79" x="2299.25" y="2860" as="geometry" />
         </mxCell>
+        <mxCell id="c0_c0fI0rSupnvlC9U-6-64" edge="1" parent="1" source="c0_c0fI0rSupnvlC9U-6-10" style="endArrow=classic;html=1;rounded=0;exitX=0.576;exitY=0.992;exitDx=0;exitDy=0;entryX=0.231;entryY=-0.01;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" target="c0_c0fI0rSupnvlC9U-6-59" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2377" y="3060" as="sourcePoint" />
+            <mxPoint x="2409" y="2926" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c0_c0fI0rSupnvlC9U-6-65" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="检测Node和Pod状态" vertex="1">
+          <mxGeometry height="30" width="79" x="2090" y="2866" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
