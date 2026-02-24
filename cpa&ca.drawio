@@ -1299,13 +1299,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-4xbR_UNm303EiTBvYga-161" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="挂载磁盘快照" vertex="1">
-          <mxGeometry height="30" width="60" x="2088.5" y="1944" as="geometry" />
+          <mxGeometry height="30" width="60" x="2070" y="1944" as="geometry" />
         </mxCell>
         <mxCell id="-4xbR_UNm303EiTBvYga-162" edge="1" parent="1" source="-4xbR_UNm303EiTBvYga-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;" target="-4xbR_UNm303EiTBvYga-164" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-4xbR_UNm303EiTBvYga-163" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="设置kubelet启动参数" vertex="1">
-          <mxGeometry height="30" width="77" x="2178" y="1944" as="geometry" />
+          <mxGeometry height="30" width="77" x="2173" y="1944" as="geometry" />
         </mxCell>
         <mxCell id="-4xbR_UNm303EiTBvYga-190" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="89" width="467" x="1924" y="1553" as="geometry" />
