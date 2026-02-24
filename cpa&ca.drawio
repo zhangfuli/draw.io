@@ -1653,7 +1653,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="c0_c0fI0rSupnvlC9U-6-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="周期采集&lt;div&gt;集群容量指标&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="79" x="1839.75" y="2866" as="geometry" />
+          <mxGeometry height="30" width="79" x="1829.18" y="2866" as="geometry" />
+        </mxCell>
+        <mxCell id="c0_c0fI0rSupnvlC9U-6-59" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Cluster-Capacity-Adjuster&lt;br&gt;&lt;div&gt;(集群容量控制器）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="73" width="199" x="2121" y="2906" as="geometry" />
+        </mxCell>
+        <mxCell id="c0_c0fI0rSupnvlC9U-6-60" edge="1" parent="1" source="c0_c0fI0rSupnvlC9U-6-56" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" target="c0_c0fI0rSupnvlC9U-6-59" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1822" y="2867" as="sourcePoint" />
+            <mxPoint x="1854" y="2954" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c0_c0fI0rSupnvlC9U-6-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="集群规模&lt;br&gt;&lt;div&gt;推荐值&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="79" x="2048.75" y="2946" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
