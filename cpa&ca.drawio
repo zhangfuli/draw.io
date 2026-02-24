@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.3.8">
   <diagram name="第 1 页" id="F5VYigaGw1SXEJX05_Oq">
-    <mxGraphModel dx="839" dy="1570" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1019" dy="1655" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1644,7 +1644,7 @@
           <mxGeometry height="30" width="79" x="2262" y="2624" as="geometry" />
         </mxCell>
         <mxCell id="c0_c0fI0rSupnvlC9U-6-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Cluster-Capacity-Adjuster&lt;br&gt;&lt;div&gt;(集群容量控制器）&lt;/div&gt;" vertex="1">
-          <mxGeometry height="73" width="199" x="1861.5" y="2906" as="geometry" />
+          <mxGeometry height="73" width="154.5" x="1861.5" y="2906" as="geometry" />
         </mxCell>
         <mxCell id="c0_c0fI0rSupnvlC9U-6-57" edge="1" parent="1" source="c0_c0fI0rSupnvlC9U-6-43" style="endArrow=classic;html=1;rounded=0;exitX=0.18;exitY=0.963;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" target="c0_c0fI0rSupnvlC9U-6-56" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -1656,7 +1656,7 @@
           <mxGeometry height="30" width="79" x="1829.18" y="2866" as="geometry" />
         </mxCell>
         <mxCell id="c0_c0fI0rSupnvlC9U-6-59" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Cluster-AutoScaler&lt;br&gt;&lt;div&gt;(Node扩缩控制器）&lt;/div&gt;" vertex="1">
-          <mxGeometry height="73" width="199" x="2121" y="2906" as="geometry" />
+          <mxGeometry height="73" width="122.75" x="2070.12" y="2906" as="geometry" />
         </mxCell>
         <mxCell id="c0_c0fI0rSupnvlC9U-6-60" edge="1" parent="1" source="c0_c0fI0rSupnvlC9U-6-56" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" target="c0_c0fI0rSupnvlC9U-6-59" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -1665,7 +1665,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="c0_c0fI0rSupnvlC9U-6-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="集群规模&lt;br&gt;&lt;div&gt;推荐值&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="79" x="2048.75" y="2946" as="geometry" />
+          <mxGeometry height="30" width="79" x="2005" y="2946" as="geometry" />
         </mxCell>
         <mxCell id="c0_c0fI0rSupnvlC9U-6-62" edge="1" parent="1" source="c0_c0fI0rSupnvlC9U-6-59" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" target="c0_c0fI0rSupnvlC9U-6-29" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -1680,14 +1680,14 @@
         <mxCell id="c0_c0fI0rSupnvlC9U-6-63" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="动态调节&lt;div&gt;Node数量&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="79" x="2299.25" y="2860" as="geometry" />
         </mxCell>
-        <mxCell id="c0_c0fI0rSupnvlC9U-6-64" edge="1" parent="1" source="c0_c0fI0rSupnvlC9U-6-10" style="endArrow=classic;html=1;rounded=0;exitX=0.576;exitY=0.992;exitDx=0;exitDy=0;entryX=0.231;entryY=-0.01;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" target="c0_c0fI0rSupnvlC9U-6-59" value="">
+        <mxCell id="c0_c0fI0rSupnvlC9U-6-64" edge="1" parent="1" source="c0_c0fI0rSupnvlC9U-6-44" style="endArrow=classic;html=1;rounded=0;exitX=0.615;exitY=0.951;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" target="c0_c0fI0rSupnvlC9U-6-59" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="2377" y="3060" as="sourcePoint" />
             <mxPoint x="2409" y="2926" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c0_c0fI0rSupnvlC9U-6-65" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="检测Node和Pod状态" vertex="1">
-          <mxGeometry height="30" width="79" x="2090" y="2866" as="geometry" />
+          <mxGeometry height="30" width="79" x="2052" y="2866" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
