@@ -1546,16 +1546,16 @@
             <mxPoint x="143.85600000000022" y="32.42500000000018" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c0_c0fI0rSupnvlC9U-6-46" parent="c0_c0fI0rSupnvlC9U-6-21" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;container=0;dashed=1;" value="PodA-2" vertex="1">
+        <mxCell id="c0_c0fI0rSupnvlC9U-6-46" parent="c0_c0fI0rSupnvlC9U-6-21" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;container=0;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="PodA-2" vertex="1">
           <mxGeometry height="29" width="62.75" x="74.86999999999989" y="38" as="geometry" />
         </mxCell>
         <mxCell id="c0_c0fI0rSupnvlC9U-6-28" connectable="0" parent="1" style="group;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
           <mxGeometry height="75" width="144" x="2208" y="2753" as="geometry" />
         </mxCell>
-        <mxCell id="c0_c0fI0rSupnvlC9U-6-29" parent="c0_c0fI0rSupnvlC9U-6-28" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;container=0;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
+        <mxCell id="c0_c0fI0rSupnvlC9U-6-29" parent="c0_c0fI0rSupnvlC9U-6-28" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;container=0;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
           <mxGeometry height="75" width="144" as="geometry" />
         </mxCell>
-        <mxCell id="c0_c0fI0rSupnvlC9U-6-30" parent="c0_c0fI0rSupnvlC9U-6-28" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;container=0;dashed=1;" value="PodA-3" vertex="1">
+        <mxCell id="c0_c0fI0rSupnvlC9U-6-30" parent="c0_c0fI0rSupnvlC9U-6-28" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;container=0;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="PodA-3" vertex="1">
           <mxGeometry height="29" width="62.75" x="5.630000000000109" y="38" as="geometry" />
         </mxCell>
         <mxCell id="c0_c0fI0rSupnvlC9U-6-31" parent="c0_c0fI0rSupnvlC9U-6-28" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=kubelet;container=0;" value="" vertex="1">
@@ -1639,6 +1639,9 @@
             <mxPoint x="1830" y="2707" as="sourcePoint" />
             <mxPoint x="1934" y="2664" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="c0_c0fI0rSupnvlC9U-6-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="动态调节&lt;div&gt;容器数量&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="79" x="2265.25" y="2616" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
