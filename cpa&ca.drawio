@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.3.8">
   <diagram name="第 1 页" id="F5VYigaGw1SXEJX05_Oq">
-    <mxGraphModel dx="891" dy="1616" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1009" dy="1602" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1293,19 +1293,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-4xbR_UNm303EiTBvYga-159" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="更改&lt;div&gt;hostname&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="1860" y="1944" as="geometry" />
+          <mxGeometry height="30" width="60" x="1967" y="1944" as="geometry" />
         </mxCell>
         <mxCell id="-4xbR_UNm303EiTBvYga-160" edge="1" parent="1" source="-4xbR_UNm303EiTBvYga-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;" target="-4xbR_UNm303EiTBvYga-163" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-4xbR_UNm303EiTBvYga-161" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="挂载磁盘快照" vertex="1">
-          <mxGeometry height="30" width="60" x="1974" y="1944" as="geometry" />
+          <mxGeometry height="30" width="60" x="2088.5" y="1944" as="geometry" />
         </mxCell>
         <mxCell id="-4xbR_UNm303EiTBvYga-162" edge="1" parent="1" source="-4xbR_UNm303EiTBvYga-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;" target="-4xbR_UNm303EiTBvYga-164" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-4xbR_UNm303EiTBvYga-163" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="设置kubelet启动参数" vertex="1">
-          <mxGeometry height="30" width="77" x="2122" y="1944" as="geometry" />
+          <mxGeometry height="30" width="77" x="2178" y="1944" as="geometry" />
         </mxCell>
         <mxCell id="-4xbR_UNm303EiTBvYga-190" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="89" width="467" x="1924" y="1553" as="geometry" />
@@ -1482,6 +1482,12 @@
         </mxCell>
         <mxCell id="-4xbR_UNm303EiTBvYga-247" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Stateless&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="2118.75" y="1627" as="geometry" />
+        </mxCell>
+        <mxCell id="c0_c0fI0rSupnvlC9U-6-2" edge="1" parent="1" source="c0_c0fI0rSupnvlC9U-6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-4xbR_UNm303EiTBvYga-159" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0_c0fI0rSupnvlC9U-6-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="根据VM初始化虚机" vertex="1">
+          <mxGeometry height="30" width="60" x="1854.5" y="1944" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
