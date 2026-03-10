@@ -1730,7 +1730,10 @@
           <mxGeometry height="35" width="65.32" x="2004" y="3165.5" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=11;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Horizontal-Pod-Autoscaler&lt;/span&gt;" vertex="1">
-          <mxGeometry height="54" width="305" x="1792" y="3242" as="geometry" />
+          <mxGeometry height="54" width="305" x="1792" y="3252" as="geometry" />
+        </mxCell>
+        <mxCell id="qIOckFWf7I8b8GCEFZcE-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=11;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Horizontal-Pod-Autoscaler&lt;/span&gt;" vertex="1">
+          <mxGeometry height="54" width="305" x="1789.75" y="3357" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
