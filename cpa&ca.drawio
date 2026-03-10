@@ -1856,7 +1856,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="设置副本数: N" vertex="1">
-          <mxGeometry height="30" width="88" x="1932" y="3227" as="geometry" />
+          <mxGeometry height="30" width="88" x="1936" y="3227" as="geometry" />
+        </mxCell>
+        <mxCell id="qIOckFWf7I8b8GCEFZcE-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Keda" vertex="1">
+          <mxGeometry height="38" width="97.31" x="1711.64" y="3381" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
