@@ -1838,7 +1838,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Metric-server" vertex="1">
-          <mxGeometry height="38" width="97.31" x="1711" y="3153.5" as="geometry" />
+          <mxGeometry height="38" width="97.31" x="1698" y="3153.5" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-53" edge="1" parent="1" source="qIOckFWf7I8b8GCEFZcE-46" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qIOckFWf7I8b8GCEFZcE-52" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -1847,7 +1847,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;APIServer&lt;/span&gt;" vertex="1">
-          <mxGeometry height="44" width="97.95" x="1711" y="3274" as="geometry" />
+          <mxGeometry height="44" width="97.95" x="1698" y="3274" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Aggregation" vertex="1">
           <mxGeometry height="30" width="66" x="1691" y="3215" as="geometry" />
@@ -1860,6 +1860,9 @@
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Keda" vertex="1">
           <mxGeometry height="38" width="97.31" x="1711.64" y="3381" as="geometry" />
+        </mxCell>
+        <mxCell id="qIOckFWf7I8b8GCEFZcE-62" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="cpu、内存" vertex="1">
+          <mxGeometry height="30" width="66" x="1792" y="3137" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
