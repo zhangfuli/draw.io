@@ -1855,8 +1855,8 @@
         <mxCell id="qIOckFWf7I8b8GCEFZcE-58" edge="1" parent="1" source="qIOckFWf7I8b8GCEFZcE-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;dashed=1;" target="qIOckFWf7I8b8GCEFZcE-46" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qIOckFWf7I8b8GCEFZcE-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="设置副本数" vertex="1">
-          <mxGeometry height="30" width="88" x="1942" y="3224" as="geometry" />
+        <mxCell id="qIOckFWf7I8b8GCEFZcE-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="设置副本数: N" vertex="1">
+          <mxGeometry height="30" width="88" x="1932" y="3227" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
