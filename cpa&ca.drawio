@@ -1942,6 +1942,9 @@
             <mxPoint x="1924" y="3264" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="qIOckFWf7I8b8GCEFZcE-96" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="监听状态" vertex="1">
+          <mxGeometry height="30" width="66" x="2082.5" y="3361" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
