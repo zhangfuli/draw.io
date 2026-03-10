@@ -1897,6 +1897,12 @@
             <mxPoint x="1846" y="3391" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="qIOckFWf7I8b8GCEFZcE-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;dscale-operator&lt;/span&gt;" vertex="1">
+          <mxGeometry height="44" width="157.01" x="1914" y="3333" as="geometry" />
+        </mxCell>
+        <mxCell id="qIOckFWf7I8b8GCEFZcE-72" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;odin&lt;/span&gt;" vertex="1">
+          <mxGeometry height="44" width="97.95" x="2129" y="3247" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
