@@ -1718,7 +1718,7 @@
           <mxGeometry height="69" width="103.65" x="1242.35" y="2491" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Horizontal-Pod-Autoscaler&lt;/span&gt;" vertex="1">
-          <mxGeometry height="44" width="167.13" x="1855.9899999999998" y="3274" as="geometry" />
+          <mxGeometry height="44" width="157.01" x="1855.99" y="3274" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;container=0;" value="" vertex="1">
           <mxGeometry height="119" width="85" x="1877" y="2043" as="geometry" />
@@ -1851,6 +1851,9 @@
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Aggregation" vertex="1">
           <mxGeometry height="30" width="66" x="1691" y="3215" as="geometry" />
+        </mxCell>
+        <mxCell id="qIOckFWf7I8b8GCEFZcE-58" edge="1" parent="1" source="qIOckFWf7I8b8GCEFZcE-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="qIOckFWf7I8b8GCEFZcE-46" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
