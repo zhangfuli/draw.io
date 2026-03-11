@@ -1945,6 +1945,15 @@
         <mxCell id="qIOckFWf7I8b8GCEFZcE-96" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="监听状态" vertex="1">
           <mxGeometry height="30" width="66" x="2082.5" y="3330" as="geometry" />
         </mxCell>
+        <mxCell id="qIOckFWf7I8b8GCEFZcE-98" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" value="" vertex="1">
+          <mxGeometry height="410" width="216" x="868" y="3059" as="geometry" />
+        </mxCell>
+        <mxCell id="qIOckFWf7I8b8GCEFZcE-100" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=19;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="" vertex="1">
+          <mxGeometry height="55" width="216" x="868" y="3059" as="geometry" />
+        </mxCell>
+        <mxCell id="qIOckFWf7I8b8GCEFZcE-101" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="890" y="3228" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
