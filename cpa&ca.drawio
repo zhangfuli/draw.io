@@ -1970,13 +1970,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-156" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" value="instance" vertex="1">
-          <mxGeometry height="80" width="103.75" x="886.25" y="3318" as="geometry" />
+          <mxGeometry height="80" width="103.75" x="928.5" y="3323" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-159" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.preferences;pointerEvents=1" value="" vertex="1">
-          <mxGeometry height="24" width="30" x="902" y="3356.94" as="geometry" />
+          <mxGeometry height="24" width="30" x="944.25" y="3361.94" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-160" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.preferences;pointerEvents=1" value="" vertex="1">
-          <mxGeometry height="24" width="30" x="945.5" y="3356.94" as="geometry" />
+          <mxGeometry height="24" width="30" x="987.75" y="3361.94" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
