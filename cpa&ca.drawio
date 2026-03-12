@@ -1721,7 +1721,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c0_c0fI0rSupnvlC9U-6-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Metric-server" vertex="1">
-          <mxGeometry height="44" width="99.32" x="918.93" y="2465.5" as="geometry" />
+          <mxGeometry height="44" width="99.32" x="935" y="2465.5" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Horizontal-Pod-Autoscaler&lt;/span&gt;" vertex="1">
           <mxGeometry height="44" width="157.01" x="1915.82" y="3247" as="geometry" />
@@ -2027,10 +2027,10 @@
           <mxGeometry height="30" width="97.25" x="1016.78" y="3255" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-178" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pending" vertex="1">
-          <mxGeometry height="26" width="64" x="1287.5400000000002" y="2683" as="geometry" />
+          <mxGeometry height="26" width="64" x="1249.63" y="2768" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-180" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pending" vertex="1">
-          <mxGeometry height="26" width="64" x="1364.66" y="2683" as="geometry" />
+          <mxGeometry height="26" width="64" x="1114.1200000000001" y="2768" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-181" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Cluster-Capacity-Adjuster" vertex="1">
           <mxGeometry height="158" width="272" x="1074" y="2466" as="geometry" />
@@ -2077,7 +2077,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-194" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;APIServer&lt;/span&gt;" vertex="1">
-          <mxGeometry height="44" width="97.95" x="920.0000000000001" y="2548" as="geometry" />
+          <mxGeometry height="44" width="97.95" x="936.0700000000002" y="2548" as="geometry" />
+        </mxCell>
+        <mxCell id="qIOckFWf7I8b8GCEFZcE-197" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Cluster-AutoScaler" vertex="1">
+          <mxGeometry height="49" width="142" x="1333" y="2576" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
