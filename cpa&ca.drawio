@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.0">
   <diagram name="第 1 页" id="F5VYigaGw1SXEJX05_Oq">
-    <mxGraphModel dx="737" dy="1616" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1241" dy="1922" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1970,19 +1970,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-156" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" value="instance" vertex="1">
-          <mxGeometry height="76" width="103.75" x="928.5" y="3323" as="geometry" />
+          <mxGeometry height="76" width="103.75" x="915" y="3323" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-159" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.preferences;pointerEvents=1" value="" vertex="1">
-          <mxGeometry height="24" width="30" x="941.5" y="3359" as="geometry" />
+          <mxGeometry height="24" width="30" x="928" y="3359" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-160" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.preferences;pointerEvents=1" value="" vertex="1">
-          <mxGeometry height="24" width="30" x="988.25" y="3359" as="geometry" />
+          <mxGeometry height="24" width="30" x="974.75" y="3359" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-161" edge="1" parent="1" source="qIOckFWf7I8b8GCEFZcE-148" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="qIOckFWf7I8b8GCEFZcE-156" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1412" y="3236" as="sourcePoint" />
             <mxPoint x="1411" y="3391" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qIOckFWf7I8b8GCEFZcE-162" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="启动kubelet" vertex="1">
+          <mxGeometry height="30" width="71.75" x="1028" y="3326.94" as="geometry" />
+        </mxCell>
+        <mxCell id="qIOckFWf7I8b8GCEFZcE-163" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="修改期望实例数" vertex="1">
+          <mxGeometry height="30" width="71.75" x="1415.25" y="3190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
