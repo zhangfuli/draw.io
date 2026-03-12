@@ -1718,7 +1718,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="c0_c0fI0rSupnvlC9U-6-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Metric-server" vertex="1">
-          <mxGeometry height="44" width="99.32" x="888.68" y="2491" as="geometry" />
+          <mxGeometry height="44" width="99.32" x="860.68" y="2466" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Horizontal-Pod-Autoscaler&lt;/span&gt;" vertex="1">
           <mxGeometry height="44" width="157.01" x="1915.82" y="3247" as="geometry" />
@@ -2071,7 +2071,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-194" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;APIServer&lt;/span&gt;" vertex="1">
-          <mxGeometry height="44" width="97.95" x="888.6800000000001" y="2548" as="geometry" />
+          <mxGeometry height="44" width="97.95" x="860.6800000000001" y="2523" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
