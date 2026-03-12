@@ -1924,35 +1924,26 @@
         <mxCell id="qIOckFWf7I8b8GCEFZcE-129" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ali" vertex="1">
           <mxGeometry height="19.5" width="51.5" x="943.75" y="3226" as="geometry" />
         </mxCell>
-        <mxCell id="qIOckFWf7I8b8GCEFZcE-132" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;AutoScalingGroup&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;(MIG)&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="85.5" width="251" x="1270" y="3096" as="geometry" />
-        </mxCell>
-        <mxCell id="qIOckFWf7I8b8GCEFZcE-133" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#f8cecc;strokeColor=#b85450;" value="虚拟机镜像" vertex="1">
-          <mxGeometry height="24" width="63.87" x="1358.13" y="3143.5" as="geometry" />
-        </mxCell>
-        <mxCell id="qIOckFWf7I8b8GCEFZcE-134" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;" value="实例规格" vertex="1">
-          <mxGeometry height="24" width="61.25" x="1284.75" y="3143.5" as="geometry" />
-        </mxCell>
-        <mxCell id="qIOckFWf7I8b8GCEFZcE-135" edge="1" parent="1" source="qIOckFWf7I8b8GCEFZcE-130" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.003;entryY=0.643;entryDx=0;entryDy=0;elbow=vertical;endArrow=classicThin;endFill=1;entryPerimeter=0;" target="qIOckFWf7I8b8GCEFZcE-132" value="">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1108" y="3188" as="sourcePoint" />
-            <mxPoint x="1128" y="3161" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qIOckFWf7I8b8GCEFZcE-137" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="期望实例数" vertex="1">
-          <mxGeometry height="29" width="63" x="1207" y="3203" as="geometry" />
-        </mxCell>
-        <mxCell id="qIOckFWf7I8b8GCEFZcE-138" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=0;" value="Instance" vertex="1">
-          <mxGeometry height="85.5" width="193.75" x="1272.3799999999999" y="2995" as="geometry" />
-        </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-139" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
           <mxGeometry height="80" width="80" x="1266" y="2868" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-141" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CMDB&lt;div&gt;(录入内部系统)&lt;/div&gt;" vertex="1">
           <mxGeometry height="59" width="195" x="1294.5" y="3326" as="geometry" />
         </mxCell>
-        <mxCell id="qIOckFWf7I8b8GCEFZcE-144" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#f8cecc;strokeColor=#b85450;" value="cloud-init" vertex="1">
-          <mxGeometry height="24" width="63.87" x="1433.38" y="3144" as="geometry" />
+        <mxCell id="qIOckFWf7I8b8GCEFZcE-146" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="160.75" width="235" x="1277.57" y="3102" as="geometry" />
+        </mxCell>
+        <mxCell id="qIOckFWf7I8b8GCEFZcE-132" parent="qIOckFWf7I8b8GCEFZcE-146" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;AutoScalingGroup&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;(MIG)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160.75" width="235" as="geometry" />
+        </mxCell>
+        <mxCell id="qIOckFWf7I8b8GCEFZcE-133" parent="qIOckFWf7I8b8GCEFZcE-146" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#f8cecc;strokeColor=#b85450;" value="虚拟机镜像" vertex="1">
+          <mxGeometry height="45.122807017543856" width="63.87" x="85.56000000000017" y="90.7156432748538" as="geometry" />
+        </mxCell>
+        <mxCell id="qIOckFWf7I8b8GCEFZcE-134" parent="qIOckFWf7I8b8GCEFZcE-146" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;" value="实例规格" vertex="1">
+          <mxGeometry height="45.122807017543856" width="61.25" x="12.180000000000064" y="90.7156432748538" as="geometry" />
+        </mxCell>
+        <mxCell id="qIOckFWf7I8b8GCEFZcE-144" parent="qIOckFWf7I8b8GCEFZcE-146" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#f8cecc;strokeColor=#b85450;" value="cloud-init" vertex="1">
+          <mxGeometry height="45.122807017543856" width="63.87" x="160.81000000000017" y="91.65570175438596" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
