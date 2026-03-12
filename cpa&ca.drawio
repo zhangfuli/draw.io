@@ -1921,7 +1921,7 @@
           <mxGeometry height="19.5" width="51.5" x="943.75" y="3226" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-132" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=0;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;AutoScalingGroup&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;(MIG)&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="108" width="207" x="1218" y="3156" as="geometry" />
+          <mxGeometry height="98" width="207" x="1218" y="3166" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-133" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;" value="虚拟机镜像" vertex="1">
           <mxGeometry height="24" width="74.75" x="1231.25" y="3220" as="geometry" />
