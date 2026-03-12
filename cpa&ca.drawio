@@ -2081,18 +2081,6 @@
         <mxCell id="qIOckFWf7I8b8GCEFZcE-218" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;container=0;dashed=1;" value="placeholder&lt;div&gt;Pending&lt;/div&gt;" vertex="1">
           <mxGeometry height="37" width="77.44" x="1344.19" y="2745" as="geometry" />
         </mxCell>
-        <mxCell id="qIOckFWf7I8b8GCEFZcE-220" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="72.5" width="268.75" x="1140.25" y="2651" as="geometry" />
-        </mxCell>
-        <mxCell id="qIOckFWf7I8b8GCEFZcE-217" parent="qIOckFWf7I8b8GCEFZcE-220" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#fff2cc;strokeColor=#d6b656;" value="PlaceholderPods" vertex="1">
-          <mxGeometry height="49" width="143.09" x="10.910000000000082" y="14.5" as="geometry" />
-        </mxCell>
-        <mxCell id="qIOckFWf7I8b8GCEFZcE-201" parent="qIOckFWf7I8b8GCEFZcE-220" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#fff2cc;strokeColor=#d6b656;" value="PlaceholderPods" vertex="1">
-          <mxGeometry height="49" width="142" x="5.089999999999918" y="7" as="geometry" />
-        </mxCell>
-        <mxCell id="qIOckFWf7I8b8GCEFZcE-202" parent="qIOckFWf7I8b8GCEFZcE-220" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#f8cecc;strokeColor=#b85450;" value="PlaceholderPods" vertex="1">
-          <mxGeometry height="49" width="142" as="geometry" />
-        </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-219" edge="1" parent="1" source="qIOckFWf7I8b8GCEFZcE-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="qIOckFWf7I8b8GCEFZcE-204" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -2160,7 +2148,19 @@
           <mxGeometry height="29" width="62.75" x="74.32999999999993" y="38" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-233" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="configmap" vertex="1">
-          <mxGeometry height="30" width="60" x="1220" y="2616" as="geometry" />
+          <mxGeometry height="30" width="60" x="1215.5" y="2613.63" as="geometry" />
+        </mxCell>
+        <mxCell id="qIOckFWf7I8b8GCEFZcE-234" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="反亲和，模拟调度" vertex="1">
+          <mxGeometry height="30" width="100.25" x="1030.5" y="2689" as="geometry" />
+        </mxCell>
+        <mxCell id="qIOckFWf7I8b8GCEFZcE-217" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#fff2cc;strokeColor=#d6b656;" value="PlaceholderPods" vertex="1">
+          <mxGeometry height="49" width="143.09" x="1151.16" y="2665.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qIOckFWf7I8b8GCEFZcE-201" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#fff2cc;strokeColor=#d6b656;" value="PlaceholderPods" vertex="1">
+          <mxGeometry height="49" width="142" x="1145.34" y="2658" as="geometry" />
+        </mxCell>
+        <mxCell id="qIOckFWf7I8b8GCEFZcE-202" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#f8cecc;strokeColor=#b85450;" value="PlaceholderPods" vertex="1">
+          <mxGeometry height="49" width="142" x="1140.25" y="2651" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
