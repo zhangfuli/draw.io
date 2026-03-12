@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.0">
   <diagram name="第 1 页" id="F5VYigaGw1SXEJX05_Oq">
-    <mxGraphModel dx="357" dy="1386" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="737" dy="1616" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1936,7 +1936,7 @@
           <mxGeometry height="189" width="294.82" x="1104" y="3214" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-148" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=12;container=0;" value="&lt;font color=&quot;#000000&quot;&gt;创建什么类型的实例&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="270" x="1115.25" y="3331" as="geometry" />
+          <mxGeometry height="60" width="273.75" x="1115.25" y="3331" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-133" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" value="虚拟机镜像" vertex="1">
           <mxGeometry height="24.06" width="78" x="1212.25" y="3356.94" as="geometry" />
@@ -1948,7 +1948,7 @@
           <mxGeometry height="25.06" width="79" x="1298.25" y="3356.94" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-150" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=12;container=0;" value="&lt;font color=&quot;#000000&quot;&gt;创建多少实例&lt;/font&gt;" vertex="1">
-          <mxGeometry height="59" width="270" x="1115.25" y="3249" as="geometry" />
+          <mxGeometry height="59" width="272.75" x="1115.25" y="3249" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-151" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" value="最小实例数" vertex="1">
           <mxGeometry height="24" width="79" x="1122" y="3276" as="geometry" />
