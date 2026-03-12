@@ -1951,7 +1951,7 @@
         <mxCell id="qIOckFWf7I8b8GCEFZcE-141" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CMDB&lt;div&gt;(录入内部系统)&lt;/div&gt;" vertex="1">
           <mxGeometry height="59" width="195" x="1294.5" y="3326" as="geometry" />
         </mxCell>
-        <mxCell id="qIOckFWf7I8b8GCEFZcE-144" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#f8cecc;strokeColor=#b85450;" value="userdata" vertex="1">
+        <mxCell id="qIOckFWf7I8b8GCEFZcE-144" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#f8cecc;strokeColor=#b85450;" value="cloud-init" vertex="1">
           <mxGeometry height="24" width="63.87" x="1433.38" y="3144" as="geometry" />
         </mxCell>
       </root>
