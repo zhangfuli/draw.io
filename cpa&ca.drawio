@@ -1717,8 +1717,8 @@
             <mxPoint x="2180" y="2938" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c0_c0fI0rSupnvlC9U-6-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="metric-server" vertex="1">
-          <mxGeometry height="26" width="64" x="888.6800000000001" y="2491" as="geometry" />
+        <mxCell id="c0_c0fI0rSupnvlC9U-6-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Metric-server" vertex="1">
+          <mxGeometry height="32" width="108.32" x="888.68" y="2491" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Horizontal-Pod-Autoscaler&lt;/span&gt;" vertex="1">
           <mxGeometry height="44" width="157.01" x="1915.82" y="3247" as="geometry" />
