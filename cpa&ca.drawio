@@ -1920,7 +1920,7 @@
         <mxCell id="qIOckFWf7I8b8GCEFZcE-129" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ali" vertex="1">
           <mxGeometry height="19.5" width="51.5" x="1077.75" y="3207" as="geometry" />
         </mxCell>
-        <mxCell id="qIOckFWf7I8b8GCEFZcE-132" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;AutoScalingGroup&lt;/span&gt;" vertex="1">
+        <mxCell id="qIOckFWf7I8b8GCEFZcE-132" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;AutoScalingGroup&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;(MIG)&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="122" x="1389" y="3181.5" as="geometry" />
         </mxCell>
       </root>
