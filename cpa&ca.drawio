@@ -1935,11 +1935,8 @@
             <mxPoint x="1128" y="3161" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qIOckFWf7I8b8GCEFZcE-136" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="期望实例数" vertex="1">
-          <mxGeometry height="29" width="69.25" x="1201" y="3235" as="geometry" />
-        </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-137" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="期望实例数" vertex="1">
-          <mxGeometry height="29" width="63" x="1204.13" y="3199" as="geometry" />
+          <mxGeometry height="29" width="63" x="1202" y="3204" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
