@@ -1996,6 +1996,9 @@
             <mxPoint x="1020" y="3375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="qIOckFWf7I8b8GCEFZcE-166" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="监听实例变化&lt;div&gt;录入内部系统&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="74.75" x="1023" y="3387" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
