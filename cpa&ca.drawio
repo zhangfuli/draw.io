@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.0">
   <diagram name="第 1 页" id="F5VYigaGw1SXEJX05_Oq">
-    <mxGraphModel dx="873" dy="1699" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="907" dy="1719" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1982,7 +1982,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-162" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="4. 自动启动kubelet注册入k8s" vertex="1">
-          <mxGeometry height="30" width="97.25" x="976.36" y="3205" as="geometry" />
+          <mxGeometry height="30" width="97.25" x="848.75" y="3208" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-163" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2. 修改期望实例数" vertex="1">
           <mxGeometry height="30" width="71.75" x="1415.25" y="3225" as="geometry" />
@@ -2014,14 +2014,14 @@
         <mxCell id="qIOckFWf7I8b8GCEFZcE-172" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1. 监听状态" vertex="1">
           <mxGeometry height="30" width="71.75" x="1027" y="3018" as="geometry" />
         </mxCell>
-        <mxCell id="qIOckFWf7I8b8GCEFZcE-173" edge="1" parent="1" source="qIOckFWf7I8b8GCEFZcE-169" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="qIOckFWf7I8b8GCEFZcE-111" value="">
+        <mxCell id="qIOckFWf7I8b8GCEFZcE-173" edge="1" parent="1" source="qIOckFWf7I8b8GCEFZcE-169" style="endArrow=classicThin;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=1;" target="qIOckFWf7I8b8GCEFZcE-111" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="862" y="3159" as="sourcePoint" />
             <mxPoint x="912" y="3109" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-174" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="5. 重调度，承载容器" vertex="1">
-          <mxGeometry height="30" width="115.75" x="969.25" y="3097" as="geometry" />
+          <mxGeometry height="30" width="115.75" x="844.25" y="3094" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-175" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3.创建实例" vertex="1">
           <mxGeometry height="30" width="97.25" x="1016.78" y="3255" as="geometry" />
