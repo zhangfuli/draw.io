@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.0">
   <diagram name="第 1 页" id="F5VYigaGw1SXEJX05_Oq">
-    <mxGraphModel dx="943" dy="1741" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="357" dy="1386" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1933,31 +1933,41 @@
           <mxGeometry height="59" width="195" x="732" y="3402.5" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-132" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;AutoScalingGroup&lt;/span&gt;" vertex="1">
-          <mxGeometry height="175" width="294.82" x="1104" y="3214" as="geometry" />
+          <mxGeometry height="189" width="294.82" x="1104" y="3214" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-148" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=12;container=0;" value="&lt;font color=&quot;#000000&quot;&gt;创建什么类型的实例&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="270" x="1119" y="3317" as="geometry" />
+          <mxGeometry height="60" width="270" x="1115.25" y="3331" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-133" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" value="虚拟机镜像" vertex="1">
-          <mxGeometry height="24.06" width="78" x="1216" y="3342.94" as="geometry" />
+          <mxGeometry height="24.06" width="78" x="1212.25" y="3356.94" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-134" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" value="实例规格" vertex="1">
-          <mxGeometry height="24" width="79" x="1128" y="3343" as="geometry" />
+          <mxGeometry height="24" width="79" x="1124.25" y="3357" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-144" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" value="cloud-init" vertex="1">
-          <mxGeometry height="25.06" width="79" x="1302" y="3342.94" as="geometry" />
+          <mxGeometry height="25.06" width="79" x="1298.25" y="3356.94" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-150" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=12;container=0;" value="&lt;font color=&quot;#000000&quot;&gt;创建多少实例&lt;/font&gt;" vertex="1">
           <mxGeometry height="59" width="270" x="1115.25" y="3249" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-151" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" value="最小实例数" vertex="1">
-          <mxGeometry height="24" width="79" x="1211.25" y="3278" as="geometry" />
+          <mxGeometry height="24" width="79" x="1122" y="3276" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-152" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" value="最大实例数" vertex="1">
-          <mxGeometry height="24" width="79" x="1298.25" y="3278" as="geometry" />
+          <mxGeometry height="24" width="79" x="1210.63" y="3276" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-153" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" value="期望实例数" vertex="1">
-          <mxGeometry height="24" width="79" x="1125.21" y="3277.25" as="geometry" />
+          <mxGeometry height="24" width="79" x="1298.25" y="3276" as="geometry" />
+        </mxCell>
+        <mxCell id="qIOckFWf7I8b8GCEFZcE-154" edge="1" parent="1" source="qIOckFWf7I8b8GCEFZcE-114" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" target="qIOckFWf7I8b8GCEFZcE-153" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1416" y="3133" />
+              <mxPoint x="1416" y="3288" />
+            </Array>
+            <mxPoint x="1239" y="3094" as="sourcePoint" />
+            <mxPoint x="1240" y="3109" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
