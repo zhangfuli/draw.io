@@ -1777,8 +1777,8 @@
         <mxCell id="qIOckFWf7I8b8GCEFZcE-58" edge="1" parent="1" source="qIOckFWf7I8b8GCEFZcE-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;dashed=1;" target="qIOckFWf7I8b8GCEFZcE-46" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qIOckFWf7I8b8GCEFZcE-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;设置副本数: N&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="137" x="1996" y="3205" as="geometry" />
+        <mxCell id="qIOckFWf7I8b8GCEFZcE-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="查询指标" vertex="1">
+          <mxGeometry height="30" width="75" x="1849.5" y="3230" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#f8cecc;strokeColor=#b85450;" value="Keda" vertex="1">
           <mxGeometry height="38" width="97.31" x="1758" y="3339" as="geometry" />
@@ -1839,9 +1839,6 @@
             <mxPoint x="1986" y="3264" as="sourcePoint" />
             <mxPoint x="1985" y="3211" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="qIOckFWf7I8b8GCEFZcE-92" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;targetGR: dscale&lt;/div&gt;设置副本数: N" vertex="1">
-          <mxGeometry height="30" width="117" x="1999.5" y="3300" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-93" edge="1" parent="1" source="qIOckFWf7I8b8GCEFZcE-71" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="qIOckFWf7I8b8GCEFZcE-72" value="">
           <mxGeometry relative="1" as="geometry">
@@ -2143,6 +2140,12 @@
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-202" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#f8cecc;strokeColor=#b85450;" value="PlaceholderPods" vertex="1">
           <mxGeometry height="49" width="142" x="1140.25" y="2651" as="geometry" />
+        </mxCell>
+        <mxCell id="qIOckFWf7I8b8GCEFZcE-235" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="修改副本数" vertex="1">
+          <mxGeometry height="30" width="75" x="2009" y="3208" as="geometry" />
+        </mxCell>
+        <mxCell id="qIOckFWf7I8b8GCEFZcE-236" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="修改副本数" vertex="1">
+          <mxGeometry height="30" width="75" x="2005" y="3293.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
