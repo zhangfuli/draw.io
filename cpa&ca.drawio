@@ -2142,7 +2142,7 @@
           <mxGeometry height="49" width="142" x="1140.25" y="2651" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-235" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="修改副本数" vertex="1">
-          <mxGeometry height="30" width="75" x="2009" y="3208" as="geometry" />
+          <mxGeometry height="30" width="75" x="2000" y="3208" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-236" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="修改副本数" vertex="1">
           <mxGeometry height="30" width="75" x="2005" y="3293.5" as="geometry" />
