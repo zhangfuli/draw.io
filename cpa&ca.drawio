@@ -1955,10 +1955,10 @@
           <mxGeometry height="76" width="114.6" x="908.1" y="3261" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-159" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.preferences;pointerEvents=1" value="" vertex="1">
-          <mxGeometry height="24" width="30" x="922.68" y="3283" as="geometry" />
+          <mxGeometry height="24" width="30" x="926.25" y="3292" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-160" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.preferences;pointerEvents=1" value="" vertex="1">
-          <mxGeometry height="24" width="30" x="976.5" y="3283" as="geometry" />
+          <mxGeometry height="24" width="30" x="972.25" y="3292.5" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-161" edge="1" parent="1" source="qIOckFWf7I8b8GCEFZcE-148" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="qIOckFWf7I8b8GCEFZcE-156" value="">
           <mxGeometry relative="1" as="geometry">
@@ -1967,7 +1967,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-162" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="4. 自动启动kubelet注册入k8s" vertex="1">
-          <mxGeometry height="30" width="97.25" x="848.75" y="3208" as="geometry" />
+          <mxGeometry height="30" width="97.25" x="859" y="3216" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-163" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2. 修改期望实例数" vertex="1">
           <mxGeometry height="30" width="71.75" x="1412" y="3178" as="geometry" />
