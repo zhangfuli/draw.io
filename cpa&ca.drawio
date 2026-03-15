@@ -2063,7 +2063,7 @@
         <mxCell id="qIOckFWf7I8b8GCEFZcE-218" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;container=0;dashed=1;" value="placeholder&lt;div&gt;Pending&lt;/div&gt;" vertex="1">
           <mxGeometry height="37" width="77.44" x="1336.63" y="2708" as="geometry" />
         </mxCell>
-        <mxCell id="qIOckFWf7I8b8GCEFZcE-219" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="qIOckFWf7I8b8GCEFZcE-204" value="">
+        <mxCell id="qIOckFWf7I8b8GCEFZcE-219" edge="1" parent="1" source="qIOckFWf7I8b8GCEFZcE-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="qIOckFWf7I8b8GCEFZcE-204" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1206.25" y="2681.500000000001" as="sourcePoint" />
           </mxGeometry>
@@ -2102,7 +2102,7 @@
           <mxGeometry height="30" width="60" x="1222.82" y="2524.63" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-234" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="反亲和，模拟调度" vertex="1">
-          <mxGeometry height="30" width="100.25" x="1032.25" y="2647" as="geometry" />
+          <mxGeometry height="30" width="100.25" x="1050.28" y="2616" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-217" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;arcSize=0;fillColor=#fff2cc;strokeColor=#d6b656;" value="PlaceholderPods" vertex="1">
           <mxGeometry height="49" width="143.09" x="1150.98" y="2590.5" as="geometry" />
@@ -2172,7 +2172,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-231" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="75" width="144" x="982.0000000000001" y="2745" as="geometry" />
+          <mxGeometry height="75" width="144" x="976.3600000000001" y="2672" as="geometry" />
         </mxCell>
         <mxCell id="qIOckFWf7I8b8GCEFZcE-204" parent="qIOckFWf7I8b8GCEFZcE-231" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;container=0;" value="" vertex="1">
           <mxGeometry height="75" width="144" as="geometry" />
@@ -2231,8 +2231,8 @@
             <mxPoint x="1392.9399999999998" y="2278.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qIOckFWf7I8b8GCEFZcE-262" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Cluster-AutoScaler" vertex="1">
-          <mxGeometry height="30" width="112.75" x="947.25" y="2563" as="geometry" />
+        <mxCell id="qIOckFWf7I8b8GCEFZcE-263" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Cluster-AutoScaler" vertex="1">
+          <mxGeometry height="30" width="130" x="946" y="2563" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
