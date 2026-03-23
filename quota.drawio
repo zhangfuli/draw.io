@@ -25,14 +25,26 @@
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Node" vertex="1">
           <mxGeometry height="60" width="40" x="360" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="TMRo_7EvBtRcHi7H_HGw-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="stateless" vertex="1">
-          <mxGeometry height="110" width="160" x="280" y="240" as="geometry" />
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="stateless" vertex="1">
+          <mxGeometry height="140" width="340" x="90" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="TMRo_7EvBtRcHi7H_HGw-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Node" vertex="1">
-          <mxGeometry height="60" width="40" x="300" y="280" as="geometry" />
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="common(idc)" vertex="1">
+          <mxGeometry height="110" width="140" x="120" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="TMRo_7EvBtRcHi7H_HGw-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Node" vertex="1">
-          <mxGeometry height="60" width="40" x="370" y="280" as="geometry" />
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Node" vertex="1">
+          <mxGeometry height="60" width="40" x="140" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Node" vertex="1">
+          <mxGeometry height="60" width="40" x="200" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="云资源" vertex="1">
+          <mxGeometry height="110" width="134" x="280" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Node" vertex="1">
+          <mxGeometry height="60" width="40" x="300" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Node" vertex="1">
+          <mxGeometry height="60" width="40" x="360" y="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
