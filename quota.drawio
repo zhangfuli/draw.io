@@ -16,7 +16,7 @@
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Node" vertex="1">
           <mxGeometry height="60" width="40" x="160" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="TMRo_7EvBtRcHi7H_HGw-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="混合" vertex="1">
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="云资源" vertex="1">
           <mxGeometry height="110" width="160" x="280" y="90" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Node" vertex="1">
