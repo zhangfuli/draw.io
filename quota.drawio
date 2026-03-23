@@ -29,13 +29,13 @@
           <mxGeometry height="140" width="340" x="90" y="230" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="idc" vertex="1">
-          <mxGeometry height="100" width="140" x="120" y="260" as="geometry" />
+          <mxGeometry height="100" width="140" x="110" y="260" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Node" vertex="1">
-          <mxGeometry height="60" width="40" x="140" y="290" as="geometry" />
+          <mxGeometry height="60" width="40" x="130" y="290" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Node" vertex="1">
-          <mxGeometry height="60" width="40" x="200" y="290" as="geometry" />
+          <mxGeometry height="60" width="40" x="190" y="290" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="云资源" vertex="1">
           <mxGeometry height="100" width="134" x="280" y="260" as="geometry" />
