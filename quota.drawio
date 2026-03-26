@@ -46,6 +46,12 @@
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Node" vertex="1">
           <mxGeometry height="60" width="40" x="380" y="290" as="geometry" />
         </mxCell>
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-27" edge="1" parent="1" source="TMRo_7EvBtRcHi7H_HGw-21" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" target="TMRo_7EvBtRcHi7H_HGw-24" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="260" as="sourcePoint" />
+            <mxPoint x="210" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
