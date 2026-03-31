@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.4">
   <diagram name="第 1 页" id="22OWwE8wKIvI9lql67EI">
-    <mxGraphModel dx="754" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="872" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,7 +36,7 @@
           <mxGeometry height="170" width="330" x="190" y="340" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="云资源" vertex="1">
-          <mxGeometry height="170" width="340" x="550" y="340" as="geometry" />
+          <mxGeometry height="170" width="360" x="550" y="340" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-37" edge="1" parent="1" source="TMRo_7EvBtRcHi7H_HGw-35" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;dashed=1;" target="TMRo_7EvBtRcHi7H_HGw-36" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -46,12 +46,12 @@
         </mxCell>
         <UserObject label="&lt;div&gt;&quot;label&quot;: {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;ddcloud.didichuxing.com/cloud-provider&quot;: &quot;alicloud&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;ddcloud.didichuxing.com/service-type&quot;: &quot;stateless&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;ddcloud.didichuxing.com/node-group-id&quot;: &quot;asg-wz96tb66i5c55o41avup&quot;&amp;nbsp; // cca筛选node用&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" link="&quot;label&quot;:&#xa;&quot;ddcloud.didichuxing.com/cloud-provider&quot;: &quot;alicloud&quot;,&#xa;&quot;ddcloud.didichuxing.com/node-group-id&quot;: &quot;xxxx&quot; // cca筛选node用" id="TMRo_7EvBtRcHi7H_HGw-38">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;fontSize=8;" vertex="1">
-            <mxGeometry height="50" width="390" x="560" y="370" as="geometry" />
+            <mxGeometry height="50" width="340" x="560" y="370" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div&gt;&quot;taints&quot;: [{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;key&quot;: &quot;ddcloud.didichuxing.com/node-cluster&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;value&quot;: &quot;com.didi.asg.stateless&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;effect&quot;: &quot;NoSchedule&quot;&lt;/div&gt;&lt;div&gt;}]&lt;/div&gt;" link="&quot;label&quot;:&#xa;&quot;ddcloud.didichuxing.com/cloud-provider&quot;: &quot;alicloud&quot;,&#xa;&quot;ddcloud.didichuxing.com/node-group-id&quot;: &quot;xxxx&quot; // cca筛选node用" id="TMRo_7EvBtRcHi7H_HGw-39">
+        <UserObject label="&lt;span data-docs-delta=&quot;[[20,&amp;quot;\&amp;quot;taints\&amp;quot;: [{&amp;quot;],[20,&amp;quot;\n&amp;quot;,&amp;quot;24:\&amp;quot;ZAIe\&amp;quot;|36:82|42:\&amp;quot;true\&amp;quot;|direction:\&amp;quot;ltr\&amp;quot;&amp;quot;],[20,&amp;quot;  \&amp;quot;key\&amp;quot;: \&amp;quot;ddcloud.didichuxing.com/service-type\&amp;quot;,&amp;quot;],[20,&amp;quot;\n&amp;quot;,&amp;quot;24:\&amp;quot;fMVy\&amp;quot;|36:82|42:\&amp;quot;true\&amp;quot;|direction:\&amp;quot;ltr\&amp;quot;&amp;quot;],[20,&amp;quot;  \&amp;quot;value\&amp;quot;: \&amp;quot;stateless\&amp;quot;,&amp;quot;],[20,&amp;quot;\n&amp;quot;,&amp;quot;24:\&amp;quot;mK1u\&amp;quot;|36:82|42:\&amp;quot;true\&amp;quot;|direction:\&amp;quot;ltr\&amp;quot;&amp;quot;],[20,&amp;quot;  \&amp;quot;effect\&amp;quot;: \&amp;quot;NoSchedule\&amp;quot;&amp;quot;],[20,&amp;quot;\n&amp;quot;,&amp;quot;24:\&amp;quot;P6qV\&amp;quot;|36:82|42:\&amp;quot;true\&amp;quot;|direction:\&amp;quot;ltr\&amp;quot;&amp;quot;],[20,&amp;quot;}]&amp;quot;],[20,&amp;quot;\n&amp;quot;,&amp;quot;24:\&amp;quot;nssa\&amp;quot;|36:82|42:\&amp;quot;true\&amp;quot;|direction:\&amp;quot;ltr\&amp;quot;&amp;quot;]]&quot; data-copy-origin=&quot;https://cooper.didichuxing.com&quot;&gt;&lt;pre&gt;&quot;taints&quot;: [{&lt;br/&gt;  &quot;key&quot;: &quot;ddcloud.didichuxing.com/service-type&quot;,&lt;br/&gt;  &quot;value&quot;: &quot;stateless&quot;,&lt;br/&gt;  &quot;effect&quot;: &quot;NoSchedule&quot;&lt;br/&gt;}]&lt;/pre&gt;&lt;/span&gt;" link="&quot;label&quot;:&#xa;&quot;ddcloud.didichuxing.com/cloud-provider&quot;: &quot;alicloud&quot;,&#xa;&quot;ddcloud.didichuxing.com/node-group-id&quot;: &quot;xxxx&quot; // cca筛选node用" id="TMRo_7EvBtRcHi7H_HGw-39">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;fontSize=8;" vertex="1">
-            <mxGeometry height="60" width="310" x="590" y="430" as="geometry" />
+            <mxGeometry height="60" width="335" x="565" y="430" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;&quot;label&quot;: {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;ddcloud.didichuxing.com/service-type&quot;: &quot;stateless&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;ddcloud.didichuxing.com/node-cluster&quot;: &quot;com.didi.asg.stateless&quot;, // cca筛选node用&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" link="&quot;label&quot;:&#xa;&quot;ddcloud.didichuxing.com/cloud-provider&quot;: &quot;alicloud&quot;,&#xa;&quot;ddcloud.didichuxing.com/node-group-id&quot;: &quot;xxxx&quot; // cca筛选node用" id="TMRo_7EvBtRcHi7H_HGw-40">
