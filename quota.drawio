@@ -13,33 +13,6 @@
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="云资源" vertex="1">
           <mxGeometry height="170" width="300" x="300" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="TMRo_7EvBtRcHi7H_HGw-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="stateless" vertex="1">
-          <mxGeometry height="140" width="360" x="90" y="350" as="geometry" />
-        </mxCell>
-        <mxCell id="TMRo_7EvBtRcHi7H_HGw-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="idc" vertex="1">
-          <mxGeometry height="100" width="140" x="110" y="380" as="geometry" />
-        </mxCell>
-        <mxCell id="TMRo_7EvBtRcHi7H_HGw-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Node" vertex="1">
-          <mxGeometry height="60" width="40" x="130" y="410" as="geometry" />
-        </mxCell>
-        <mxCell id="TMRo_7EvBtRcHi7H_HGw-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Node" vertex="1">
-          <mxGeometry height="60" width="40" x="190" y="410" as="geometry" />
-        </mxCell>
-        <mxCell id="TMRo_7EvBtRcHi7H_HGw-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="云资源" vertex="1">
-          <mxGeometry height="100" width="134" x="300" y="380" as="geometry" />
-        </mxCell>
-        <mxCell id="TMRo_7EvBtRcHi7H_HGw-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Node" vertex="1">
-          <mxGeometry height="60" width="40" x="320" y="410" as="geometry" />
-        </mxCell>
-        <mxCell id="TMRo_7EvBtRcHi7H_HGw-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Node" vertex="1">
-          <mxGeometry height="60" width="40" x="380" y="410" as="geometry" />
-        </mxCell>
-        <mxCell id="TMRo_7EvBtRcHi7H_HGw-27" edge="1" parent="1" source="TMRo_7EvBtRcHi7H_HGw-21" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;startArrow=classic;startFill=1;" target="TMRo_7EvBtRcHi7H_HGw-24" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="160" y="380" as="sourcePoint" />
-            <mxPoint x="210" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-29" edge="1" parent="1" source="TMRo_7EvBtRcHi7H_HGw-5" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" target="TMRo_7EvBtRcHi7H_HGw-10" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="260" y="300" as="sourcePoint" />
@@ -54,6 +27,31 @@
         <UserObject label="&lt;div&gt;&quot;taints&quot;: [{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;key&quot;: &quot;ddcloud.didichuxing.com/cloud-provider&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;value&quot;: &quot;alicloud&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;effect&quot;: &quot;NoSchedule&quot;&lt;/div&gt;&lt;div&gt;}]&lt;/div&gt;" link="&quot;label&quot;:&#xa;&quot;ddcloud.didichuxing.com/cloud-provider&quot;: &quot;alicloud&quot;,&#xa;&quot;ddcloud.didichuxing.com/node-group-id&quot;: &quot;xxxx&quot; // cca筛选node用" id="TMRo_7EvBtRcHi7H_HGw-32">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;fontSize=8;" vertex="1">
             <mxGeometry height="60" width="260" x="320" y="180" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="common" vertex="1">
+          <mxGeometry height="210" width="450" x="170" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="idc" vertex="1">
+          <mxGeometry height="170" width="80" x="190" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="云资源" vertex="1">
+          <mxGeometry height="170" width="300" x="300" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-37" edge="1" parent="1" source="TMRo_7EvBtRcHi7H_HGw-35" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" target="TMRo_7EvBtRcHi7H_HGw-36" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="260" y="550" as="sourcePoint" />
+            <mxPoint x="310" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&quot;label&quot;:&#xa;&quot;ddcloud.didichuxing.com/cloud-provider&quot;: &quot;alicloud&quot;,&#xa;&quot;ddcloud.didichuxing.com/node-group-id&quot;: &quot;xxxx&quot; // cca筛选node用" link="&quot;label&quot;:&#xa;&quot;ddcloud.didichuxing.com/cloud-provider&quot;: &quot;alicloud&quot;,&#xa;&quot;ddcloud.didichuxing.com/node-group-id&quot;: &quot;xxxx&quot; // cca筛选node用" id="TMRo_7EvBtRcHi7H_HGw-38">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;fontSize=8;" vertex="1">
+            <mxGeometry height="50" width="260" x="320" y="370" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div&gt;&quot;taints&quot;: [{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;key&quot;: &quot;ddcloud.didichuxing.com/cloud-provider&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;value&quot;: &quot;alicloud&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;effect&quot;: &quot;NoSchedule&quot;&lt;/div&gt;&lt;div&gt;}]&lt;/div&gt;" link="&quot;label&quot;:&#xa;&quot;ddcloud.didichuxing.com/cloud-provider&quot;: &quot;alicloud&quot;,&#xa;&quot;ddcloud.didichuxing.com/node-group-id&quot;: &quot;xxxx&quot; // cca筛选node用" id="TMRo_7EvBtRcHi7H_HGw-39">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;fontSize=8;" vertex="1">
+            <mxGeometry height="60" width="260" x="320" y="430" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
