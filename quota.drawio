@@ -8,16 +8,10 @@
           <mxGeometry height="150" width="360" x="90" y="60" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="idc" vertex="1">
-          <mxGeometry height="110" width="140" x="120" y="90" as="geometry" />
+          <mxGeometry height="110" width="80" x="120" y="90" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="云资源" vertex="1">
           <mxGeometry height="110" width="134" x="300" y="90" as="geometry" />
-        </mxCell>
-        <mxCell id="TMRo_7EvBtRcHi7H_HGw-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Node" vertex="1">
-          <mxGeometry height="60" width="40" x="320" y="130" as="geometry" />
-        </mxCell>
-        <mxCell id="TMRo_7EvBtRcHi7H_HGw-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Node" vertex="1">
-          <mxGeometry height="60" width="40" x="380" y="130" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="stateless" vertex="1">
           <mxGeometry height="140" width="360" x="90" y="230" as="geometry" />
@@ -51,6 +45,12 @@
             <mxPoint x="260" y="300" as="sourcePoint" />
             <mxPoint x="310" y="300" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" value="label:" vertex="1">
+          <mxGeometry height="50" width="180" x="480" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" value="" vertex="1">
+          <mxGeometry height="50" width="180" x="480" y="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
