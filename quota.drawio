@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="common" vertex="1">
-          <mxGeometry height="150" width="360" x="90" y="60" as="geometry" />
+          <mxGeometry height="150" width="530" x="90" y="60" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="idc" vertex="1">
           <mxGeometry height="110" width="80" x="120" y="90" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="云资源" vertex="1">
-          <mxGeometry height="110" width="134" x="300" y="90" as="geometry" />
+          <mxGeometry height="110" width="300" x="300" y="90" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="stateless" vertex="1">
           <mxGeometry height="140" width="360" x="90" y="230" as="geometry" />
@@ -47,12 +47,12 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="&quot;label&quot;:&#xa;&quot;ddcloud.didichuxing.com/cloud-provider&quot;: &quot;alicloud&quot;,&#xa;&quot;ddcloud.didichuxing.com/node-group-id&quot;: &quot;xxxx&quot; // cca筛选node用" link="&quot;label&quot;:&#xa;&quot;ddcloud.didichuxing.com/cloud-provider&quot;: &quot;alicloud&quot;,&#xa;&quot;ddcloud.didichuxing.com/node-group-id&quot;: &quot;xxxx&quot; // cca筛选node用" id="TMRo_7EvBtRcHi7H_HGw-30">
-          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1">
-            <mxGeometry height="50" width="490" x="570" y="100" as="geometry" />
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;fontSize=8;" vertex="1">
+            <mxGeometry height="50" width="260" x="320" y="120" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" value="" vertex="1">
-          <mxGeometry height="50" width="180" x="480" y="180" as="geometry" />
+          <mxGeometry height="50" width="180" x="480" y="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
