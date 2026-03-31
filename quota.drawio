@@ -65,10 +65,10 @@
           </mxCell>
         </UserObject>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;" value="pod" vertex="1">
-          <mxGeometry height="310" width="247.02" x="940" y="210" as="geometry" />
+          <mxGeometry height="380" width="247.02" x="940" y="210" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-43" connectable="0" parent="1" style="group;container=0;" value="" vertex="1">
-          <mxGeometry height="96" width="203" x="964" y="319" as="geometry" />
+          <mxGeometry height="96" width="203" x="962.25" y="401" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="label" vertex="1">
           <mxGeometry height="64" width="202" x="962.25" y="242" as="geometry" />
@@ -77,7 +77,7 @@
           <mxGeometry height="27" width="188" x="969.25" y="266" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-46" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="102" width="202" x="966.77" y="400" as="geometry" />
+          <mxGeometry height="102" width="202" x="965.02" y="482" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-47" parent="TMRo_7EvBtRcHi7H_HGw-46" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="tolerations" vertex="1">
           <mxGeometry height="102" width="202" as="geometry" />
@@ -89,10 +89,16 @@
           <mxGeometry height="27" width="188" x="7" y="61" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="affinity" vertex="1">
-          <mxGeometry height="69" width="203" x="964" y="319" as="geometry" />
+          <mxGeometry height="69" width="203" x="962.25" y="401" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="required:&lt;div&gt;service-type: stateless&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="27" width="188" x="971" y="346" as="geometry" />
+          <mxGeometry height="27" width="188" x="969.25" y="428" as="geometry" />
+        </mxCell>
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;arcSize=8;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="anno" vertex="1">
+          <mxGeometry height="64" width="202" x="962.25" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="ddcloud.didichuxing.com/ingore-actual-usage: true" vertex="1">
+          <mxGeometry height="27" width="188" x="969.25" y="350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
