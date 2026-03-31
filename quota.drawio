@@ -142,7 +142,7 @@
             <mxGeometry height="50" width="260" x="320" y="860" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div&gt;&quot;taints&quot;: [{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;key&quot;: &quot;ddcloud.didichuxing.com/cloud-provider&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;value&quot;: &quot;alicloud&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;effect&quot;: &quot;NoSchedule&quot;&lt;/div&gt;&lt;div&gt;}]&lt;/div&gt;" link="&quot;label&quot;:&#xa;&quot;ddcloud.didichuxing.com/cloud-provider&quot;: &quot;alicloud&quot;,&#xa;&quot;ddcloud.didichuxing.com/node-group-id&quot;: &quot;xxxx&quot; // cca筛选node用" id="TMRo_7EvBtRcHi7H_HGw-66">
+        <UserObject label="&lt;div&gt;&quot;taints&quot;: [{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;key&quot;: &quot;ddcloud.didichuxing.com/resource-pool&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;value&quot;: &quot;cloud&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;effect&quot;: &quot;NoSchedule&quot;&lt;/div&gt;&lt;div&gt;}]&lt;/div&gt;" link="&quot;label&quot;:&#xa;&quot;ddcloud.didichuxing.com/cloud-provider&quot;: &quot;alicloud&quot;,&#xa;&quot;ddcloud.didichuxing.com/node-group-id&quot;: &quot;xxxx&quot; // cca筛选node用" id="TMRo_7EvBtRcHi7H_HGw-66">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;fontSize=8;" vertex="1">
             <mxGeometry height="60" width="260" x="320" y="920" as="geometry" />
           </mxCell>
