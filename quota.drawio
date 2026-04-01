@@ -110,15 +110,15 @@
           <mxGeometry height="27" width="188" x="1224" y="415" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="common" vertex="1">
-          <mxGeometry height="400" width="450" x="170" y="610" as="geometry" />
+          <mxGeometry height="370" width="450" x="170" y="610" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="idc" vertex="1">
-          <mxGeometry height="350" width="80" x="190" y="640" as="geometry" />
+          <mxGeometry height="330" width="80" x="190" y="640" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="云资源" vertex="1">
           <mxGeometry height="160" width="300" x="300" y="640" as="geometry" />
         </mxCell>
-        <mxCell id="TMRo_7EvBtRcHi7H_HGw-61" edge="1" parent="1" source="TMRo_7EvBtRcHi7H_HGw-59" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.991;exitY=0.231;exitDx=0;exitDy=0;startArrow=classic;startFill=1;exitPerimeter=0;" target="TMRo_7EvBtRcHi7H_HGw-60" value="">
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-61" edge="1" parent="1" source="TMRo_7EvBtRcHi7H_HGw-59" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.998;exitY=0.239;exitDx=0;exitDy=0;startArrow=classic;startFill=1;exitPerimeter=0;" target="TMRo_7EvBtRcHi7H_HGw-60" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="260" y="850" as="sourcePoint" />
             <mxPoint x="310" y="850" as="targetPoint" />
@@ -135,19 +135,19 @@
           </mxCell>
         </UserObject>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="云资源" vertex="1">
-          <mxGeometry height="160" width="300" x="300" y="830" as="geometry" />
+          <mxGeometry height="160" width="300" x="300" y="810" as="geometry" />
         </mxCell>
         <UserObject label="&quot;label&quot;:&lt;br&gt;&quot;ddcloud.didichuxing.com/resource-pool&quot;: &quot;public-cloud&quot;,&lt;br&gt;&quot;ddcloud.didichuxing.com/node-group-id&quot;: &quot;xxxx&quot; // cca筛选node用" link="&quot;label&quot;:&#xa;&quot;ddcloud.didichuxing.com/cloud-provider&quot;: &quot;alicloud&quot;,&#xa;&quot;ddcloud.didichuxing.com/node-group-id&quot;: &quot;xxxx&quot; // cca筛选node用" id="TMRo_7EvBtRcHi7H_HGw-65">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;fontSize=8;" vertex="1">
-            <mxGeometry height="50" width="260" x="320" y="860" as="geometry" />
+            <mxGeometry height="50" width="260" x="320" y="840" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;&quot;taints&quot;: [{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;key&quot;: &quot;ddcloud.didichuxing.com/resource-pool&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;value&quot;: &quot;cloud&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;effect&quot;: &quot;NoSchedule&quot;&lt;/div&gt;&lt;div&gt;}]&lt;/div&gt;" link="&quot;label&quot;:&#xa;&quot;ddcloud.didichuxing.com/cloud-provider&quot;: &quot;alicloud&quot;,&#xa;&quot;ddcloud.didichuxing.com/node-group-id&quot;: &quot;xxxx&quot; // cca筛选node用" id="TMRo_7EvBtRcHi7H_HGw-66">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;fontSize=8;" vertex="1">
-            <mxGeometry height="60" width="260" x="320" y="920" as="geometry" />
+            <mxGeometry height="60" width="260" x="320" y="900" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="TMRo_7EvBtRcHi7H_HGw-67" edge="1" parent="1" source="TMRo_7EvBtRcHi7H_HGw-59" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.998;exitY=0.77;exitDx=0;exitDy=0;startArrow=classic;startFill=1;exitPerimeter=0;" target="TMRo_7EvBtRcHi7H_HGw-64" value="">
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-67" edge="1" parent="1" source="TMRo_7EvBtRcHi7H_HGw-59" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" target="TMRo_7EvBtRcHi7H_HGw-64" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="280" y="711" as="sourcePoint" />
             <mxPoint x="311" y="710" as="targetPoint" />
