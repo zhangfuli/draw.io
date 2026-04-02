@@ -225,7 +225,7 @@
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-105" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" value="调度器决定扩容方向" vertex="1">
           <mxGeometry height="40" width="149" x="1231" y="910" as="geometry" />
         </mxCell>
-        <mxCell id="TMRo_7EvBtRcHi7H_HGw-106" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="webhook&lt;div&gt;增加&lt;/div&gt;" vertex="1">
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-106" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="webhook&lt;div style=&quot;text-align: left;&quot;&gt;增加resource-pool容忍&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="140" x="1050" y="820" as="geometry" />
         </mxCell>
       </root>
