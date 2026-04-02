@@ -178,61 +178,61 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-87" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="so&lt;div&gt;cloud-provider=&quot;&quot;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="120" x="750" y="700" as="geometry" />
+          <mxGeometry height="40" width="120" x="749.64" y="750" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-88" edge="1" parent="1" source="TMRo_7EvBtRcHi7H_HGw-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TMRo_7EvBtRcHi7H_HGw-91" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-89" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="dscale&lt;div&gt;扩容接口传参&quot;&quot;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="120" x="910" y="700" as="geometry" />
+          <mxGeometry height="40" width="120" x="909.64" y="750" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-90" edge="1" parent="1" source="TMRo_7EvBtRcHi7H_HGw-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TMRo_7EvBtRcHi7H_HGw-92" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-91" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="podsconf&lt;div&gt;不增加alicloud字段(兼容cs)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="149" x="1070" y="700" as="geometry" />
+          <mxGeometry height="40" width="149" x="1069.64" y="750" as="geometry" />
         </mxCell>
-        <mxCell id="TMRo_7EvBtRcHi7H_HGw-92" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="galahad&lt;div&gt;无&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="120" x="1260" y="700" as="geometry" />
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-92" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" value="扩容" vertex="1">
+          <mxGeometry height="40" width="80.36" x="1259.64" y="750" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-93" edge="1" parent="1" source="TMRo_7EvBtRcHi7H_HGw-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TMRo_7EvBtRcHi7H_HGw-96" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-94" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="so&lt;div&gt;cloud-provider=&quot;&quot;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="120" x="750" y="910" as="geometry" />
+          <mxGeometry height="40" width="120" x="749.64" y="1060" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-95" edge="1" parent="1" source="TMRo_7EvBtRcHi7H_HGw-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TMRo_7EvBtRcHi7H_HGw-98" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-96" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="dscale&lt;div&gt;扩容接口传参&quot;&quot;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="120" x="900" y="910" as="geometry" />
+          <mxGeometry height="40" width="120" x="899.64" y="1060" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-110" edge="1" parent="1" source="TMRo_7EvBtRcHi7H_HGw-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TMRo_7EvBtRcHi7H_HGw-105" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-98" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" value="扩容" vertex="1">
-          <mxGeometry height="40" width="149" x="1050" y="910" as="geometry" />
+          <mxGeometry height="40" width="149" x="1049.64" y="1060" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-101" edge="1" parent="1" source="TMRo_7EvBtRcHi7H_HGw-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="TMRo_7EvBtRcHi7H_HGw-94" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-100" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="appconf&lt;div&gt;quota信息&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="140" x="740" y="820" as="geometry" />
+          <mxGeometry height="40" width="140" x="739.64" y="970" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-102" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="scaler-api" vertex="1">
-          <mxGeometry height="30" width="60" x="740" y="870" as="geometry" />
+          <mxGeometry height="30" width="60" x="739.64" y="1020" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-105" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" value="调度器决定扩容方向" vertex="1">
-          <mxGeometry height="40" width="149" x="1241" y="910" as="geometry" />
+          <mxGeometry height="40" width="149" x="1240.64" y="1060" as="geometry" />
         </mxCell>
-        <mxCell id="TMRo_7EvBtRcHi7H_HGw-108" edge="1" parent="1" source="TMRo_7EvBtRcHi7H_HGw-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TMRo_7EvBtRcHi7H_HGw-98" value="">
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-108" edge="1" parent="1" source="TMRo_7EvBtRcHi7H_HGw-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="TMRo_7EvBtRcHi7H_HGw-98" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-106" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="webhook&lt;div style=&quot;text-align: left;&quot;&gt;增加resource-pool容忍&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="140" x="1054.5" y="820" as="geometry" />
+          <mxGeometry height="40" width="140" x="1054.14" y="970" as="geometry" />
         </mxCell>
-        <mxCell id="TMRo_7EvBtRcHi7H_HGw-109" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="webhook" vertex="1">
-          <mxGeometry height="30" width="60" x="1054.5" y="870" as="geometry" />
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-111" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="webhook&lt;div style=&quot;text-align: left;&quot;&gt;增加无状态资源池强亲和&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;增加无状态资源池容忍&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150.18" x="1229.82" y="830" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
