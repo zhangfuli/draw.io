@@ -263,6 +263,14 @@
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-123" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="scaler-api" vertex="1">
           <mxGeometry height="30" width="60" x="730" y="1110" as="geometry" />
         </mxCell>
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-127" edge="1" parent="1" source="TMRo_7EvBtRcHi7H_HGw-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1123.82" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-128" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="webhook&lt;div style=&quot;text-align: left;&quot;&gt;增加无状态资源池强亲和&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;增加无状态资源池容忍&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150.18" x="1048.82" y="1140" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
