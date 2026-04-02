@@ -110,7 +110,7 @@
           <mxGeometry height="27" width="188" x="1224" y="415" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="common" vertex="1">
-          <mxGeometry height="370" width="450" x="170" y="610" as="geometry" />
+          <mxGeometry height="400" width="450" x="170" y="610" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="idc" vertex="1">
           <mxGeometry height="330" width="80" x="190" y="640" as="geometry" />
@@ -152,6 +152,48 @@
             <mxPoint x="280" y="711" as="sourcePoint" />
             <mxPoint x="311" y="710" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-83" edge="1" parent="1" source="TMRo_7EvBtRcHi7H_HGw-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TMRo_7EvBtRcHi7H_HGw-79" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-78" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="so&lt;div&gt;cloud-region=alicoud&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="750" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-84" edge="1" parent="1" source="TMRo_7EvBtRcHi7H_HGw-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TMRo_7EvBtRcHi7H_HGw-80" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-79" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="dscale&lt;div&gt;扩容接口传参alicloud&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="910" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-85" edge="1" parent="1" source="TMRo_7EvBtRcHi7H_HGw-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TMRo_7EvBtRcHi7H_HGw-81" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-80" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="podsconf&lt;div&gt;新增的pod上增加alicloud&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="149" x="1070" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-81" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="galahad&lt;div&gt;增加强亲和cloud-region=alicloud&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="180" x="1260" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-86" edge="1" parent="1" source="TMRo_7EvBtRcHi7H_HGw-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TMRo_7EvBtRcHi7H_HGw-89" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-87" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="so&lt;div&gt;cloud-region=&quot;&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="750" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-88" edge="1" parent="1" source="TMRo_7EvBtRcHi7H_HGw-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TMRo_7EvBtRcHi7H_HGw-91" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-89" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="dscale&lt;div&gt;扩容接口传参&quot;&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="910" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-90" edge="1" parent="1" source="TMRo_7EvBtRcHi7H_HGw-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TMRo_7EvBtRcHi7H_HGw-92" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-91" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="podsconf&lt;div&gt;不增加alicloud字段(兼容cs)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="149" x="1070" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-92" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="galahad&lt;div&gt;无&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="180" x="1260" y="700" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
