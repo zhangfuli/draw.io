@@ -207,6 +207,9 @@
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-96" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="dscale&lt;div&gt;扩容接口传参&quot;&quot;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="900" y="910" as="geometry" />
         </mxCell>
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-110" edge="1" parent="1" source="TMRo_7EvBtRcHi7H_HGw-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TMRo_7EvBtRcHi7H_HGw-105" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-98" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" value="扩容" vertex="1">
           <mxGeometry height="40" width="149" x="1050" y="910" as="geometry" />
         </mxCell>
@@ -219,14 +222,17 @@
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-102" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="scaler-api" vertex="1">
           <mxGeometry height="30" width="60" x="740" y="870" as="geometry" />
         </mxCell>
-        <mxCell id="TMRo_7EvBtRcHi7H_HGw-104" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" value="调度器决定扩容方向" vertex="1">
-          <mxGeometry height="40" width="149" x="1219" y="840" as="geometry" />
-        </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-105" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" value="调度器决定扩容方向" vertex="1">
-          <mxGeometry height="40" width="149" x="1231" y="910" as="geometry" />
+          <mxGeometry height="40" width="149" x="1241" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-108" edge="1" parent="1" source="TMRo_7EvBtRcHi7H_HGw-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TMRo_7EvBtRcHi7H_HGw-98" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-106" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="webhook&lt;div style=&quot;text-align: left;&quot;&gt;增加resource-pool容忍&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="140" x="1050" y="820" as="geometry" />
+          <mxGeometry height="40" width="140" x="1054.5" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-109" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="webhook" vertex="1">
+          <mxGeometry height="30" width="60" x="1054.5" y="870" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
