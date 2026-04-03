@@ -115,7 +115,7 @@
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="idc" vertex="1">
           <mxGeometry height="330" width="80" x="190" y="640" as="geometry" />
         </mxCell>
-        <mxCell id="TMRo_7EvBtRcHi7H_HGw-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="云资源" vertex="1">
+        <mxCell id="TMRo_7EvBtRcHi7H_HGw-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="云资源(老方案)" vertex="1">
           <mxGeometry height="160" width="300" x="300" y="640" as="geometry" />
         </mxCell>
         <mxCell id="TMRo_7EvBtRcHi7H_HGw-61" edge="1" parent="1" source="TMRo_7EvBtRcHi7H_HGw-59" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.998;exitY=0.239;exitDx=0;exitDy=0;startArrow=classic;startFill=1;exitPerimeter=0;" target="TMRo_7EvBtRcHi7H_HGw-60" value="">
