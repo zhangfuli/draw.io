@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36">
   <diagram name="第 1 页" id="22OWwE8wKIvI9lql67EI">
-    <mxGraphModel dx="872" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="709" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -129,7 +129,7 @@
             <mxGeometry height="50" width="260" x="320" y="670" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div&gt;&quot;taints&quot;: [{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;key&quot;: &quot;ddcloud.didichuxing.com/resource-pool&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;value&quot;: &quot;cloud&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;effect&quot;: &quot;NoSchedule&quot;&lt;/div&gt;&lt;div&gt;}]&lt;/div&gt;" link="&quot;label&quot;:&#xa;&quot;ddcloud.didichuxing.com/cloud-provider&quot;: &quot;alicloud&quot;,&#xa;&quot;ddcloud.didichuxing.com/node-group-id&quot;: &quot;xxxx&quot; // cca筛选node用" id="TMRo_7EvBtRcHi7H_HGw-63">
+        <UserObject label="&lt;div&gt;&quot;taints&quot;: [{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;key&quot;: &quot;ddcloud.didichuxing.com/cloud-provider&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;value&quot;: &quot;alicloud&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;effect&quot;: &quot;NoSchedule&quot;&lt;/div&gt;&lt;div&gt;}]&lt;/div&gt;" link="&quot;label&quot;:&#xa;&quot;ddcloud.didichuxing.com/cloud-provider&quot;: &quot;alicloud&quot;,&#xa;&quot;ddcloud.didichuxing.com/node-group-id&quot;: &quot;xxxx&quot; // cca筛选node用" id="TMRo_7EvBtRcHi7H_HGw-63">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;fontSize=8;" vertex="1">
             <mxGeometry height="60" width="260" x="320" y="730" as="geometry" />
           </mxCell>
