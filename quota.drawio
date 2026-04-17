@@ -613,15 +613,8 @@
         <mxCell id="1YoI0QooXsVKf6vgRGbw-166" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;fontSize=8;" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;webhook增加容忍&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="-420" y="2240" as="geometry" />
         </mxCell>
-        <mxCell id="1YoI0QooXsVKf6vgRGbw-168" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="1YoI0QooXsVKf6vgRGbw-164" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points" />
-            <mxPoint x="-436" y="2095" as="sourcePoint" />
-            <mxPoint x="-503" y="2235" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1YoI0QooXsVKf6vgRGbw-164" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;fontSize=8;" value="未超quota" vertex="1">
-          <mxGeometry height="30" width="90" x="-568" y="2170" as="geometry" />
+          <mxGeometry height="30" width="90" x="-565" y="2170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
