@@ -283,7 +283,7 @@
         <mxCell id="1YoI0QooXsVKf6vgRGbw-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="idc common" vertex="1">
           <mxGeometry height="160" width="80" x="-30" y="1090" as="geometry" />
         </mxCell>
-        <mxCell id="1YoI0QooXsVKf6vgRGbw-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="云资源(复用老方案)" vertex="1">
+        <mxCell id="1YoI0QooXsVKf6vgRGbw-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="云资源(复用标号方案)" vertex="1">
           <mxGeometry height="160" width="300" x="80" y="1090" as="geometry" />
         </mxCell>
         <UserObject label="&quot;label&quot;:&lt;div&gt;&quot;ddcloud.didichuxing.com/cloud-provider&quot;: &quot;alicloud&quot;,&lt;br&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&quot;ddcloud.didichuxing.com/resource-pool&quot;: &quot;public-cloud&quot;,&lt;/font&gt;&lt;br&gt;&quot;ddcloud.didichuxing.com/node-group-id&quot;: &quot;xxxx&quot; // cca筛选node用&lt;/div&gt;" link="&quot;label&quot;:&#xa;&quot;ddcloud.didichuxing.com/cloud-provider&quot;: &quot;alicloud&quot;,&#xa;&quot;ddcloud.didichuxing.com/node-group-id&quot;: &quot;xxxx&quot; // cca筛选node用" id="1YoI0QooXsVKf6vgRGbw-8">
@@ -302,7 +302,7 @@
             <mxPoint x="91" y="1160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1YoI0QooXsVKf6vgRGbw-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="stateless" vertex="1">
+        <mxCell id="1YoI0QooXsVKf6vgRGbw-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="stateless资源池" vertex="1">
           <mxGeometry height="210" width="680" x="-30" y="1300" as="geometry" />
         </mxCell>
         <mxCell id="1YoI0QooXsVKf6vgRGbw-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="idc" vertex="1">
