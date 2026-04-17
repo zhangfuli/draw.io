@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36">
   <diagram name="第 1 页" id="22OWwE8wKIvI9lql67EI">
-    <mxGraphModel dx="1519" dy="351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1595" dy="389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -387,10 +387,10 @@
           <mxGeometry height="375" width="520" x="-700" y="1065" as="geometry" />
         </mxCell>
         <mxCell id="1YoI0QooXsVKf6vgRGbw-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="idc" vertex="1">
-          <mxGeometry height="325" width="160" x="-670" y="1095" as="geometry" />
+          <mxGeometry height="335" width="160" x="-670" y="1095" as="geometry" />
         </mxCell>
         <mxCell id="1YoI0QooXsVKf6vgRGbw-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="云资源(复用标号方案)" vertex="1">
-          <mxGeometry height="325" width="270" x="-490" y="1095" as="geometry" />
+          <mxGeometry height="335" width="270" x="-490" y="1095" as="geometry" />
         </mxCell>
         <UserObject label="&quot;label&quot;:&lt;div&gt;&quot;ddcloud.didichuxing.com/cloud-provider&quot;: &quot;alicloud&quot;,&lt;br&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&quot;ddcloud.didichuxing.com/resource-pool&quot;: &quot;public-cloud&quot;,&lt;/font&gt;&lt;br&gt;&quot;ddcloud.didichuxing.com/node-group-id&quot;: &quot;xxxx&quot; // cca筛选node用&lt;/div&gt;" link="&quot;label&quot;:&#xa;&quot;ddcloud.didichuxing.com/cloud-provider&quot;: &quot;alicloud&quot;,&#xa;&quot;ddcloud.didichuxing.com/node-group-id&quot;: &quot;xxxx&quot; // cca筛选node用" id="1YoI0QooXsVKf6vgRGbw-40">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;fontSize=8;" vertex="1">
@@ -470,6 +470,21 @@
             <mxPoint x="-530" y="1310" as="sourcePoint" />
             <mxPoint x="-480" y="1260" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1YoI0QooXsVKf6vgRGbw-65" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;fontSize=8;" value="超过quota" vertex="1">
+          <mxGeometry height="30" width="80" x="-580" y="1350" as="geometry" />
+        </mxCell>
+        <mxCell id="1YoI0QooXsVKf6vgRGbw-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="20" x="-550" y="1390" as="geometry" />
+        </mxCell>
+        <mxCell id="1YoI0QooXsVKf6vgRGbw-67" edge="1" parent="1" source="1YoI0QooXsVKf6vgRGbw-57" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="1YoI0QooXsVKf6vgRGbw-66" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-590" y="1370" as="sourcePoint" />
+            <mxPoint x="-430" y="1270.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YoI0QooXsVKf6vgRGbw-68" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;fontSize=8;" value="未超quota" vertex="1">
+          <mxGeometry height="30" width="80" x="-630" y="1390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
