@@ -435,8 +435,8 @@
             <mxPoint x="-520" y="1257.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1YoI0QooXsVKf6vgRGbw-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;fontSize=8;" value="大于最小容器数" vertex="1">
-          <mxGeometry height="30" width="60" x="-560" y="1250" as="geometry" />
+        <mxCell id="1YoI0QooXsVKf6vgRGbw-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;fontSize=8;" value="&lt;div&gt;odin扩容接口&lt;/div&gt;大于最小容器数" vertex="1">
+          <mxGeometry height="30" width="60" x="-560" y="1290" as="geometry" />
         </mxCell>
         <mxCell id="1YoI0QooXsVKf6vgRGbw-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;fontSize=8;" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;galahad增加&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;强亲和+容忍&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="-479.99999999999994" y="1292.5" as="geometry" />
