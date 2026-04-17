@@ -605,7 +605,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1YoI0QooXsVKf6vgRGbw-163" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;fontSize=8;" value="超quota" vertex="1">
-          <mxGeometry height="30" width="90" x="-463" y="2200" as="geometry" />
+          <mxGeometry height="30" width="90" x="-463" y="2170" as="geometry" />
         </mxCell>
         <mxCell id="1YoI0QooXsVKf6vgRGbw-164" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;fontSize=8;" value="未超quota" vertex="1">
           <mxGeometry height="30" width="90" x="-570" y="2170" as="geometry" />
