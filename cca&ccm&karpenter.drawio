@@ -1037,10 +1037,10 @@
         <mxCell id="PSHA2mxbHZbSST4MrS8f-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="us05 master" vertex="1">
           <mxGeometry height="40" width="112" x="1089" y="915.56" as="geometry" />
         </mxCell>
-        <mxCell id="PSHA2mxbHZbSST4MrS8f-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="us01 node" vertex="1">
+        <mxCell id="PSHA2mxbHZbSST4MrS8f-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="node-1.us01" vertex="1">
           <mxGeometry height="36" width="87" x="1255" y="774" as="geometry" />
         </mxCell>
-        <mxCell id="PSHA2mxbHZbSST4MrS8f-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="us05 node" vertex="1">
+        <mxCell id="PSHA2mxbHZbSST4MrS8f-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="node-1.us05" vertex="1">
           <mxGeometry height="36" width="87" x="1257" y="899.56" as="geometry" />
         </mxCell>
       </root>
