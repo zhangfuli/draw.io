@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36">
   <diagram name="第 1 页" id="36RgzYje6eGZbE3Gu0CY">
-    <mxGraphModel dx="1447" dy="897" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1256" dy="807" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PSHA2mxbHZbSST4MrS8f-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="美东idc" vertex="1">
-          <mxGeometry height="350" width="167" x="1081" y="720" as="geometry" />
+          <mxGeometry height="366" width="167" x="1081" y="720" as="geometry" />
         </mxCell>
         <mxCell id="PSHA2mxbHZbSST4MrS8f-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="阿里云弗吉尼亚(vpc)" vertex="1">
           <mxGeometry height="210.5" width="328.04" x="1293" y="723" as="geometry" />
@@ -1100,6 +1100,32 @@
         </mxCell>
         <mxCell id="PSHA2mxbHZbSST4MrS8f-13" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;fontSize=9;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=0;pointerEvents=1;align=left;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;label: cloud-region:alus05&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; cloud-provider:alicloud&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;taint: &lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 51, 51), rgb(237, 237, 237));&quot;&gt;cloud-provider:alicloud&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="43" width="125" x="1447.04" y="875.44" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHA2mxbHZbSST4MrS8f-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="腾讯云弗吉尼亚(vpc)" vertex="1">
+          <mxGeometry height="135" width="328.04" x="1293" y="947" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHA2mxbHZbSST4MrS8f-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" value="vswitch-1" vertex="1">
+          <mxGeometry height="81.44" width="285" x="1309" y="986" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHA2mxbHZbSST4MrS8f-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="node-2.alus01" vertex="1">
+          <mxGeometry height="36" width="87" x="1341" y="1024.65" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHA2mxbHZbSST4MrS8f-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="node-3.txus05" vertex="1">
+          <mxGeometry height="36" width="87" x="1335" y="1017.6500000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHA2mxbHZbSST4MrS8f-35" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;fontSize=8;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=0;pointerEvents=1;align=left;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;label: cloud-region:txus05&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; cloud-provider:tencentcloud&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;taint: &lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;cloud-provider: tencentcloud&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="42.35" width="130" x="1447.04" y="1017.6500000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHA2mxbHZbSST4MrS8f-37" edge="1" parent="1" source="PSHA2mxbHZbSST4MrS8f-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="PSHA2mxbHZbSST4MrS8f-33" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1229" y="961" as="sourcePoint" />
+            <mxPoint x="1361" y="923" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PSHA2mxbHZbSST4MrS8f-38" connectable="0" parent="PSHA2mxbHZbSST4MrS8f-37" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="0.6ms" vertex="1">
+          <mxGeometry relative="1" x="-0.1049" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
