@@ -22,14 +22,14 @@
         <mxCell id="lu3MfC3sR0iq_krrs6OE-2" parent="lu3MfC3sR0iq_krrs6OE-6" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="实例" vertex="1">
           <mxGeometry height="35" width="99.5" as="geometry" />
         </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-12" parent="lu3MfC3sR0iq_krrs6OE-6" style="rounded=0;whiteSpace=wrap;html=1;" value="C" vertex="1">
+          <mxGeometry height="12" width="21" x="78.5" as="geometry" />
+        </mxCell>
         <mxCell id="lu3MfC3sR0iq_krrs6OE-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="G" vertex="1">
           <mxGeometry height="29" width="58" x="65" y="94" as="geometry" />
         </mxCell>
         <mxCell id="lu3MfC3sR0iq_krrs6OE-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="S" vertex="1">
-          <mxGeometry height="29" width="58" x="65" y="151" as="geometry" />
-        </mxCell>
-        <mxCell id="lu3MfC3sR0iq_krrs6OE-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="C" vertex="1">
-          <mxGeometry height="29" width="58" x="65" y="217" as="geometry" />
+          <mxGeometry height="12" width="21" x="310" y="154" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
