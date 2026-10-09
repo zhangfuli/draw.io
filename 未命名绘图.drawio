@@ -47,7 +47,7 @@
           <mxGeometry height="26" width="53" x="438" y="243" as="geometry" />
         </mxCell>
         <mxCell id="lu3MfC3sR0iq_krrs6OE-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据源" vertex="1">
-          <mxGeometry height="35" width="104" x="224.75" y="343" as="geometry" />
+          <mxGeometry height="35" width="79.25" x="210.62" y="353" as="geometry" />
         </mxCell>
         <mxCell id="lu3MfC3sR0iq_krrs6OE-22" edge="1" parent="1" source="lu3MfC3sR0iq_krrs6OE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="lu3MfC3sR0iq_krrs6OE-20" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -63,6 +63,27 @@
             <mxPoint x="233" y="184" as="sourcePoint" />
             <mxPoint x="233" y="246" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-33" edge="1" parent="1" source="lu3MfC3sR0iq_krrs6OE-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lu3MfC3sR0iq_krrs6OE-31" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="配置中心" vertex="1">
+          <mxGeometry height="35" width="79.25" x="334" y="349" as="geometry" />
+        </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-32" edge="1" parent="1" source="lu3MfC3sR0iq_krrs6OE-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lu3MfC3sR0iq_krrs6OE-28" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据源" vertex="1">
+          <mxGeometry height="35" width="79.25" x="206" y="349" as="geometry" />
+        </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据源" vertex="1">
+          <mxGeometry height="35" width="79.25" x="201" y="343" as="geometry" />
+        </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="swan-agent" vertex="1">
+          <mxGeometry height="35" width="79.25" x="463" y="349" as="geometry" />
+        </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="kube-agent" vertex="1">
+          <mxGeometry height="35" width="79.25" x="584" y="349" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
