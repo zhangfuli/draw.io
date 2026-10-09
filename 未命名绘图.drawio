@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="CnMuOcllTcUy6tRItTnM">
-    <mxGraphModel dx="576" dy="273" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="701" dy="333" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,9 +46,6 @@
         <mxCell id="lu3MfC3sR0iq_krrs6OE-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="observe-agent" vertex="1">
           <mxGeometry height="26" width="53" x="438" y="243" as="geometry" />
         </mxCell>
-        <mxCell id="lu3MfC3sR0iq_krrs6OE-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据源" vertex="1">
-          <mxGeometry height="35" width="79.25" x="158.62" y="354" as="geometry" />
-        </mxCell>
         <mxCell id="lu3MfC3sR0iq_krrs6OE-22" edge="1" parent="1" source="lu3MfC3sR0iq_krrs6OE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="lu3MfC3sR0iq_krrs6OE-20" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -68,34 +65,45 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lu3MfC3sR0iq_krrs6OE-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="配置中心" vertex="1">
-          <mxGeometry height="35" width="79.25" x="282" y="350" as="geometry" />
+          <mxGeometry height="35" width="79.25" x="285" y="349" as="geometry" />
         </mxCell>
-        <mxCell id="lu3MfC3sR0iq_krrs6OE-32" edge="1" parent="1" source="lu3MfC3sR0iq_krrs6OE-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lu3MfC3sR0iq_krrs6OE-28" value="">
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-32" edge="1" parent="1" source="lu3MfC3sR0iq_krrs6OE-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lu3MfC3sR0iq_krrs6OE-28" value="">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lu3MfC3sR0iq_krrs6OE-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据源" vertex="1">
-          <mxGeometry height="35" width="79.25" x="154" y="350" as="geometry" />
-        </mxCell>
-        <mxCell id="lu3MfC3sR0iq_krrs6OE-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据源" vertex="1">
-          <mxGeometry height="35" width="79.25" x="149" y="344" as="geometry" />
         </mxCell>
         <mxCell id="lu3MfC3sR0iq_krrs6OE-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="swan-agent" vertex="1">
-          <mxGeometry height="35" width="79.25" x="463" y="349" as="geometry" />
+          <mxGeometry height="35" width="79.25" x="481" y="349" as="geometry" />
         </mxCell>
-        <mxCell id="lu3MfC3sR0iq_krrs6OE-35" edge="1" parent="1" source="lu3MfC3sR0iq_krrs6OE-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lu3MfC3sR0iq_krrs6OE-31" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2、获取node上container S、C节点" vertex="1">
+          <mxGeometry height="30" width="118" x="373" y="411" as="geometry" />
         </mxCell>
-        <mxCell id="lu3MfC3sR0iq_krrs6OE-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="kube-agent" vertex="1">
-          <mxGeometry height="35" width="79.25" x="686" y="349" as="geometry" />
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3、获取node上container 日志路径" vertex="1">
+          <mxGeometry height="30" width="118" x="371.88" y="457" as="geometry" />
         </mxCell>
-        <mxCell id="lu3MfC3sR0iq_krrs6OE-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="获取node上contaiener S C节点" vertex="1">
-          <mxGeometry height="30" width="118" x="555" y="325" as="geometry" />
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1、获取需要采集的S、C节点" vertex="1">
+          <mxGeometry height="30" width="86.12" x="371.88" y="327" as="geometry" />
         </mxCell>
-        <mxCell id="lu3MfC3sR0iq_krrs6OE-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="获取node上contaiener 日志路径" vertex="1">
-          <mxGeometry height="30" width="118" x="558" y="378" as="geometry" />
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-39" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="42" width="104" x="143.87" y="345" as="geometry" />
         </mxCell>
-        <mxCell id="lu3MfC3sR0iq_krrs6OE-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="获取需要采集的c节点" vertex="1">
-          <mxGeometry height="30" width="79.25" x="371.88" y="327" as="geometry" />
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-27" parent="lu3MfC3sR0iq_krrs6OE-39" style="rounded=0;whiteSpace=wrap;html=1;" value="数据源" vertex="1">
+          <mxGeometry height="32.666666666666664" width="92.74220771914031" x="11.257792280859688" y="9.333333333333334" as="geometry" />
+        </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-29" parent="lu3MfC3sR0iq_krrs6OE-39" style="rounded=0;whiteSpace=wrap;html=1;" value="数据源" vertex="1">
+          <mxGeometry height="32.666666666666664" width="92.74220771914031" x="5.851243389220208" y="5.6" as="geometry" />
+        </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-30" parent="lu3MfC3sR0iq_krrs6OE-39" style="rounded=0;whiteSpace=wrap;html=1;" value="数据源&lt;div&gt;(配置S、C节点)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="32.666666666666664" width="92.74220771914031" as="geometry" />
+        </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-42" edge="1" parent="1" source="lu3MfC3sR0iq_krrs6OE-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="lu3MfC3sR0iq_krrs6OE-31" value="">
+          <mxGeometry relative="1" x="-0.6056" as="geometry">
+            <mxPoint x="441.25" y="445.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="kube-agent" vertex="1">
+          <mxGeometry height="35" width="79.25" x="282" y="428" as="geometry" />
+        </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="container" vertex="1">
+          <mxGeometry height="35" width="79.25" x="143.87" y="431" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
