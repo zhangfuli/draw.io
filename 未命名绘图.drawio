@@ -82,8 +82,14 @@
         <mxCell id="lu3MfC3sR0iq_krrs6OE-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="swan-agent" vertex="1">
           <mxGeometry height="35" width="79.25" x="463" y="349" as="geometry" />
         </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-35" edge="1" parent="1" source="lu3MfC3sR0iq_krrs6OE-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lu3MfC3sR0iq_krrs6OE-31" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lu3MfC3sR0iq_krrs6OE-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="kube-agent" vertex="1">
-          <mxGeometry height="35" width="79.25" x="584" y="349" as="geometry" />
+          <mxGeometry height="35" width="79.25" x="686" y="349" as="geometry" />
+        </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="获取node上contaiener S C节点" vertex="1">
+          <mxGeometry height="30" width="118" x="555" y="325" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
