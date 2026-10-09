@@ -34,9 +34,6 @@
         <mxCell id="lu3MfC3sR0iq_krrs6OE-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="S" vertex="1">
           <mxGeometry height="12" width="21" x="227" y="154" as="geometry" />
         </mxCell>
-        <mxCell id="lu3MfC3sR0iq_krrs6OE-22" edge="1" parent="1" source="lu3MfC3sR0iq_krrs6OE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="lu3MfC3sR0iq_krrs6OE-20" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="lu3MfC3sR0iq_krrs6OE-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="bsbx CR" vertex="1">
           <mxGeometry height="35" width="118" x="379" y="154" as="geometry" />
         </mxCell>
@@ -48,6 +45,12 @@
         </mxCell>
         <mxCell id="lu3MfC3sR0iq_krrs6OE-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="observe-agent" vertex="1">
           <mxGeometry height="26" width="53" x="438" y="243" as="geometry" />
+        </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据源" vertex="1">
+          <mxGeometry height="35" width="104" x="224.75" y="343" as="geometry" />
+        </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-22" edge="1" parent="1" source="lu3MfC3sR0iq_krrs6OE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="lu3MfC3sR0iq_krrs6OE-20" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lu3MfC3sR0iq_krrs6OE-24" edge="1" parent="1" source="lu3MfC3sR0iq_krrs6OE-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;strokeColor=#b85450;strokeWidth=2;dashPattern=1 1;entryX=0.433;entryY=-0.087;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;fillColor=#f8cecc;" target="lu3MfC3sR0iq_krrs6OE-12" value="">
           <mxGeometry relative="1" x="-0.6902" as="geometry">
