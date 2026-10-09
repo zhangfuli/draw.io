@@ -47,7 +47,7 @@
           <mxGeometry height="26" width="53" x="438" y="243" as="geometry" />
         </mxCell>
         <mxCell id="lu3MfC3sR0iq_krrs6OE-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据源" vertex="1">
-          <mxGeometry height="35" width="79.25" x="210.62" y="353" as="geometry" />
+          <mxGeometry height="35" width="79.25" x="158.62" y="354" as="geometry" />
         </mxCell>
         <mxCell id="lu3MfC3sR0iq_krrs6OE-22" edge="1" parent="1" source="lu3MfC3sR0iq_krrs6OE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="lu3MfC3sR0iq_krrs6OE-20" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -68,16 +68,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lu3MfC3sR0iq_krrs6OE-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="配置中心" vertex="1">
-          <mxGeometry height="35" width="79.25" x="334" y="349" as="geometry" />
+          <mxGeometry height="35" width="79.25" x="282" y="350" as="geometry" />
         </mxCell>
         <mxCell id="lu3MfC3sR0iq_krrs6OE-32" edge="1" parent="1" source="lu3MfC3sR0iq_krrs6OE-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lu3MfC3sR0iq_krrs6OE-28" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lu3MfC3sR0iq_krrs6OE-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据源" vertex="1">
-          <mxGeometry height="35" width="79.25" x="206" y="349" as="geometry" />
+          <mxGeometry height="35" width="79.25" x="154" y="350" as="geometry" />
         </mxCell>
         <mxCell id="lu3MfC3sR0iq_krrs6OE-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据源" vertex="1">
-          <mxGeometry height="35" width="79.25" x="201" y="343" as="geometry" />
+          <mxGeometry height="35" width="79.25" x="149" y="344" as="geometry" />
         </mxCell>
         <mxCell id="lu3MfC3sR0iq_krrs6OE-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="swan-agent" vertex="1">
           <mxGeometry height="35" width="79.25" x="463" y="349" as="geometry" />
@@ -90,6 +90,12 @@
         </mxCell>
         <mxCell id="lu3MfC3sR0iq_krrs6OE-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="获取node上contaiener S C节点" vertex="1">
           <mxGeometry height="30" width="118" x="555" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="获取node上contaiener 日志路径" vertex="1">
+          <mxGeometry height="30" width="118" x="558" y="378" as="geometry" />
+        </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="获取需要采集的c节点" vertex="1">
+          <mxGeometry height="30" width="79.25" x="371.88" y="327" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
