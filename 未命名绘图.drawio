@@ -164,8 +164,8 @@
         <mxCell id="lu3MfC3sR0iq_krrs6OE-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="/metrics&lt;div&gt;自定义指标&lt;/div&gt;" vertex="1">
           <mxGeometry height="35" width="97.12" x="147.31" y="735" as="geometry" />
         </mxCell>
-        <mxCell id="lu3MfC3sR0iq_krrs6OE-62" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="动态加载" vertex="1">
-          <mxGeometry height="30" width="60" x="260" y="751" as="geometry" />
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-62" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="热加载" vertex="1">
+          <mxGeometry height="30" width="60" x="254" y="752" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
