@@ -114,14 +114,29 @@
         <mxCell id="lu3MfC3sR0iq_krrs6OE-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="container env" vertex="1">
           <mxGeometry height="35" width="79.25" x="136" y="421" as="geometry" />
         </mxCell>
-        <mxCell id="lu3MfC3sR0iq_krrs6OE-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="kube-agent" vertex="1">
-          <mxGeometry height="35" width="79.25" x="147" y="589" as="geometry" />
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="kubelet/cAdvisor" vertex="1">
+          <mxGeometry height="35" width="97.12" x="147" y="589" as="geometry" />
         </mxCell>
         <mxCell id="lu3MfC3sR0iq_krrs6OE-48" edge="1" parent="1" source="lu3MfC3sR0iq_krrs6OE-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lu3MfC3sR0iq_krrs6OE-47" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lu3MfC3sR0iq_krrs6OE-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="kafaka" vertex="1">
           <mxGeometry height="35" width="79.25" x="616" y="349" as="geometry" />
+        </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="kubelet/cAdvisor" vertex="1">
+          <mxGeometry height="35" width="97.12" x="143.87" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="kubelet/cAdvisor" vertex="1">
+          <mxGeometry height="35" width="97.12" x="139.49" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="node-exporter" vertex="1">
+          <mxGeometry height="35" width="97.12" x="145.34" y="638" as="geometry" />
+        </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="kube-state-metrics" vertex="1">
+          <mxGeometry height="35" width="97.12" x="145.34" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="vmagent" vertex="1">
+          <mxGeometry height="35" width="97.12" x="319" y="638" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
