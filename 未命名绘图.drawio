@@ -206,13 +206,22 @@
           <mxGeometry height="26" width="53" x="473" y="1008" as="geometry" />
         </mxCell>
         <mxCell id="lu3MfC3sR0iq_krrs6OE-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;verticalAlign=top;" value="Pod" vertex="1">
-          <mxGeometry height="128" width="150" x="180" y="1180" as="geometry" />
+          <mxGeometry height="139" width="150" x="180" y="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-87" edge="1" parent="1" source="lu3MfC3sR0iq_krrs6OE-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lu3MfC3sR0iq_krrs6OE-86" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lu3MfC3sR0iq_krrs6OE-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="PodA" vertex="1">
           <mxGeometry height="26" width="53" x="196" y="1220" as="geometry" />
         </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-88" edge="1" parent="1" source="lu3MfC3sR0iq_krrs6OE-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lu3MfC3sR0iq_krrs6OE-86" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lu3MfC3sR0iq_krrs6OE-85" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="PodB" vertex="1">
           <mxGeometry height="26" width="53" x="266" y="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-86" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="Beyla&lt;br&gt;daemonset" vertex="1">
+          <mxGeometry height="26" width="53" x="229.64" y="1282" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
