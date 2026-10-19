@@ -178,6 +178,9 @@
         <mxCell id="lu3MfC3sR0iq_krrs6OE-69" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="loki" vertex="1">
           <mxGeometry height="35" width="87.45" x="504" y="830" as="geometry" />
         </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="113" width="108" x="147" y="948" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
