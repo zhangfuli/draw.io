@@ -268,13 +268,13 @@
         <mxCell id="lu3MfC3sR0iq_krrs6OE-104" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="短信" vertex="1">
           <mxGeometry height="26" width="53" x="469" y="1120" as="geometry" />
         </mxCell>
-        <mxCell id="lu3MfC3sR0iq_krrs6OE-101" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="grafana&lt;div&gt;notification&lt;/div&gt;" vertex="1">
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-101" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="&lt;div&gt;agent space&lt;/div&gt;" vertex="1">
           <mxGeometry height="26" width="69" x="168" y="1096" as="geometry" />
         </mxCell>
         <mxCell id="lu3MfC3sR0iq_krrs6OE-110" edge="1" parent="1" source="lu3MfC3sR0iq_krrs6OE-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lu3MfC3sR0iq_krrs6OE-102" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lu3MfC3sR0iq_krrs6OE-108" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="agent space" vertex="1">
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-108" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 9px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;grafana&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 9px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;alerting&lt;/div&gt;" vertex="1">
           <mxGeometry height="26" width="69" x="279" y="1096" as="geometry" />
         </mxCell>
         <mxCell id="lu3MfC3sR0iq_krrs6OE-106" edge="1" parent="1" source="lu3MfC3sR0iq_krrs6OE-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lu3MfC3sR0iq_krrs6OE-104" value="">
