@@ -292,8 +292,8 @@
         <mxCell id="lu3MfC3sR0iq_krrs6OE-111" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=8;" value="嵌套或api" vertex="1">
           <mxGeometry height="15" width="41.14" x="99" y="920" as="geometry" />
         </mxCell>
-        <mxCell id="lu3MfC3sR0iq_krrs6OE-112" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="DNSServer(tcp/udp)&lt;div&gt;:15353&lt;/div&gt;" vertex="1">
-          <mxGeometry height="33" width="85.59" x="147" y="1216" as="geometry" />
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-112" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="应用发起DNS查询&lt;div&gt;TCP/UDP&lt;/div&gt;" vertex="1">
+          <mxGeometry height="33" width="85.59" x="491.64" y="1282.5" as="geometry" />
         </mxCell>
         <mxCell id="lu3MfC3sR0iq_krrs6OE-121" edge="1" parent="1" source="lu3MfC3sR0iq_krrs6OE-113" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="lu3MfC3sR0iq_krrs6OE-114" value="">
           <mxGeometry relative="1" as="geometry" />
