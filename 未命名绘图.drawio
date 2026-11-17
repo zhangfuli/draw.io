@@ -293,7 +293,7 @@
           <mxGeometry height="15" width="41.14" x="99" y="920" as="geometry" />
         </mxCell>
         <mxCell id="lu3MfC3sR0iq_krrs6OE-112" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="DNSServer(tcp/udp)&lt;div&gt;:15353&lt;/div&gt;" vertex="1">
-          <mxGeometry height="33" width="85.59" x="149" y="1286" as="geometry" />
+          <mxGeometry height="33" width="85.59" x="144.64" y="1252" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
