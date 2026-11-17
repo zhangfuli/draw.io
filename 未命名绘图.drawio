@@ -295,8 +295,14 @@
         <mxCell id="lu3MfC3sR0iq_krrs6OE-112" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="DNSServer(tcp/udp)&lt;div&gt;:15353&lt;/div&gt;" vertex="1">
           <mxGeometry height="33" width="85.59" x="147" y="1216" as="geometry" />
         </mxCell>
-        <mxCell id="lu3MfC3sR0iq_krrs6OE-113" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="initialRules" vertex="1">
-          <mxGeometry height="26" width="63.41" x="234.59" y="1293" as="geometry" />
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-113" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="读取策略文件initialRules或环境变量" vertex="1">
+          <mxGeometry height="26" width="103" x="200" y="1284" as="geometry" />
+        </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-114" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="读取deny.always/allow.always" vertex="1">
+          <mxGeometry height="26" width="106" x="200" y="1341" as="geometry" />
+        </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-115" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="DiscoverUpstreams&lt;div&gt;环境变量、resolv.conf&lt;/div&gt;&lt;div&gt;8.8.8.8:53, 并持续探活&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="106" x="198.5" y="1403" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
