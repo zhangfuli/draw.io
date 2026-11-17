@@ -292,6 +292,9 @@
         <mxCell id="lu3MfC3sR0iq_krrs6OE-111" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=8;" value="嵌套或api" vertex="1">
           <mxGeometry height="15" width="41.14" x="99" y="920" as="geometry" />
         </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-135" edge="1" parent="1" source="lu3MfC3sR0iq_krrs6OE-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="lu3MfC3sR0iq_krrs6OE-128" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lu3MfC3sR0iq_krrs6OE-112" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="应用发起DNS查询&lt;div&gt;TCP/UDP&lt;/div&gt;" vertex="1">
           <mxGeometry height="26" width="106" x="491.64" y="1286" as="geometry" />
         </mxCell>
@@ -330,14 +333,45 @@
         <mxCell id="lu3MfC3sR0iq_krrs6OE-120" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;dashed=1;" value="30s探活更新activeUpstream" vertex="1">
           <mxGeometry height="26" width="106" x="331" y="1389" as="geometry" />
         </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-137" edge="1" parent="1" source="lu3MfC3sR0iq_krrs6OE-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lu3MfC3sR0iq_krrs6OE-131" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lu3MfC3sR0iq_krrs6OE-128" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="iptables把53端口转到15353" vertex="1">
           <mxGeometry height="26" width="106" x="491.64" y="1338" as="geometry" />
         </mxCell>
         <mxCell id="lu3MfC3sR0iq_krrs6OE-130" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="Evaluate域名" vertex="1">
           <mxGeometry height="26" width="106" x="491.64" y="1441" as="geometry" />
         </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-136" edge="1" parent="1" source="lu3MfC3sR0iq_krrs6OE-130" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;edgeStyle=orthogonalEdgeStyle;" target="lu3MfC3sR0iq_krrs6OE-133" value="">
+          <mxGeometry relative="1" x="0.0125" as="geometry" />
+        </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-141" connectable="0" parent="lu3MfC3sR0iq_krrs6OE-136" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="allow" vertex="1">
+          <mxGeometry relative="1" x="0.0388" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-138" edge="1" parent="1" source="lu3MfC3sR0iq_krrs6OE-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="lu3MfC3sR0iq_krrs6OE-130" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lu3MfC3sR0iq_krrs6OE-131" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="dns解包/Question为空？" vertex="1">
           <mxGeometry height="26" width="106" x="491.64" y="1390" as="geometry" />
+        </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-132" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="回NXDOMAIN不访问上游" vertex="1">
+          <mxGeometry height="26" width="106" x="417" y="1509" as="geometry" />
+        </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-133" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="按照activeUpstreams顺序询问" vertex="1">
+          <mxGeometry height="26" width="106" x="571" y="1509" as="geometry" />
+        </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-139" edge="1" parent="1" source="lu3MfC3sR0iq_krrs6OE-130" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="lu3MfC3sR0iq_krrs6OE-132" value="">
+          <mxGeometry relative="1" x="0.0125" as="geometry">
+            <mxPoint x="572" y="1482" as="sourcePoint" />
+            <mxPoint x="660" y="1522" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-140" connectable="0" parent="lu3MfC3sR0iq_krrs6OE-139" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="deny" vertex="1">
+          <mxGeometry relative="1" x="0.0654" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
