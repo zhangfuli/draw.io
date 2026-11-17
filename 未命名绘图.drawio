@@ -4,6 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-147" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="" vertex="1">
+          <mxGeometry height="395" width="287" x="406" y="1259" as="geometry" />
+        </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-146" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="" vertex="1">
+          <mxGeometry height="395" width="246" x="160" y="1259" as="geometry" />
+        </mxCell>
         <mxCell id="lu3MfC3sR0iq_krrs6OE-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;verticalAlign=top;" value="Pod" vertex="1">
           <mxGeometry height="56" width="118" x="379" y="218" as="geometry" />
         </mxCell>
@@ -331,7 +337,7 @@
           <mxGeometry height="26" width="106" x="198.5" y="1494" as="geometry" />
         </mxCell>
         <mxCell id="lu3MfC3sR0iq_krrs6OE-120" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;dashed=1;" value="30s探活更新activeUpstream" vertex="1">
-          <mxGeometry height="26" width="106" x="331" y="1389" as="geometry" />
+          <mxGeometry height="26" width="77" x="319" y="1389" as="geometry" />
         </mxCell>
         <mxCell id="lu3MfC3sR0iq_krrs6OE-137" edge="1" parent="1" source="lu3MfC3sR0iq_krrs6OE-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lu3MfC3sR0iq_krrs6OE-131" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -357,7 +363,7 @@
           <mxGeometry height="26" width="106" x="491.64" y="1390" as="geometry" />
         </mxCell>
         <mxCell id="lu3MfC3sR0iq_krrs6OE-132" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="回NXDOMAIN不访问上游" vertex="1">
-          <mxGeometry height="26" width="106" x="417" y="1509" as="geometry" />
+          <mxGeometry height="26" width="106" x="414" y="1509" as="geometry" />
         </mxCell>
         <mxCell id="lu3MfC3sR0iq_krrs6OE-143" edge="1" parent="1" source="lu3MfC3sR0iq_krrs6OE-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lu3MfC3sR0iq_krrs6OE-142" value="">
           <mxGeometry relative="1" as="geometry" />
