@@ -359,6 +359,9 @@
         <mxCell id="lu3MfC3sR0iq_krrs6OE-132" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="回NXDOMAIN不访问上游" vertex="1">
           <mxGeometry height="26" width="106" x="417" y="1509" as="geometry" />
         </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-143" edge="1" parent="1" source="lu3MfC3sR0iq_krrs6OE-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lu3MfC3sR0iq_krrs6OE-142" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lu3MfC3sR0iq_krrs6OE-133" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="按照activeUpstreams顺序询问" vertex="1">
           <mxGeometry height="26" width="106" x="571" y="1509" as="geometry" />
         </mxCell>
@@ -372,6 +375,9 @@
           <mxGeometry relative="1" x="0.0654" y="-2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lu3MfC3sR0iq_krrs6OE-142" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="解析出的IP加入nftables" vertex="1">
+          <mxGeometry height="26" width="106" x="571" y="1562" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
